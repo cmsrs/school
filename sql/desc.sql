@@ -2,17 +2,17 @@
 -- dane w postaci płaskiej tabeli
 --
 mysql> SELECT 
-    ->     s.id AS student_id,
-    ->     s.first_name AS first_name,
-    ->     s.last_name AS last_name,
-    ->     c.name AS class_name,
-    ->     GROUP_CONCAT(gd.grade_value ORDER BY sg.grade_date SEPARATOR ', ') AS grades
-    -> FROM students s
-    -> LEFT JOIN classes c ON s.class_id = c.id
-    -> LEFT JOIN student_grades sg ON s.id = sg.student_id
-    -> LEFT JOIN grades_dictionary gd ON sg.grade_id = gd.id
-    -> GROUP BY s.id
-    -> ORDER BY c.name, s.id;
+         s.id AS student_id,
+         s.first_name AS first_name,
+         s.last_name AS last_name,
+         c.name AS class_name,
+         GROUP_CONCAT(gd.grade_value ORDER BY sg.grade_date SEPARATOR ', ') AS grades
+     FROM students s
+     LEFT JOIN classes c ON s.class_id = c.id
+     LEFT JOIN student_grades sg ON s.id = sg.student_id
+     LEFT JOIN grades_dictionary gd ON sg.grade_id = gd.id
+     GROUP BY s.id
+     ORDER BY c.name, s.id;
 +------------+------------+-----------+------------+-------------------------+
 | student_id | first_name | last_name | class_name | grades                  |
 +------------+------------+-----------+------------+-------------------------+
@@ -91,11 +91,11 @@ mysql> SELECT * FROM `student_grades`;
 
 -- Wyświetlenie wszystkich uczniów z ich klasami (w tym tych bez klasy):
 mysql> SELECT 
-    ->     s.first_name, 
-    ->     s.last_name, 
-    ->     c.name AS class
-    -> FROM students s
-    -> LEFT JOIN classes c ON s.class_id = c.id;
+         s.first_name, 
+         s.last_name, 
+         c.name AS class
+     FROM students s
+     LEFT JOIN classes c ON s.class_id = c.id;
 +------------+-----------+-------+
 | first_name | last_name | class |
 +------------+-----------+-------+
@@ -126,16 +126,16 @@ mysql> SELECT  s.first_name, s.last_name, c.name AS class FROM students s INNER 
 
 -- Wyświetlenie uczniów z ich ocenami (w tym tych bez ocen):
 mysql>  SELECT 
-    ->       c.name,
-    ->               s.first_name, 
-    ->               s.last_name, 
-    ->               gd.grade_value, 
-    ->               gd.description, 
-    ->               sg.grade_date
-    ->           FROM students s
-    ->           LEFT JOIN classes c ON s.class_id = c.id
-    ->           LEFT JOIN student_grades sg ON s.id = sg.student_id
-    ->           LEFT JOIN grades_dictionary gd ON sg.grade_id = gd.id;
+           c.name,
+                   s.first_name, 
+                   s.last_name, 
+                   gd.grade_value, 
+                   gd.description, 
+                   sg.grade_date
+               FROM students s
+               LEFT JOIN classes c ON s.class_id = c.id
+               LEFT JOIN student_grades sg ON s.id = sg.student_id
+               LEFT JOIN grades_dictionary gd ON sg.grade_id = gd.id;
 +------+------------+-----------+-------------+------------------+------------+
 | name | first_name | last_name | grade_value | description      | grade_date |
 +------+------------+-----------+-------------+------------------+------------+
