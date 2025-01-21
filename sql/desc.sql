@@ -25,7 +25,6 @@ mysql> SELECT
 +------------+------------+-----------+------------+-------------------------+
 6 rows in set (0.00 sec)
 
-mysql> 
 
 -- zrzut tabeli students
 mysql> SELECT * FROM students;
@@ -41,7 +40,6 @@ mysql> SELECT * FROM students;
 +----+------------+-----------+----------+
 6 rows in set (0.00 sec)
 
-mysql> 
 
 -- zrzut tabeli classes
 mysql> SELECT * FROM classes;
@@ -53,7 +51,6 @@ mysql> SELECT * FROM classes;
 +----+------+
 2 rows in set (0.00 sec)
 
-mysql> 
 
 -- zrzut tabeli grades_dictionary (wszystkioe dostepne oceny)
 mysql> SELECT * FROM grades_dictionary;
@@ -91,7 +88,6 @@ mysql> SELECT * FROM `student_grades`;
 +----+------------+----------+------------+
 10 rows in set (0.00 sec)
 
-mysql> 
 
 -- Wyświetlenie wszystkich uczniów z ich klasami (w tym tych bez klasy):
 mysql> SELECT 
@@ -112,12 +108,11 @@ mysql> SELECT
 +------------+-----------+-------+
 6 rows in set (0.00 sec)
 
-mysql> 
 
 -- Wyświetlenie wszystkich uczniów z ich klasami (tylko tych ktorzy posiadaja klase)
-mysql> SELECT  s.first_name, s.last_name, c.name AS class FROM students s  JOIN classes c ON s.class_id = c.id;
+mysql> SELECT  s.first_name, s.last_name, c.name AS class FROM students s JOIN classes c ON s.class_id = c.id;
 lub
-mysql>SELECT  s.first_name, s.last_name, c.name AS class FROM students s INNER  JOIN classes c ON s.class_id = c.id;
+mysql> SELECT  s.first_name, s.last_name, c.name AS class FROM students s INNER JOIN classes c ON s.class_id = c.id;
 +------------+-----------+-------+
 | first_name | last_name | class |
 +------------+-----------+-------+
