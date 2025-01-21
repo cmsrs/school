@@ -116,6 +116,8 @@ mysql>
 
 -- Wyświetlenie wszystkich uczniów z ich klasami (tylko tych ktorzy posiadaja klase)
 mysql> SELECT  s.first_name, s.last_name, c.name AS class FROM students s  JOIN classes c ON s.class_id = c.id;
+lub
+mysql>SELECT  s.first_name, s.last_name, c.name AS class FROM students s INNER  JOIN classes c ON s.class_id = c.id;
 +------------+-----------+-------+
 | first_name | last_name | class |
 +------------+-----------+-------+
