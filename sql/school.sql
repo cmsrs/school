@@ -82,8 +82,12 @@ INSERT INTO student_grades (student_id, grade_id, grade_date)
 VALUES 
 (1, 9, '2025-01-15'), -- John Smith, grade 5.0
 (1, 8, '2025-01-16'), -- John Smith, grade 4.5
+(1, 10, '2025-01-06'), -- John Smith, grade 6 
+(1, 1, '2025-01-07'), -- John Smith, grade 1 
+(1, 2, '2025-01-08'), -- John Smith, grade 1.5 
 (2, 5, '2025-01-15'), -- Anna Brown, grade 3.0
 (3, 10, '2025-01-17'), -- Peter Johnson, grade 6.0
 (4, 6, '2025-01-18'), -- Mary Williams, grade 3.5
+(4, 2, '2025-01-18'), -- Mary Williams, grade 3.5
 (5, 2, '2025-01-18'); -- John Doe, grade 1.5
 
