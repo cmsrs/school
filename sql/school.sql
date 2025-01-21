@@ -1,5 +1,5 @@
 -- 
--- Utwórz bazę danych i przełącz się na nia, graj tabele i przykladowe dane
+-- Utwórz bazę danych i przełącz się na nia, wgraj tabele i przykladowe dane
 --
 
 DROP DATABASE IF EXISTS school;

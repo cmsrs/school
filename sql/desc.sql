@@ -152,3 +152,51 @@ mysql>  SELECT
 | 5b   | Kristen    | Bell      |        NULL | NULL             | NULL       |
 +------+------------+-----------+-------------+------------------+------------+
 11 rows in set (0.01 sec)
+
+
+-- id uczniow, ktory maja wiecej niz jedna ocene: 
+mysql> select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1;
++------------+-------------+
+| student_id | grade_count |
++------------+-------------+
+|          1 |           5 |
+|          4 |           2 |
++------------+-------------+
+2 rows in set (0.00 sec)
+
+
+-- uczniowe (imie nazwisko i ilosc ocen), ktory maja wiecej niz jedna ocene: 
+mysql> select  first_name, last_name, tmp.grade_count  from   students as s join   (select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1) as tmp on ( tmp.student_id = s.id  ) ;
++------------+-----------+-------------+
+| first_name | last_name | grade_count |
++------------+-----------+-------------+
+| John       | Smith     |           5 |
+| Mary       | Williams  |           2 |
++------------+-----------+-------------+
+2 rows in set (0.00 sec)
+
+
+-- srednia i ilosc ocen dla kazdego ucznia
+mysql> SELECT 
+         s.id AS student_id,
+         s.first_name,
+         s.last_name,
+         COUNT(gd.grade_value) AS count_grade,
+         AVG(gd.grade_value) AS avg_grade
+     FROM students s
+     LEFT JOIN student_grades sg ON s.id = sg.student_id
+     LEFT JOIN grades_dictionary gd ON sg.grade_id = gd.id
+     GROUP BY s.id
+     ORDER BY avg_grade DESC;
++------------+------------+-----------+-------------+-----------+
+| student_id | first_name | last_name | count_grade | avg_grade |
++------------+------------+-----------+-------------+-----------+
+|          3 | Peter      | Johnson   |           1 |   6.00000 |
+|          1 | John       | Smith     |           5 |   3.60000 |
+|          2 | Anna       | Brown     |           1 |   3.00000 |
+|          4 | Mary       | Williams  |           2 |   2.50000 |
+|          5 | John       | Doe       |           1 |   1.50000 |
+|          6 | Kristen    | Bell      |           0 |      NULL |
++------------+------------+-----------+-------------+-----------+
+6 rows in set (0.00 sec)
+
