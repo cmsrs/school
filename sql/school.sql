@@ -61,7 +61,7 @@ VALUES
 ('Peter', 'Johnson', 2), 
 ('Mary', 'Williams', 2),
 ('John', 'Doe', null),  -- brak klasy
-('Kristen', 'bell', 2); -- brak ocen 
+('Kristen', 'Bell', 2); -- brak ocen 
  
 
 INSERT INTO grades_dictionary (grade_value, description) 
