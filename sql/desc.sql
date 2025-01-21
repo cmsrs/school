@@ -1,6 +1,3 @@
-# school - sql
-
-
 --
 -- dane w postaci płaskiej tabeli
 --
