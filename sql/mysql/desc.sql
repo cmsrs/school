@@ -153,29 +153,6 @@ mysql>  SELECT
 +------+------------+-----------+-------------+------------------+------------+
 11 rows in set (0.01 sec)
 
-
--- id uczniow, ktory maja wiecej niz jedna ocene: 
-mysql> select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1;
-+------------+-------------+
-| student_id | grade_count |
-+------------+-------------+
-|          1 |           5 |
-|          4 |           2 |
-+------------+-------------+
-2 rows in set (0.00 sec)
-
-
--- uczniowe (imie nazwisko i ilosc ocen), ktory maja wiecej niz jedna ocene: 
-mysql> select  first_name, last_name, tmp.grade_count  from   students as s join   (select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1) as tmp on ( tmp.student_id = s.id  ) ;
-+------------+-----------+-------------+
-| first_name | last_name | grade_count |
-+------------+-----------+-------------+
-| John       | Smith     |           5 |
-| Mary       | Williams  |           2 |
-+------------+-----------+-------------+
-2 rows in set (0.00 sec)
-
-
 -- srednia i ilosc ocen dla kazdego ucznia
 mysql> SELECT 
          s.id AS student_id,
@@ -199,4 +176,29 @@ mysql> SELECT
 |          6 | Kristen    | Bell      |           0 |      NULL |
 +------------+------------+-----------+-------------+-----------+
 6 rows in set (0.00 sec)
+
+
+-- id uczniow, ktory maja wiecej niz jedna ocene: 
+mysql> select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1;
++------------+-------------+
+| student_id | grade_count |
++------------+-------------+
+|          1 |           5 |
+|          4 |           2 |
++------------+-------------+
+2 rows in set (0.00 sec)
+
+
+-- uczniowe (imie nazwisko i ilosc ocen), ktory maja wiecej niz jedna ocene: 
+-- zapytanie zlozone z pomocniczej tabeli tymczasowej
+mysql> select  first_name, last_name, tmp.grade_count  from   students as s join   (select student_id ,  count(grade_id) as grade_count  FROM `student_grades` group by student_id having grade_count > 1) as tmp on ( tmp.student_id = s.id  ) ;
++------------+-----------+-------------+
+| first_name | last_name | grade_count |
++------------+-----------+-------------+
+| John       | Smith     |           5 |
+| Mary       | Williams  |           2 |
++------------+-----------+-------------+
+2 rows in set (0.00 sec)
+
+
 
