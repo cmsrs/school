@@ -13,7 +13,8 @@ int main() {
     cout << "Suma tych liczb to: " << suma;
 
     if (b != 0) {
-        cout << "\nDzielenie tych liczb to: " << static_cast<float>(a) / b << endl;
+        cout << "\nDzielenie tych liczb to: " << static_cast<float>(a) / b;
+        cout << "\nReszta z dzilenia: " << a % b << endl;
     } else {
         cout << "\nNie mozna dzielic przez zero!" << endl;
     }

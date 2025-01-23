@@ -8,5 +8,6 @@ print(f"Suma tych liczb to: {sum}")
 
 if b != 0:
     print(f"Dzielenie tych liczb to: {a / b}")
+    print(f"Reszta z dzilenia: {a % b}" )
 else:
     print("Nie mozna dzielic przez zero!")
