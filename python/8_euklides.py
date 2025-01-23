@@ -10,8 +10,8 @@ def euklides(a, b):
     return a
 
 
-a = 282 #int(input("Podaj pierwszą liczbę: "))
-b = 78  #int(input("Podaj drugą liczbę: "))
+a = int(input("Podaj pierwszą liczbę: ")) #282
+b = int(input("Podaj drugą liczbę: ")) #78
 x = euklides(a, b)
 
 print(f"Największy wspólny dzielnik liczb {a} i {b} to: ", x)
