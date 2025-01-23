@@ -1,7 +1,7 @@
 
 def euklides(a, b):
 
-    while b > 0:
+    while b != 0:
         print("a: ", a, " b: ", b,  "a%b:", a % b)
         tmp = b
         b = a % b        
