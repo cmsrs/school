@@ -12,7 +12,6 @@ for i in range(90, 0, -10):
     c2 = random.random()
     c3 = random.random()
     t.begin_fill()
-    #t.fillcolor("blue")    
     t.fillcolor(c1, c2, c3)
     t.circle(i)
     t.end_fill()
