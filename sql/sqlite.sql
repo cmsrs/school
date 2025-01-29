@@ -4,7 +4,7 @@ CREATE TABLE classes (
     name TEXT NOT NULL
 );
 
--- Tabela przechowuje dane o uczniach, z relacją do tabeli classes
+-- Tabela przechowuje dane o uczniach, z relacja do tabeli classes
 CREATE TABLE students (
     id INTEGER PRIMARY KEY,
     first_name TEXT NOT NULL,
@@ -13,14 +13,14 @@ CREATE TABLE students (
     FOREIGN KEY (class_id) REFERENCES classes(id) ON DELETE CASCADE
 );
 
--- Tabela przechowuje możliwe wartości ocen
+-- Tabela przechowuje  wartości ocen
 CREATE TABLE grades_dictionary (
     id INTEGER PRIMARY KEY,
     grade_value REAL NOT NULL UNIQUE,
     description TEXT DEFAULT NULL
 );
 
--- Tabela wiąże uczniów z ocenami z tabeli słownikowej
+-- Tabela wiąze uczniow z ocenami z tabeli słownikowej
 CREATE TABLE student_grades (
     id INTEGER PRIMARY KEY,
     student_id INTEGER NOT NULL,
@@ -35,7 +35,7 @@ INSERT INTO classes (name) VALUES
 ('7a'), 
 ('5b');
 
--- Dodanie przykładowych danych do tabeli students
+-- Dodanie przykladowych danych do tabeli students
 INSERT INTO students (first_name, last_name, class_id) 
 VALUES 
 ('John', 'Smith', 1), 
@@ -45,7 +45,7 @@ VALUES
 ('John', 'Doe', NULL),  -- brak klasy
 ('Kristen', 'Bell', 2); -- brak ocen 
 
--- Dodanie przykładowych danych do tabeli grades_dictionary
+-- Dodanie przykladowych danych do tabeli grades_dictionary
 INSERT INTO grades_dictionary (grade_value, description) 
 VALUES 
 (1.0, 'Very Poor'),
@@ -59,7 +59,7 @@ VALUES
 (5.0, 'Excellent'),
 (6.0, 'Outstanding');
 
--- Dodanie przykładowych danych do tabeli student_grades
+-- Dodanie przykladowych danych do tabeli student_grades
 INSERT INTO student_grades (student_id, grade_id, grade_date) 
 VALUES 
 (1, 9, '2025-01-15'), -- John Smith, grade 5.0
@@ -72,4 +72,15 @@ VALUES
 (4, 6, '2025-01-18'), -- Mary Williams, grade 3.5
 (4, 2, '2025-01-18'), -- Mary Williams, grade 3.5
 (5, 2, '2025-01-18'); -- John Doe, grade 1.5
+
+
+
+select * from students;
+
+
+select * from students
+left join classes on 
+( students.class_id  =  classes.id )
+where students.first_name = 'John'
+;
 
