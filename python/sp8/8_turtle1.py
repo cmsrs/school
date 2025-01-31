@@ -1,7 +1,7 @@
 # https://pythonsandbox.com/turtle
 # https://www.migra.pl/programowanie/python-turtle
 
-#trojkat prostokatny wpisany w okrag
+#trojkat rownoboczny ktory ma wpisany i opisany okrag
 
 import turtle
 import math
@@ -26,7 +26,7 @@ t.forward(50)
 t.pendown()
 
 r = 100 * math.sqrt(3) / 6
-#wpuisany okrag
+#wpisany okrag
 t.circle(r)
 
 t.penup()
