@@ -25,7 +25,3 @@ def naive_search(text, pattern):
 result = naive_search(text, pattern)
 print(f"Pattern found at index: {result}")
 
-
-
-
-
