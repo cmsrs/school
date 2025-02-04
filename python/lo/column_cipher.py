@@ -1,10 +1,5 @@
-columnCipher = ""
-
-original_plaintext = "alamakotakamilapsaicos"  # Zachowaj oryginalny tekst
-
-plaintext = original_plaintext
-
-
+key = 4
+originalPlaintext = "alamakotakamilapsaicos"  # Zachowaj oryginalny tekst
 
 #alam
 #akot
@@ -13,25 +8,24 @@ plaintext = original_plaintext
 #saic
 #os
 
-key = 4
-
-
-while len(plaintext) % key != 0:
-    plaintext += "_"
-
-#print(plaintext)    
-#exit()
-
 # Encrypt
-for i in range(key):
-    for j in range(i, len(plaintext), key):
-        columnCipher += plaintext[j]
+def encrypt_column_cipher(plaintext, key):
 
-#print(columnCipher)
+    columnCipher = ""  # Zmienna przechowująca zaszyfrowany tekst
+
+    while len(plaintext) % key != 0:
+        plaintext += "_"
+
+    #print(plaintext)  exit()
+
+    for i in range(key):
+        for j in range(i, len(plaintext), key):
+            columnCipher += plaintext[j]
+
+    return columnCipher
 
 
 # Decrypt
-
 def decrypt_column_cipher(ciphertext, key):
     rows = len(ciphertext) // key  # Obliczamy liczbę wierszy
     plaintext = ""  # Zmienna przechowująca odszyfrowany tekst
@@ -44,7 +38,9 @@ def decrypt_column_cipher(ciphertext, key):
     return plaintext.rstrip("_")  # Usuwamy ewentualne dopełnienia "_"
 
 
-decrypt = decrypt_column_cipher(columnCipher, key)
+encrypt = encrypt_column_cipher(originalPlaintext, key)
+decrypt = decrypt_column_cipher(encrypt, key)
 
+#print(encrypt)
 #print(decrypt)
-assert decrypt == original_plaintext
+assert decrypt == originalPlaintext
