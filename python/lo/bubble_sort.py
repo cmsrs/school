@@ -16,3 +16,10 @@ sorted_numbers = bubble_sort(numbers)
 
 print(f"Sorted numbers: {sorted_numbers}")
 assert sorted_numbers == [11, 12, 22, 25, 34, 64, 90]
+
+
+# Przykład użycia wbudowanej funkcji sortującej
+numbers = [64, 34, 25, 12, 22, 11, 90]
+numbers.sort()
+print(f"Sorted numbers using built-in sort: {numbers}")
+assert numbers == [11, 12, 22, 25, 34, 64, 90]
