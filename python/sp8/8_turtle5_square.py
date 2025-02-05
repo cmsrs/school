@@ -4,25 +4,33 @@
 #4 kwadraty w 4 różnych kolorach (czerwony, zielony, niebieski, żółty)
 #co drugi kwadrat ma dłuższe boki
 
+
 import turtle
 
-t = turtle.Turtle()
-t.speed(5) # 1:slowest, 3:slow, 5:normal, 10:fast, 0:fastest
+class TurtleDrawer:
+    def __init__(self):
+        self.t = turtle.Turtle()
+        self.t.speed(5)
+        self.colors = ['#ff0000', '#00ff00', '#0000ff', "#ffff00"]
 
-colors = ['#ff0000', '#00ff00', '#0000ff', "#ffff00"] 
+    def draw_square(self, length, color):
+        self.t.fillcolor(color)
+        self.t.begin_fill()
+        for _ in range(4):
+            self.t.forward(length)
+            self.t.left(90)
+        self.t.end_fill()
 
-def draw_square(len, color):
-    t.fillcolor(color)
-    t.begin_fill()
-    for _ in range(4):   
-        t.forward(len)
-        t.left(90)
-    t.end_fill()
+    def draw_pattern(self):
+        for i in range(4):
+            length = 50 if i % 2 == 0 else 100
+            self.draw_square(length, self.colors[i])
+            self.t.left(90)
 
-for i in range(4):   
-    len = 50 if i % 2 == 0 else 100
-    draw_square(len, colors[i])
-    t.left(90)
+    def run(self):
+        self.draw_pattern()
+        turtle.done()
 
-
-turtle.done()
+if __name__ == "__main__":
+    drawer = TurtleDrawer()
+    drawer.run()
