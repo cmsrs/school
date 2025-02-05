@@ -84,3 +84,14 @@ left join classes on
 where students.first_name = 'John'
 ;
 
+
+-- Zadania:
+-- 1. dodac kolumne plec: 'sex' do tabeli students (o wartosciach: M oraz F), gdzie M: mezczyzna, F: kobieta
+-- 2. pokazac wszystkich studentow mezczyn ('sex' == 'M' ), ktorzy przynaleza do danej klasy, w wyniku pokazac: Imie, Nazwisko, Klase
+-- 3. dla zbioru z p.2 dolaczyc oceny dla kazego studenta  ('sex' == 'M' ), w wyniku pokazac: Imie, Nazisko, Klase oraz oceny, pokaz wsystkich sudentow nawet tych co nie maja ocen
+-- 4. podac zapytanie sql-a zmieniajace wszystkim studentka (kobieta)  imie = 'Kate'
+-- skladnia:
+-- UPDATE table_name
+-- SET column1 = value1, column2 = value2, ...
+-- WHERE condition; 
+-- nastepnie wyswietlic tabele ze studentami
