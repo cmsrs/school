@@ -1,6 +1,8 @@
 # Zadania:
 
 Należy napisać następujące zapytania SQL na stronie: [OnlineGDB](https://www.onlinegdb.com) (baza danych SQLite), korzystając z bazy danych dostępnej pod adresem: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql).
+Zachęcam do zapoznania się z przykładowymi zapytaniami zamieszczonymi w pliku: [query.sql](https://github.com/cmsrs/school/blob/main/sql/query.sql).
+
 
 1. Dodanie kolumny sex do tabeli students
 
