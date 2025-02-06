@@ -1,8 +1,10 @@
+#Zadania
+
 na platformie https://pythonsandbox.com/turtle, wykonaj nastepujace zadania:
-przed wykonaniem zadania polecam zapoznanie sie z przykladami na stronie:
+przed wykonaniem zadania polecam zapoznanie sie z przykladami dostepnymi na stronie:
 https://github.com/cmsrs/school/tree/main/python/turtle
 
-zadanie 1
+##zadanie 1
 narysuj 4 kwadraty jeden pod drugim: 
  - w kolorach linii odpoiednio: czerwony, zielony, niebieski, żółty
  - linie kazdego kwadratu o grubosciach, odpowiednio: 1, 3, 5, 7
@@ -10,12 +12,12 @@ narysuj 4 kwadraty jeden pod drugim:
  - kwadraty są oddalone od siebie o 10 jednostek
  w zadaniu postaraj sie wykorzystac: "pętle for", "funkcje" oraz  "listy"
 
-zadanie 2
+##zadanie 2
  przerob zadanie pierwsze tak, że jesli jest kwadrat o boku zielonym nadaj mu dlugosc boku = 20
  w przeciwnym wypadku daj mu długość boku = 100
  w zadaniu wykorzystaj warunek "if"
 
-zadanie 3
+##zadanie 3
  przerob zadanie pierwsze tak, że jesli jest kwadrat nieparzysty tj. 1 i 3 to ma mieć grubość linii 1
  w przeciwnym wypadku grubość linii ma wynosić 5
  w zadaniu wykorzystaj warunek "if"
