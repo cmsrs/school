@@ -78,7 +78,7 @@ VALUES
 select * from students;
 
 
--- wyswietlanie wszystkich! studentow wraz z klasami, ktory maja na imie 'John'
+-- wyswietlanie wszystkich studentow wraz z klasami, ktory maja na imie 'John'
 select * from students
 left join classes on 
 ( students.class_id  =  classes.id )
