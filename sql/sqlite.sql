@@ -75,12 +75,11 @@ VALUES
 
 
 -- wyswietlanie wszystkich studentow
-select * from students;
+-- select * from students;
 
 
 -- wyswietlanie wszystkich studentow wraz z klasami, ktory maja na imie 'John'
 select * from students
 left join classes on 
 ( students.class_id  =  classes.id )
-where students.first_name = 'John'
-;
+where students.first_name = 'John';
