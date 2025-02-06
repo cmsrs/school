@@ -12,12 +12,12 @@ Zachęcam do zapoznania się z przykładowymi zapytaniami zamieszczonymi w pliku
 2. Wyświetlenie wszystkich mężczyzn w tabeli students
 
     Pobierz wszystkich studentów, którzy są mężczyznami (sex = 'M') i należą do klasy (pomijając tych, którzy do żadnej klasy nie należą).
-    Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Klasa.
+    Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Płeć, Klasa.
 
 3. (Dodatkowe) Wyświetlenie ocen dla studentów z punktu 2
 
     Do wyników z punktu 2 dołącz oceny każdego studenta.
-    Wyświetl następujące kolumny: Imię, Nazwisko, Klasa, Oceny.
+    Wyświetl następujące kolumny: Imię, Nazwisko, Płeć, Klasa, Oceny.
     Pokaż wszystkich studentów, nawet tych, którzy nie mają ocen.
     Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
 
