@@ -83,3 +83,4 @@ select * from students
 left join classes on 
 ( students.class_id  =  classes.id )
 where students.first_name = 'John';
+
