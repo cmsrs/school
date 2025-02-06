@@ -1,53 +1,6 @@
-# https://pythonsandbox.com/turtle
-# https://www.migra.pl/programowanie/python-turtle
-
-
-import turtle
-
-t = turtle.Turtle()
-t.speed(5)
-
-a = 75
-
-#square 1
-t.pensize(3)
-t.color("red")
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-
-#move to the next square
-t.penup()
-t.right(90)
-t.forward(2*a)
-t.left(90)
-t.pendown()
-
-
-#square 2
-t.pensize(7)
-t.color("blue")
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-t.forward(a)
-t.right(90)
-
-
-
-turtle.done()
-
-'''
-
 na platformie https://pythonsandbox.com/turtle, wykonaj nastepujace zadania:
+przed wykonaniem zadania polecam zapoznanie sie z przykladami na stronie:
+https://github.com/cmsrs/school/tree/main/python/turtle
 
 zadanie 1
 narysuj 4 kwadraty jeden pod drugim: 
@@ -66,5 +19,4 @@ zadanie 3
  przerob zadanie pierwsze tak, że jesli jest kwadrat nieparzysty tj. 1 i 3 to ma mieć grubość linii 1
  w przeciwnym wypadku grubość linii ma wynosić 5
  w zadaniu wykorzystaj warunek "if"
- 
-'''
+
