@@ -4,13 +4,16 @@
 #4 kwadraty w 4 różnych kolorach (czerwony, zielony, niebieski, żółty)
 #co drugi kwadrat ma dłuższe boki
 
+# utworzenie klasy TurtleDrawer (zaawansowane)
+
 import turtle
 
 class TurtleDrawer:
     def __init__(self):
         self.t = turtle.Turtle()
         self.t.speed(5)
-        self.colors = ['#ff0000', '#00ff00', '#0000ff', "#ffff00"]
+        #self.colors = ['#ff0000', '#00ff00', '#0000ff', "#ffff00"]
+        self.colors = ['red', 'green', 'blue', "yellow"]
 
     def __draw_square(self, length, color):
         self.t.fillcolor(color)

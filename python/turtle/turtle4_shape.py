@@ -1,7 +1,7 @@
 # https://pythonsandbox.com/turtle
 # https://www.migra.pl/programowanie/python-turtle
 
-#prawie kola narysowane obok siebie
+#wieloboki (prawie kola) narysowane obok siebie, oddalone o 10 jednostek
 
 import turtle
 
