@@ -84,3 +84,4 @@ left join classes on
 ( students.class_id  =  classes.id )
 where students.first_name = 'John';
 
+-- nie zapomnij o wstawieniu srednika koncu kazdego polecenia SQL, oraz przejscia do nowej linji
