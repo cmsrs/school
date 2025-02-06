@@ -1,23 +1,39 @@
 # Zadania
 
-Przed wykonaniem zadania polecam zapoznanie sie z przykladami dostepnymi na stronie:
+Przed rozpoczęciem pracy nad zadaniami zapoznaj się z przykładami dostępnymi pod adresem:
 https://github.com/cmsrs/school/tree/main/python/turtle
 
-na platformie https://pythonsandbox.com/turtle, wykonaj nastepujace zadania:
+Następnie wykonaj poniższe zadania na platformie:
+https://pythonsandbox.com/turtle
 
-## zadanie 1
-Narysuj 4 kwadraty jeden pod drugim: 
- - w kolorach linii odpoiednio: czerwony, zielony, niebieski, żółty
- - linie kazdego kwadratu o grubosciach, odpowiednio: 1, 3, 5, 7
- - długość boku kwadratu odpowiednio: 50, 75, 100, 125
- - kwadraty są oddalone od siebie o 10 jednostek
- w zadaniu postaraj sie wykorzystac: "pętle for", "funkcje" oraz "listy"
 
-## zadanie 2
-Przerob zadanie pierwsze tak, że jesli jest kwadrat o boku zielonym nadaj mu dlugosc boku = 20 w przeciwnym wypadku daj mu długość boku = 100.
-W zadaniu wykorzystaj warunek "if"
+# Zadanie 1
 
-## zadanie 3
-Przerob zadanie pierwsze tak, że jesli jest kwadrat nieparzysty tj. 1 i 3 to ma mieć grubość linii 1 w przeciwnym wypadku grubość linii ma wynosić 5.
-W zadaniu wykorzystaj warunek "if".
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
 
+- Kolor linii: kolejno czerwony, zielony, niebieski, żółty.
+- Grubość linii: odpowiednio 1, 3, 5, 7.
+- Długość boku kwadratu: odpowiednio 50, 75, 100, 125.
+- Odległość między kwadratami: 10 jednostek.
+
+Podczas rozwiązania zadania wykorzystaj pętle for, funkcje oraz listy.
+
+
+# Zadanie 2
+
+Zmodyfikuj pierwsze zadanie tak, aby:
+
+- Jeśli kwadrat ma zielony kolor linii, jego bok miał długość 20.
+- W przeciwnym razie długość boku wynosi 100.
+
+W rozwiązaniu zastosuj instrukcję warunkową if.
+
+
+# Zadanie 3
+
+Zmodyfikuj pierwsze zadanie tak, aby:
+
+- Kwadraty o numerach 1 i 3 (licząc od góry) miały grubość linii 1.
+- Pozostałe kwadraty miały grubość linii 5.
+
+W rozwiązaniu zastosuj instrukcję warunkową if.
