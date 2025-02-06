@@ -74,26 +74,13 @@ VALUES
 (5, 2, '2025-01-18'); -- John Doe, grade 1.5
 
 
-
+-- wyswietlanie wszystkich studentow
 select * from students;
 
 
+-- wyswietlanie wszystkich! studentow wraz z klasami, ktory maja na imie 'John'
 select * from students
 left join classes on 
 ( students.class_id  =  classes.id )
 where students.first_name = 'John'
 ;
-
-
--- Zadania:
--- nalezy napisac nastepujace zapytania sql na stronie: https://www.onlinegdb.com/ (baza danych SQLite)
--- 1. dodac kolumne plec: 'sex' do tabeli students (o wartosciach: M oraz F), gdzie M: mezczyzna, F: kobieta i uzupelnic przykladowe dane, mozesz zmodyfikowac istniejaca strukture (dane w dump-ie bazy danych) 
--- 2. pokazac wszystkich studentow mezczyn ('sex' == 'M' ), ktorzy przynaleza do klasy, w wyniku pokazac: Imie, Nazwisko, Klase
--- 3. dla zbioru z p.2 dolaczyc oceny dla kazego studenta ('sex' == 'M' ), w wyniku pokazac: Imie, Nazisko, Klase oraz oceny, pokaz wsystkich sudentow nawet tych co nie maja ocen,
--- dla kazdego studenta pokaz oceny po przecinku,
--- 4. (dodatkowe) podac zapytanie sql-a zmieniajace wszystkim studentka (kobieta) imie na 'KATE'
--- skladnia sql-a zmieniajacego wartosci w tabeli:
--- UPDATE table_name
--- SET column1 = value1, column2 = value2, ...
--- WHERE condition; 
--- nastepnie wyswietlic tabele ze studentami
