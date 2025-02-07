@@ -16,6 +16,8 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 - (opcjonalne) Kolor linii: kolejno czerwony, zielony, niebieski, żółty.
 - Odległość między kwadratami wynosi od 1 do 10 jednostek.
 
+<img src="./img/task1.png" />
+
 Podczas rozwiązania zadania wykorzystaj pętle for, funkcje oraz listy (opcjonalne).
 
 
@@ -28,6 +30,7 @@ Zmodyfikuj pierwsze zadanie tak, aby:
 
 W rozwiązaniu zastosuj instrukcję warunkową if.
 
+<img src="./img/task2.png" />
 
 # Zadanie 3
 
@@ -37,3 +40,5 @@ Zmodyfikuj pierwsze zadanie tak, aby:
 - W przeciwnym razie długość boku wynosi 100.
 
 W rozwiązaniu zastosuj instrukcję warunkową if.
+
+<img src="./img/task3.png" />
