@@ -48,3 +48,18 @@ list7 = ['red', 'green', 'blue']
 
 for i in list7:
     print("index: ", i)
+
+print('######8######')
+
+list8 = [1, 2, 3, 4, 5, 6, 7]
+print(list8)
+
+print( list8[:3] )
+print( list8[3:] )
+print( list8[1] )
+
+#for i in range(3):
+#    print("index: ", i, "val", list8[:i] )
+
+
+
