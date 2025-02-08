@@ -4,14 +4,12 @@ Należy napisać następujące zapytania SQL na stronie: [OnlineGDB](https://www
 Zachęcam do zapoznania się z przykładowymi zapytaniami zamieszczonymi w pliku: [query.sql](https://github.com/cmsrs/school/blob/main/sql/query.sql).
 
 
-1. Dodanie kolumny sex do tabeli students
+1. Dodanie kolumny ```sex``` (płeć) do tabeli students
 
-    Dodaj kolumnę sex do tabeli students, przechowującą informacje o płci (M - mężczyzna, F - kobieta).
-    Uzupełnij przykładowe dane, modyfikując istniejącą strukturę (plik sqlite.sql).
+    Dodaj kolumnę ```sex``` do tabeli students, przechowującą informacje o płci (M - mężczyzna, F - kobieta).
+    Uzupełnij ręcznie przykładowe dane, modyfikując istniejącą strukturę (plik sqlite.sql).
 
-2. Wyświetlenie wszystkich mężczyzn w tabeli students
-
-    Pobierz wszystkich studentów, którzy są mężczyznami (sex = 'M') i należą do klasy (pomijając tych, którzy do żadnej klasy nie należą).
+2.  Pobierz wszystkich studentów, którzy są mężczyznami (sex = 'M') i należą do klasy (pomijając tych, którzy do żadnej klasy nie należą).
     Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Płeć, Klasa.
 
 3. (Dodatkowe) Wyświetlenie ocen dla studentów z punktu 2
@@ -32,4 +30,5 @@ SET column1 = value1, column2 = value2, ...
 WHERE condition;
 ```
 
-Po wykonaniu zapytania wyświetl zawartość tabeli students.
+    Po wykonaniu zapytania wyświetl zawartość tabeli students.
+    
