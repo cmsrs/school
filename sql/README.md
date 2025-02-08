@@ -1,4 +1,4 @@
-# Baza danych
+# Baza danych:
 
 <img src="./school_structure.png" />
 
