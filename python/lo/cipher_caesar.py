@@ -1,10 +1,10 @@
 """
 Szyfr Cezara (inaczej przesunięcie Cezara) to prosty szyfr przesuwający każdą literę w alfabecie o określoną liczbę miejsc.
-Na przykład dla przesunięcia o 3 miejsca:
+Na przykład dla przesunięcia o 2 miejsca:
 
-    A → D
-    B → E
-    C → F
+    A -> C
+    B -> D
+    C -> E
     itd.
 
 W programie zakladamy ze szyfrujemy tylko duze litery alfabetu angielskiego.    
@@ -21,23 +21,20 @@ kody ASCII:
 od 90 do 65 jest 26 znaków
 
 
-dla klucza 3:
+dla klucza 2:
 
-A -> D
-B -> E
-...
-X -> A
-Y -> B
-Z -> C
+A -> C
+B -> D
+C -> E
+X -> Z
+Y -> A
+Z -> B
 
 
 """
 
-#plaintext = "ALA MA KOTA A KAMILA PSA XYZ"
-key = 3
-plaintext = "ABXYZ"
-#encrypt = "DEABC" # klucz 3
-
+key = 2
+plaintext = "ABCXYZ"
 
 #print( ord("A") ) # 65
 #print( chr(65) ) # A
@@ -58,7 +55,7 @@ def encrypt_caesar_cipher(plaintext, key):
 
 
 cipherText = encrypt_caesar_cipher(plaintext, key)
-assert "DEABC" == cipherText
+assert "CDEZAB" == cipherText
 
 
 # Decrypt
@@ -76,5 +73,5 @@ def decrypt_caesar_cipher(cipherText, key):
 
 plaintextDecrypt = decrypt_caesar_cipher(cipherText, key)
 
-assert "ABXYZ" == plaintextDecrypt
+assert "ABCXYZ" == plaintextDecrypt
 assert plaintext == plaintextDecrypt
