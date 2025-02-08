@@ -1,3 +1,8 @@
+# Baza danych
+
+<img src="./school_structure.png" />
+
+
 # Zadania:
 
 Należy napisać następujące zapytania SQL na stronie: [OnlineGDB](https://www.onlinegdb.com) (baza danych SQLite), korzystając z bazy danych dostępnej pod adresem: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql).
