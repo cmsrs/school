@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="title" content="O mnie - John Doe">
+    <meta name="author" content="John Doe">
+    <meta name="keywords" content="John Doe, programowanie, muzyka, podróże, kontakt">
+    <meta name="description" content="Strona osobista Johna Doe - programista, pasjonat muzyki i podróży.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O mnie John Doe</title>
+    <style>
+        /* Resetowanie domyślnych marginesów i paddingu */
+        * {
+            margin: 0;
+            padding: 0;
+            /*box-sizing: border-box;*/ /* Określa, że szerokość i wysokość elementu obejmuje padding i border, ale nie margin */
+        }
+
+        /* Ogólne style strony */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            /*padding-bottom: 100px;  Aby stopka nie zasłaniała treści */
+        }
+
+        /* Nagłówek strony */
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 10px;
+            font-size: 24px;
+        }
+
+        /* Główna zawartość */
+        main {
+            width: 90%;
+            max-width: 800px;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            /* 
+                0px - przesunięcie cienia w poziomie (brak przesunięcia)
+                0px - przesunięcie cienia w pionie (brak przesunięcia)
+                10px - rozmycie cienia (im większa liczba, tym cień jest bardziej rozmyty)
+                rgba(0, 0, 0, 0.1) - kolor cienia: czarny z przezroczystością 0.1 (bardzo delikatny cień)
+            */
+        }
+
+        h1, h2, h3 {
+            color: #444;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        /* Stylowanie listy */
+        ul {
+            margin-bottom: 20px;
+            padding-left: 20px;
+        }
+
+        ul li {
+            margin-bottom: 5px;
+        }
+
+        /* Obrazek */
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 10px auto;
+            border-radius: 5px;
+        }
+
+        /* Tabela */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #555;
+            color: white;
+        }
+
+        /* Stopka */
+        .footer {
+            display: flex; /* Ustawia kontener jako flexbox, co umożliwia łatwiejsze rozmieszczenie elementów wewnątrz */
+            flex-wrap: wrap; /* Określa, że elementy w kontenerze mogą zawijać się do następnego wiersza, jeśli nie mieszczą się w jednym */
+            justify-content: space-around; /* Rozmieszcza elementy wzdłuż osi głównej (poziomej), z równymi odstępami między nimi i wokół nich */
+            gap: 20px; /* Określa odstęp pomiędzy elementami wewnątrz kontenera (w tym przypadku 20px) */
+            padding: 15px; /* Dodaje wewnętrzne wypełnienie (odstęp) wokół zawartości kontenera, wynoszące 15px */
+            background-color: #333; /* Ustawia ciemnoszary kolor tła kontenera */
+            color: white; /* Ustawia biały kolor tekstu wewnątrz kontenera */
+            width: 100%; /* Ustawia szerokość kontenera na 100% szerokości okna przeglądarki */
+            text-align: left; /* Ustawia wyrównanie tekstu wewnątrz kontenera do lewej */
+        }
+
+        .footer-section {
+            display: flex;
+            flex-direction: column;
+            min-width: 150px; /*  określa minimalną szerokość elementu */
+        }
+
+        .footer a {
+            text-decoration: none;
+            color: #f0a500;
+            font-weight: bold;
+        }
+
+        /* Responsywność */
+        @media (max-width: 600px) {
+            .footer {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        O mnie - John Doe
+    </header>
+
+    <main>
+        <h1>Witaj na mojej stronie!</h1>
+        <h2>Kim jestem?</h2>
+        <p>Cześć! Mam na imię John Doe i jestem pasjonatem nowych technologii. Interesuję się programowaniem, muzyką i podróżami.</p>
+
+        <h3>Moje hobby</h3>
+        <ul>
+            <li>Programowanie - tworzę aplikacje webowe i uczę się nowych języków kodowania.</li>
+            <li>Muzyka - gram na gitarze i komponuję własne utwory.</li>
+            <li>Podróże - uwielbiam odkrywać nowe miejsca i poznawać różne kultury.</li>
+            <li>Książki - najczęściej czytam literaturę science-fiction i biografie inspirujących ludzi.</li>
+        </ul>
+
+        <h3>Moje zdjęcie</h3>
+        <img src="./imgs/john_doe_300_300.png" alt="Zdjęcie John Doe" width="300">
+
+        <h3>O mnie</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac neque at justo euismod pharetra. Donec eget dui id leo ullamcorper pellentesque.</p>
+
+        <h3>Kontakt</h3>
+        <table>
+            <tr>
+                <th>Metoda</th>
+                <th>Dane</th>
+            </tr>
+            <tr>
+                <td>Email</td>
+                <td><a href="mailto:johndoe@example.com">johndoe@example.com</a></td>
+            </tr>
+            <tr>
+                <td>Telefon</td>
+                <td>+48 987 654 321</td>
+            </tr>
+        </table>
+
+        <h3>Więcej o mnie</h3>
+        <p>Zapraszam do odwiedzenia mojego profilu na <a href="https://github.com/" target="_blank">GitHub</a>, gdzie znajdziesz moje projekty.</p>
+    </main>
+
+    <!-- Stopka -->
+    <div class="footer">
+        <div class="footer-section">
+            <span>© 2024 John Doe</span>
+            <span>Wszystkie prawa zastrzeżone</span>
+        </div>
+
+        <div class="footer-section">
+            <strong>Kontakt:</strong>
+            <a href="mailto:johndoe@example.com">johndoe@example.com</a>
+            <span>Telefon: +48 987 654 321</span>
+            <span>Adres: ul. Przykładowa 12, 00-000 Warszawa</span>
+        </div>
+
+        <div class="footer-section">
+            <strong>Szybkie linki:</strong>
+            <a href="#about">O mnie</a>
+            <a href="#projects">Projekty</a>
+            <a href="#contact">Kontakt</a>
+            <a href="https://github.com/" target="_blank">GitHub</a>
+        </div>
+
+        <div class="footer-section">
+            <strong>Informacje:</strong>
+            <a href="#">Polityka prywatności</a>
+            <a href="#">Regulamin</a>
+            <a href="#">Mapa strony</a>
+        </div>
+
+        <div class="footer-section">
+            <strong>Godziny dostępności:</strong>
+            <span>Pon - Pt: 9:00 - 18:00</span>
+            <span>Sobota: 10:00 - 14:00</span>
+            <span>Niedziela: Zamknięte</span>
+        </div>
+    </div>
+
+</body>
+</html>
