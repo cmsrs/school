@@ -50,6 +50,13 @@ Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto o
 - Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
 - Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć.
 
-### Po dostosowaniu tych zdjęć umieść je na stronie, dbając o poprawne użycie znacznika <img> – np. ustawiając odpowiednie atrybuty wysokości, szerokości i opisu.
 
-Dzięki tym działaniom Twoja strona zyska na estetyce i będzie działała szybciej.
+# Zadanie 3: Wstawianie obrazków na stronę
+
+Po przygotowaniu grafik umieść je na stronie, dbając o poprawne użycie znacznika ```<img>```. Pamiętaj o ustawieniu odpowiednich atrybutów, takich jak:
+
+- src - ścieżka do pliku graficznego,
+- alt - opis alternatywny dla osób korzystających z czytników ekranu,
+- width i height - określenie wymiarów obrazka (opcjonalnie).
+
+Dzięki temu Twoja strona będzie estetyczna, dostępna i szybka w działaniu.
