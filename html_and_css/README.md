@@ -19,6 +19,7 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
   - Sekcja ```Usługi``` (nagłówek h2) - przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
   - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
   - Obrazek - Twoje zdjęcie lub avatar.
+  - Dodaj logo (opcjonalnie).
 
 ### Wymagania CSS - Stylizacja strony
 
@@ -41,8 +42,9 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
-Aby Twoja strona wyglądała profesjonalnie i ładowała się szybciej, przygotuj odpowiednie grafiki przy użyciu programu graficznego (np. GIMP).
-Wymagania dotyczące obrazków:
+Aby Twoja strona wyglądała profesjonalnie i ładowała się szybciej, przygotuj odpowiednie grafiki - swoje zdjęcie oraz opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
+
+### Wymagania dotyczące obrazków:
 
 - Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony.
 - Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
