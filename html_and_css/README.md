@@ -42,12 +42,14 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
-Aby Twoja strona wyglądała profesjonalnie i ładowała się szybciej, przygotuj odpowiednie grafiki - swoje zdjęcie oraz opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
+Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto odpowiednio przygotować grafiki - np. zdjęcie profilowe i opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
 
 ### Wymagania dotyczące obrazków:
 
 - Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony.
 - Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
 - Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć.
+
+### Po dostosowaniu tych zdjęć umieść je na stronie, dbając o poprawne użycie znacznika <img> – np. ustawiając odpowiednie atrybuty wysokości, szerokości i opisu.
 
 Dzięki tym działaniom Twoja strona zyska na estetyce i będzie działała szybciej.
