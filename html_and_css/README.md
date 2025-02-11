@@ -6,13 +6,14 @@ Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
 Wymagania
 HTML - Strona powinna zawierać:
 
-- Nagłówek (h1) z tytułem strony, np. "O mnie – [Twoje Imię]".
-- Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
-- Sekcja ```Moje hobby``` – lista przedstawiająca Twoje zainteresowania.
-- Sekcja ```Usługi``` – przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
-- Sekcja ```kontaktowa``` - np. adres e-mail, link do profilu na LinkedIn.
-- Obrazek - Twoje zdjęcie lub avatar.
-- W tagu head należy dodać tytuł strony, kodowanie UTF-8, autora oraz opis strony. Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
+- W tagu ```head``` należy dodać tytuł strony, kodowanie UTF-8, autora oraz opis strony. Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
+- W tagu ```body``` należy dodać:
+  - Tytuł strony (nagłówek h1), np. "O mnie – [Twoje Imię]".
+  - Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
+  - Sekcja ```Moje hobby``` (nagłówek h2) - lista przedstawiająca Twoje zainteresowania.
+  - Sekcja ```Usługi``` (nagłówek h2) - przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
+  - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
+  - Obrazek - Twoje zdjęcie lub avatar.
 
 CSS - Stylizacja strony:
 
@@ -30,7 +31,7 @@ Responsywność strony:
 
 Zapis pliku:
 
-- Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: (john-doe.html)[https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html].
+- Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html).
 - Zapisz go na pendrive, aby móc wykorzystać w kolejnym zadaniu.
 
 # Zadanie 2: Edycja obrazków w programie graficznym
