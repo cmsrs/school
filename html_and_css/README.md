@@ -1,47 +1,45 @@
 # Zadanie 1: Strona internetowa o sobie
 
-Twoim zadaniem jest stworzenie prostej, estetycznej strony internetowej, na której przedstawisz siebie oraz usługi, które świadczysz.
-Dane na stronie mogą być nieprawdziwe, możesz także użyć tekstu "Lorem Ipsum"
+Twoim celem jest stworzenie estetycznej i prostej strony internetowej, na której zaprezentujesz siebie oraz oferowane usługi. 
+Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
 
-Wymagania:
-
-HTML, Strona powinna zawierać:
+Wymagania
+HTML - Strona powinna zawierać:
 
 - Nagłówek (h1) z tytułem strony, np. "O mnie – [Twoje Imię]".
-- Krótką biografię, czyli podstawowe informacje o sobie (imię, zainteresowania, hobby, plany zawodowe, krótka informacja o usługch).
-- Sekcję "Moje hobby", gdzie zaprezentujesz swoje zainteresowania w formie listy.
-- Sekcję "Usługi" – opisz, jakie usługi świadczysz, w formie tabelki lub div-ów na flexie.
-- Sekcję kontaktową, np. adres e-mail, odniesienie np. do likedin.com
-- Obrazek (Twoje zdjęcie lub avatar).
-- w sekcji head podaj tytuł strony oraz uzpełnij content dla atrybutu "description".
-    
+- Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
+- Sekcja ```Moje hobby``` – lista przedstawiająca Twoje zainteresowania.
+- Sekcja ```Usługi``` – przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
+- Sekcja ```kontaktowa``` - np. adres e-mail, link do profilu na LinkedIn.
+- Obrazek - Twoje zdjęcie lub avatar.
+- W tagu head należy dodać tytuł strony, kodowanie UTF-8, autora oraz opis strony. Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
 
-CSS:
+CSS - Stylizacja strony:
 
-- Zadbaj o estetyczny wygląd strony – użyj kolorów, marginesów, fontów itp.
-- Wykorzystaj podstawowe właściwości CSS, m.in.:
-- Tło, czcionki, marginesy, paddingi.
-- Wyśrodkowanie elementów.
-- Formatowanie list, tabel, div-ów, paragrafów (p).
-- Odpowiednie stylizowanie nagłówków.
+- Zadbaj o estetyczny wygląd strony, wykorzystując kolory, czcionki, marginesy i paddingi.
+- Użyj podstawowych właściwości CSS, m.in.:
+* Stylizacja tła, tekstu i nagłówków.
+* Wyśrodkowanie elementów.
+* Formatowanie list, tabel, div-ów i paragrafów.
 
-Responsywność:
+Responsywność strony:
 
-- Upewnij się, że strona dobrze wygląda zarówno na komputerach, jak i urządzeniach mobilnych.
-- Wykorzystaj media queries, aby poprawić jej wygląd na różnych ekranach.
-- Możesz sprawdzić responsywność, zmieniając szerokość okna przeglądarki (przyjmij minimalną szerokość na 320 px).
+- Strona powinna dobrze wyglądać zarówno na komputerach, jak i urządzeniach mobilnych.
+- Użyj ```media queries```, aby dostosować wygląd do różnych rozdzielczości.
+- Sprawdź responsywność, zmieniając szerokość okna przeglądarki (sprawdz dla minimalnej szerokości strony: 320 px).
 
 Zapis pliku:
 
-Plik należy nazwać w formacie: imie-nazwisko.html, tak jak to zostało zrobione dla John Doa, czyli [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html). Zapisać plik na pen-drive, tak aby mozna było z niego skorzystać w innym zadaniu.
-
+- Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: (john-doe.html)[https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html].
+- Zapisz go na pendrive, aby móc wykorzystać w kolejnym zadaniu.
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
-Przygotuj odpowiednie obrazki na potrzeby strony. Użyj programu graficznego (np. GIMP) do:
+Aby Twoja strona wyglądała profesjonalnie i ładowała się szybciej, przygotuj odpowiednie grafiki przy użyciu programu graficznego (np. GIMP).
+Wymagania dotyczące obrazków:
 
-- Dostosowania rozmiaru obrazków, aby dobrze wyglądały na stronie.
-- Optymalizacji jakości, tak aby były czytelne, ale nie zajmowały zbyt dużo miejsca na dysku.
-- Kadrowania i ewentualnej obróbki, jeśli to konieczne.
+- Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony.
+- Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
+- Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć.
 
-Dzięki temu Twoja strona będzie wyglądała bardziej profesjonalnie i będzie się szybciej ładować.
+Dzięki tym działaniom Twoja strona zyska na estetyce i będzie działała szybciej.
