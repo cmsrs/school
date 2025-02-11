@@ -59,4 +59,4 @@ Po przygotowaniu grafik umieść je na stronie, dbając o poprawne użycie znacz
 - alt - opis alternatywny dla osób korzystających z czytników ekranu,
 - width i height - określenie wymiarów obrazka (opcjonalnie).
 
-Dzięki temu Twoja strona będzie estetyczna, dostępna i szybka w działaniu.
+Dzięki temu Twoja strona będzie szybka w działaniu.
