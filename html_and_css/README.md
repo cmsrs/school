@@ -5,8 +5,13 @@ Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
 
 Wymagania
 HTML - Strona powinna zawierać:
+Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
 
-- W tagu ```head``` należy dodać tytuł strony, kodowanie UTF-8, autora oraz opis strony. Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
+- W tagu ```head``` należy dodać: 
+  - Tytuł strony. 
+  - Kodowanie UTF-8. 
+  - Autora 
+  - Opis strony. 
 - W tagu ```body``` należy dodać:
   - Tytuł strony (nagłówek h1), np. "O mnie – [Twoje Imię]".
   - Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
