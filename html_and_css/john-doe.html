@@ -78,7 +78,7 @@
             display: block;
             max-width: 100%;
             height: auto;
-            margin: 10px auto;
+            margin: 10px auto; /* Ustawia marginesy na 10px od góry i dołu oraz automatycznie od lewej i prawej strony */
             border-radius: 5px;
         }
 
@@ -106,7 +106,7 @@
             flex-wrap: wrap; /* Określa, że elementy w kontenerze mogą zawijać się do następnego wiersza, jeśli nie mieszczą się w jednym */
             justify-content: space-around; /* Rozmieszcza elementy wzdłuż osi głównej (poziomej), z równymi odstępami między nimi i wokół nich */
             gap: 20px; /* Określa odstęp pomiędzy elementami wewnątrz kontenera (w tym przypadku 20px) */
-            padding: 15px; /* Dodaje wewnętrzne wypełnienie (odstęp) wokół zawartości kontenera, wynoszące 15px */
+            padding: 15px 0 15px 0;  /*Dodaje wewnętrzne wypełnienie (odstęp) u góry i dołu zawartości kontenera, wynoszące 15px */
             background-color: #333; /* Ustawia ciemnoszary kolor tła kontenera */
             color: white; /* Ustawia biały kolor tekstu wewnątrz kontenera */
             width: 100%; /* Ustawia szerokość kontenera na 100% szerokości okna przeglądarki */
@@ -143,7 +143,7 @@
     </header>
 
     <main>
-        <h1>Witaj na mojej stronie!</h1>
+        <h1 id="about">Witaj na mojej stronie!</h1>
         <h2>Kim jestem?</h2>
         <p>Cześć! Mam na imię John Doe i jestem pasjonatem nowych technologii. Interesuję się programowaniem, muzyką i podróżami.</p>
 
@@ -161,7 +161,7 @@
         <h3>O mnie</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac neque at justo euismod pharetra. Donec eget dui id leo ullamcorper pellentesque.</p>
 
-        <h3>Nasze Usługi</h3>
+        <h3 id="services">Nasze Usługi</h3>
         <table>
             <tr>
                 <th>Usługa</th>
@@ -181,7 +181,7 @@
             </tr>
         </table>
 
-        <h3>Więcej o mnie</h3>
+        <h3 id="projects">Więcej o mnie</h3>
         <p>Zapraszam do odwiedzenia mojego profilu na <a href="https://github.com/" target="_blank">GitHub</a>, gdzie znajdziesz moje projekty.</p>
     </main>
 
@@ -203,7 +203,7 @@
             <strong>Szybkie linki:</strong>
             <a href="#about">O mnie</a>
             <a href="#projects">Projekty</a>
-            <a href="#contact">Kontakt</a>
+            <a href="#services">Usługi</a>
             <a href="https://github.com/" target="_blank">GitHub</a>
         </div>
 
