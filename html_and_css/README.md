@@ -3,7 +3,7 @@
 Twoim celem jest stworzenie estetycznej i prostej strony internetowej, na której zaprezentujesz siebie oraz oferowane usługi. 
 Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
 
-Wymagania HTML
+## Wymagania HTML
 
 Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do poprawnego wyświetlania i indeksowania przez wyszukiwarki internetowe (SEO).
 
@@ -20,7 +20,7 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
   - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
   - Obrazek - Twoje zdjęcie lub avatar.
 
-Wymagania CSS - Stylizacja strony
+## Wymagania CSS - Stylizacja strony
 
 - Zadbaj o estetyczny wygląd strony, wykorzystując kolory, czcionki, marginesy i paddingi.
 - Użyj podstawowych właściwości CSS, m.in.:
@@ -28,13 +28,13 @@ Wymagania CSS - Stylizacja strony
   - Wyśrodkowanie elementów.
   - Formatowanie list, tabel, div-ów i paragrafów.
 
-Responsywność strony
+## Responsywność strony
 
 - Strona powinna dobrze wyglądać zarówno na komputerach, jak i urządzeniach mobilnych.
 - Użyj ```media queries```, aby dostosować wygląd do różnych rozdzielczości.
 - Sprawdź responsywność, zmieniając szerokość okna przeglądarki (sprawdz dla minimalnej szerokości strony: 320 px).
 
-Zapis pliku
+## Zapis pliku
 
 - Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html).
 - Zapisz go na pendrive, aby móc wykorzystać w kolejnym zadaniu.
