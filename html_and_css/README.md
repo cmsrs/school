@@ -3,16 +3,16 @@
 Twoim celem jest stworzenie estetycznej i prostej strony internetowej, na której zaprezentujesz siebie oraz oferowane usługi. 
 Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
 
-Wymagania
-HTML - Strona powinna zawierać:
-Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby poprawnie zaindeksować jej zawartość (SEO).
+Wymagania HTML
 
-- W tagu ```head``` należy dodać: 
+Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do poprawnego wyświetlania i indeksowania przez wyszukiwarki internetowe (SEO).
+
+- W tagu ```<head>``` należy dodać: 
   - Tytuł strony. 
   - Kodowanie UTF-8. 
   - Autora 
   - Opis strony. 
-- W tagu ```body``` należy dodać:
+- W tagu ```<body>``` należy dodać:
   - Tytuł strony (nagłówek h1), np. "O mnie – [Twoje Imię]".
   - Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
   - Sekcja ```Moje hobby``` (nagłówek h2) - lista przedstawiająca Twoje zainteresowania.
@@ -20,7 +20,7 @@ Te dane są niezbędne dla przeglądarek internetowych, takich jak Google, aby p
   - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
   - Obrazek - Twoje zdjęcie lub avatar.
 
-CSS - Stylizacja strony:
+Wymagania CSS - Stylizacja strony
 
 - Zadbaj o estetyczny wygląd strony, wykorzystując kolory, czcionki, marginesy i paddingi.
 - Użyj podstawowych właściwości CSS, m.in.:
@@ -28,13 +28,13 @@ CSS - Stylizacja strony:
   - Wyśrodkowanie elementów.
   - Formatowanie list, tabel, div-ów i paragrafów.
 
-Responsywność strony:
+Responsywność strony
 
 - Strona powinna dobrze wyglądać zarówno na komputerach, jak i urządzeniach mobilnych.
 - Użyj ```media queries```, aby dostosować wygląd do różnych rozdzielczości.
 - Sprawdź responsywność, zmieniając szerokość okna przeglądarki (sprawdz dla minimalnej szerokości strony: 320 px).
 
-Zapis pliku:
+Zapis pliku
 
 - Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html).
 - Zapisz go na pendrive, aby móc wykorzystać w kolejnym zadaniu.
