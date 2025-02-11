@@ -36,8 +36,8 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 ### Zapis pliku
 
-- Nazwij plik w formacie ```imie-nazwisko.html``` patrz plik: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html).
-- Zapisz go na pendrive, aby móc wykorzystać w kolejnym zadaniu.
+- Nazwij plik w formacie ```imie-nazwisko.html``` (w pliku umieść znaczniki HTML, a style CSS umieść w sekcji ```<style>```). Zobacz przykład w pliku: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html). 
+- Zapisz plik na pendrive lub przechowaj w chmurze (np. Google Drive), aby móc wykorzystać go w kolejnym zadaniu.
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
