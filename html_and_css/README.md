@@ -18,9 +18,9 @@ CSS - Stylizacja strony:
 
 - Zadbaj o estetyczny wygląd strony, wykorzystując kolory, czcionki, marginesy i paddingi.
 - Użyj podstawowych właściwości CSS, m.in.:
-* Stylizacja tła, tekstu i nagłówków.
-* Wyśrodkowanie elementów.
-* Formatowanie list, tabel, div-ów i paragrafów.
+  - Stylizacja tła, tekstu i nagłówków.
+  - Wyśrodkowanie elementów.
+  - Formatowanie list, tabel, div-ów i paragrafów.
 
 Responsywność strony:
 
