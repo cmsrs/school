@@ -19,7 +19,7 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
   - Sekcja ```Usługi``` (nagłówek h2) - przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
   - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
   - Obrazek - Twoje zdjęcie lub avatar.
-  - Umieść minimum 4 zdjęcia z wakacji – dwa obok siebie na dużym ekranie, a na mniejszych ekranach jedno pod drugim. Preferowane jest, abyś użył swoich zdjęć. Jeśli ich nie masz, możesz skorzystać z moich, które znajdziesz w katalogu ```./imgs/holiday/```.
+  - Umieść minimum 4 zdjęcia z wakacji - dwa obok siebie na dużym ekranie, a na mniejszych ekranach jedno pod drugim. Preferowane jest, abyś użył swoich zdjęć. Jeśli ich nie masz, możesz skorzystać z moich, które znajdziesz w katalogu ```./imgs/holiday/```.
   - Dodaj logo (opcjonalnie).
 
 ### Wymagania CSS - Stylizacja strony
@@ -47,9 +47,9 @@ Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto o
 
 ### Wymagania dotyczące obrazków:
 
-- Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony.
+- Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony (Gimp: Obraz -> Skaluj obraz).
+- Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć (Gimp: Narzędzie kadrowania, po zaznaczeniu kliknij dwukrotnie w obszar kadrowania).
 - Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
-- Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć.
 
 
 # Zadanie 3: Wstawianie obrazków na stronę
