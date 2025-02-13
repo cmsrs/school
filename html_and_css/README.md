@@ -49,7 +49,8 @@ Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto o
 
 - Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony (Gimp: Obraz -> Skaluj obraz).
 - Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć (Gimp: Narzędzie kadrowania, po zaznaczeniu kliknij dwukrotnie w obszar kadrowania).
-- Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
+
+Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
 
 
 # Zadanie 3: Wstawianie obrazków na stronę
