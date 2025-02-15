@@ -28,7 +28,7 @@ Narysuj 4 kwadraty o boku równym 50 jędnostek jedden pod drugim oddalone o 20 
 
 <img src="./kwadraty.png" />
 
-## zadanie 5
+## zadanie 5 (dodatkowe)
 
 Narysuj następujące sześciokaty o boku równym 50 jednostek
 
