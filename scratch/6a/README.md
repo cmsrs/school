@@ -30,6 +30,6 @@ Narysuj 4 kwadraty o boku równym 50 jędnostek jedden pod drugim oddalone o 20 
 
 ## zadanie 5
 
-Narysuj następujące sześciokaty
+Narysuj następujące sześciokaty o boku równym 50 jednostek
 
 <img src="./szesciokaty.png" />
