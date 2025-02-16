@@ -9,8 +9,10 @@
      
     *Żółty słonecznik rośnie na dużym polu pełnym innych kwiatów.*
    - ```plik2.txt``` – wpisz w nim następujące zdanie:
+     
     *Wczoraj wieczorem widziałem piękny zachód słońca nad jeziorem.*
    - ```plik3.txt``` – wpisz w nim następujące zdanie:
+     
     *Źrebak biegał radośnie po łące, a tata wysłał mi e-mail na adres janek@poczta.pl.*
 - Zapisz wszystkie pliki w katalogu [imie]_[nazwisko].
 
