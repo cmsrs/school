@@ -1,4 +1,4 @@
-# Zadanie: Praca z plikami i folderami
+# Zadanie 1: Praca z plikami i folderami
 
 ## Instrukcja
 
