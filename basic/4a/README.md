@@ -3,13 +3,14 @@
 ## Instrukcja
 
 - Utwórz katalog i nadaj mu nazwę w formacie: [imie]_[nazwisko] (np. jan_kowalski).
+- Jeśli masz podłączony pendrive, zapisz folder na nim. Jeśli nie, umieść go w katalogu domowym użytkownika.
 - W tym katalogu utwórz trzy pliki tekstowe w Notatniku:
-   - plik1.txt – wpisz w nim następujące zdanie:
-    "Żółty słonecznik rośnie na dużym polu pełnym innych kwiatów."
-   - plik2.txt – wpisz w nim następujące zdanie:
-    "Wczoraj wieczorem widziałem piękny zachód słońca nad jeziorem."
-   - plik3.txt – wpisz w nim następujące zdanie:
-    "Źrebak biegał radośnie po łące, a tata wysłał mi e-mail na adres janek@poczta.pl."
+   - ```plik1.txt``` – wpisz w nim następujące zdanie:
+    *Żółty słonecznik rośnie na dużym polu pełnym innych kwiatów.*
+   - ```plik2.txt``` – wpisz w nim następujące zdanie:
+    *Wczoraj wieczorem widziałem piękny zachód słońca nad jeziorem.*
+   - ```plik3.txt``` – wpisz w nim następujące zdanie:
+    *Źrebak biegał radośnie po łące, a tata wysłał mi e-mail na adres janek@poczta.pl.*
 - Zapisz wszystkie pliki w katalogu [imie]_[nazwisko].
 
 ## Zadanie dodatkowe
