@@ -6,6 +6,7 @@
 - Jeśli masz podłączony pendrive, zapisz folder na nim. Jeśli nie, umieść go w katalogu domowym użytkownika.
 - W tym katalogu utwórz trzy pliki tekstowe w Notatniku:
    - ```plik1.txt``` – wpisz w nim następujące zdanie:
+   - 
     *Żółty słonecznik rośnie na dużym polu pełnym innych kwiatów.*
    - ```plik2.txt``` – wpisz w nim następujące zdanie:
     *Wczoraj wieczorem widziałem piękny zachód słońca nad jeziorem.*
