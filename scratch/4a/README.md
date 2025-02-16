@@ -12,5 +12,5 @@
 
 ## Zadanie dodatkowe:
 
-Spakuj katalog: [imie]_[nazwisko] do formatu ZIP lub RAR.
-Plik spakowany powinien mieć nazwę: [imie]_[nazwisko].zip (np. jan_kowalski.zip).
+- Spakuj katalog: [imie]_[nazwisko] do formatu ZIP lub RAR.
+- Plik spakowany powinien mieć nazwę: [imie]_[nazwisko].zip (np. jan_kowalski.zip).
