@@ -10,7 +10,7 @@
     "Wczoraj wieczorem widziałem piękny zachód słońca nad jeziorem."
 - Zapisz oba pliki w katalogu [imie]_[nazwisko].
 
-## Zadanie dodatkowe:
+## Zadanie dodatkowe
 
-Spakuj katalog [imie]_[nazwisko] do formatu ZIP lub RAR.
-Plik spakowany powinien mieć nazwę: [imie]_[nazwisko].zip (np. jan_kowalski.zip).
+- Spakuj katalog: [imie]_[nazwisko] do formatu ZIP lub RAR.
+- Plik spakowany powinien mieć nazwę: [imie]_[nazwisko].zip (np. jan_kowalski.zip).
