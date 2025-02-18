@@ -23,7 +23,7 @@ select * from students;
 
 
 -- wybierz wszystkie studentki
-select * from students WHERE student.sex = 'F';
+select * from students WHERE students.sex = 'F';
 
 
 -- koniec pliku
