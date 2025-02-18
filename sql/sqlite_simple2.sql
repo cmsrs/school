@@ -34,7 +34,7 @@ VALUES
 select * from students;
 
 
--- wybierz wszystkie studentki
+-- wybierz wszystkie klasy
 select * from  classes;
 
 
