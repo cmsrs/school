@@ -13,7 +13,7 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 - Długość boku kwadratu: odpowiednio 50, 75, 100, 125.
 - Grubość linii: odpowiednio 1, 3, 5, 7.
-- (opcjonalne) Kolor linii: kolejno czerwony, zielony, niebieski, żółty.
+- Kolor linii: kolejno czerwony, zielony, niebieski, żółty.
 - Odległość między kwadratami wynosi od 1 do 10 jednostek.
 
 <img src="./img/task1.png" />
