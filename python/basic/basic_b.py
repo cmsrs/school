@@ -201,7 +201,32 @@ ________
 9
 
 
-
 """
 
 
+print('######10######')
+
+
+for i in range(4):
+    if( i == 0):
+        color = "red"
+
+    if( i == 1):
+        color = "green"
+
+    if( i == 2):
+        color = "blue"
+
+    if( i == 3):
+        color = "yellow"
+
+    print(color)
+
+"""
+
+red
+green
+blue
+yellow
+
+"""
