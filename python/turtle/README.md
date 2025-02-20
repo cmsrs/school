@@ -18,7 +18,7 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 <img src="./img/task1.png" />
 
-Podczas rozwiązania zadania wykorzystaj pętle for, funkcje oraz listy (opcjonalne).
+Podczas rozwiązania zadania wykorzystaj: pętle for, funkcje, instrukcję warunkową if lub listy (opcjonalne).
 
 
 # Zadanie 2
