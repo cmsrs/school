@@ -20,16 +20,15 @@ Zachęcam do zapoznania się z przykładowymi zapytaniami zamieszczonymi w pliku
 3. Zmiana imion wszystkich studentek na "KATE"
 
     Napisz zapytanie SQL zmieniające imię wszystkich studentek (sex = 'F') na "KATE".
-    Składnia przykładowego zapytania SQL do aktualizacji wartości w tabeli:
+    Po wykonaniu zapytania aktualizującego studentów wyświetl zawartość tabeli ```students```.
+    Składnia zapytania SQL do aktualizacji wartości w tabeli to:
     
 
 ```sql
 UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;
-```
-
-    Po wykonaniu zapytania aktualizującego studentów wyświetl zawartość tabeli ```students```.
+```    
 
 4. (Dodatkowe) Wyświetlenie ocen dla studentów z punktu 2
 
@@ -39,6 +38,3 @@ WHERE condition;
     Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
 
 5. (Dodatkowe) Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć. Uzupełnij plik: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql), dodając tabele oraz przykładowe dane. Następnie wyświetl wszystkich studentów, którzy mają oceny z danego przedmiotu. Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Klasa, Oceny oraz Nazwa przedmiotu. Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
-
-    
-    
