@@ -17,14 +17,7 @@ Zachęcam do zapoznania się z przykładowymi zapytaniami zamieszczonymi w pliku
 2.  Pobierz wszystkich studentów, którzy są mężczyznami (sex = 'M') i należą do klasy (pomijając tych, którzy do żadnej klasy nie należą).
     Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Płeć, Klasa.
 
-3. (Dodatkowe) Wyświetlenie ocen dla studentów z punktu 2
-
-    Do wyników z punktu 2 dołącz oceny każdego studenta.
-    Wyświetl następujące kolumny: Imię, Nazwisko, Płeć, Klasa, Oceny.
-    Pokaż wszystkich studentów, nawet tych, którzy nie mają ocen.
-    Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
-
-4. (Dodatkowe) Zmiana imion wszystkich studentek na "KATE"
+3. Zmiana imion wszystkich studentek na "KATE"
 
     Napisz zapytanie SQL zmieniające imię wszystkich studentek (sex = 'F') na "KATE".
     Składnia przykładowego zapytania SQL do aktualizacji wartości w tabeli:
@@ -36,6 +29,14 @@ SET column1 = value1, column2 = value2, ...
 WHERE condition;
 ```
 
-5. Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć.
+4. (Dodatkowe) Wyświetlenie ocen dla studentów z punktu 2
+
+    Do wyników z punktu 2 dołącz oceny każdego studenta.
+    Wyświetl następujące kolumny: Imię, Nazwisko, Płeć, Klasa, Oceny.
+    Pokaż wszystkich studentów, nawet tych, którzy nie mają ocen.
+    Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
+
+5. (Dodatkowe) Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć. Uzupełnij plik: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql), dodaj tabele oraz przykładowe dane. Wyświetl wszytkich studentów, którzy mają oceny z danego przedmiotu, w wyniku pokaż następujące kolumny: Imię, Nazwisko, Klasa, Oceny oraz nazwę danego przedmiotu. Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
+
     
     
