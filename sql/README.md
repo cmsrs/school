@@ -36,7 +36,7 @@ WHERE condition;
     Pokaż wszystkich studentów, nawet tych, którzy nie mają ocen.
     Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
 
-5. (Dodatkowe) Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć. Uzupełnij plik: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql), dodaj tabele oraz przykładowe dane. Wyświetl wszytkich studentów, którzy mają oceny z danego przedmiotu, w wyniku pokaż następujące kolumny: Imię, Nazwisko, Klasa, Oceny oraz nazwę danego przedmiotu. Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
+5. (Dodatkowe) Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć. Uzupełnij plik: [SQLite.sql](https://github.com/cmsrs/school/blob/main/sql/sqlite.sql), dodając tabele oraz przykładowe dane. Następnie wyświetl wszystkich studentów, którzy mają oceny z danego przedmiotu. Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Klasa, Oceny oraz Nazwa przedmiotu. Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.
 
     
     
