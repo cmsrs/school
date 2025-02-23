@@ -43,6 +43,7 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 - W tym katalogu utwórz folder imgs, w którym umieścisz zdjęcia potrzebne na stronę.
 - Zapisz plik na pendrive lub przechowaj w chmurze (np. Google Drive), aby móc go wykorzystać w kolejnym zadaniu.
 
+Dobrze zaplanowane adresy URL mają kluczowe znaczenie dla wyszukiwarek internetowych i wpływają na pozycjonowanie strony.
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
