@@ -28,8 +28,15 @@ Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod 
 
 <img src="./kwadraty.png" />
 
-## zadanie 5 (dodatkowe)
+## zadanie 5
 
 Narysuj następujące ```sześciokąty``` o boku równym ```50 jednostek```.
 
 <img src="./szesciokaty.png" />
+
+## zadanie 6
+ 
+Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc układ 8 × 8. Patrz na poniższy rysunek:
+
+<img src="../szachownica_kwadraty.png" />
+

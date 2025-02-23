@@ -18,3 +18,9 @@ Narysuj kwadrat o boku ```50 jednostek``` w czwartej ćwiartce układu współrz
 Narysuj dwa kwadraty o boku ```100 jednostek``` w różnych kolorach, obrócone względem siebie o ```180 stopni```.
 
 <img src="./kwadraty_rotate.png" />
+
+## zadanie 4
+ 
+Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc układ 8 × 8. Patrz na poniższy rysunek:
+
+<img src="../szachownica_kwadraty.png" />
