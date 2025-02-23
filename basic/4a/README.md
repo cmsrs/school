@@ -15,7 +15,7 @@
      
     *Źrebak biegał radośnie po łące, a tata wysłał mi e-mail na adres janek@poczta.pl.*
 
-   - ```plik4.txt``` – wpisz w nim następujący text (10x10):
+   - ```plik4.txt``` – wpisz w nim następujący text (10x10), nie używając do tego myszki:
      
    *text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
     text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
