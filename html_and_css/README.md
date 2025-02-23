@@ -39,7 +39,7 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 ### Zapis pliku
 
-- Utwórz katalog o nazwie ```imie_nazwisko```, a w nim umieść plik imie-nazwisko.html. W tym pliku dodaj znaczniki HTML, a style CSS umieść w sekcji <style>. Przykład można znaleźć w pliku: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john_doe/john-doe.html). 
+- Utwórz katalog o nazwie ```imie_nazwisko```, zastępując znaki diakrytyczne ich odpowiednikami (np. „robert_szczepanski”) i używając wyłącznie małych liter. W katalogu umieść plik ```imie-nazwisko.html```, również zapisując go małymi literami i zamieniając znaki diakrytyczne (np. „robert-szczepanski.html”). W tym pliku dodaj znaczniki HTML, a style CSS umieść w sekcji <style>. Przykład można znaleźć w pliku: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john_doe/john-doe.html).
 - W tym katalogu utwórz folder imgs, w którym umieścisz zdjęcia potrzebne na stronę.
 - Zapisz plik na pendrive lub przechowaj w chmurze (np. Google Drive), aby móc go wykorzystać w kolejnym zadaniu.
 
