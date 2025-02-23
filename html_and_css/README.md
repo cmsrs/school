@@ -11,10 +11,11 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
   - Tytuł strony. 
   - Kodowanie UTF-8. 
   - Autora 
-  - Opis strony. 
+  - Słowa kluczowe
+  - Opis strony (ale zaleca się, aby długość opisu wynosiła do 160 znaków). 
 - W tagu ```<body>``` należy dodać:
-  - Tytuł strony (nagłówek h1), np. "O mnie – [Twoje Imię]".
-  - Krótka biografia – podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
+  - Tytuł strony (nagłówek h1), np. "John Doe - usługi informatyczne". Ważne jest, aby w tym znaczniku określić najważniejszą informację na temat zawartości strony.
+  - Krótka biografia - podstawowe informacje o sobie: imię, zainteresowania, hobby, plany zawodowe oraz krótki opis usług.
   - Sekcja ```Moje hobby``` (nagłówek h2) - lista przedstawiająca Twoje zainteresowania.
   - Sekcja ```Usługi``` (nagłówek h2) - przedstawienie oferowanych usług w formie tabeli (lub, opcjonalnie, w układzie flexbox jako zadanie dodatkowe).
   - Sekcja ```Kontaktowa``` (nagłówek h2), np. adres e-mail, link do profilu na LinkedIn.
