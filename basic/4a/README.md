@@ -14,6 +14,21 @@
    - ```plik3.txt``` – wpisz w nim następujące zdanie:
      
     *Źrebak biegał radośnie po łące, a tata wysłał mi e-mail na adres janek@poczta.pl.*
+
+   - ```plik4.txt``` – wpisz w nim następujący text (10x10):
+     
+   *text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1
+    text1 text1 text1 text1 text1 text1 text1 text1 text1 text1*
+
+- Następnie skopiuj tekst z ```plik4.txt``` do pozostałych plików, nie używając do tego myszki i pozostawiając istniejące teksty w tych plikach.
 - Zapisz wszystkie pliki w katalogu [imie]_[nazwisko].
 
 ## Zadanie dodatkowe
