@@ -24,3 +24,9 @@ Narysuj dwa kwadraty o boku ```100 jednostek``` w różnych kolorach, obrócone 
 Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc układ 8 × 8. Patrz na poniższy rysunek:
 
 <img src="../szachownica_kwadraty.png" />
+
+## zadanie 5
+ 
+Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj co drugi rząd na inny kolor. Patrz na poniższy rysunek:
+
+<img src="../szachownica_kwadraty_2.png" />
