@@ -38,8 +38,10 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 ### Zapis pliku
 
-- Nazwij plik w formacie ```imie-nazwisko.html``` (w pliku umieść znaczniki HTML, a style CSS umieść w sekcji ```<style>```). Zobacz przykład w pliku: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john-doe.html). 
-- Zapisz plik na pendrive lub przechowaj w chmurze (np. Google Drive), aby móc wykorzystać go w kolejnym zadaniu.
+- Utwórz katalog o nazwie ```imie_nazwisko```, a w nim umieść plik imie-nazwisko.html. W tym pliku dodaj znaczniki HTML, a style CSS umieść w sekcji <style>. Przykład można znaleźć w pliku: [john-doe.html](https://github.com/cmsrs/school/blob/main/html_and_css/john_doe/john-doe.html). 
+- W tym katalogu utwórz folder imgs, w którym umieścisz zdjęcia potrzebne na stronę.
+- Zapisz plik na pendrive lub przechowaj w chmurze (np. Google Drive), aby móc go wykorzystać w kolejnym zadaniu.
+
 
 # Zadanie 2: Edycja obrazków w programie graficznym
 
