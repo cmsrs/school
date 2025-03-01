@@ -19,13 +19,21 @@ Narysuj dwa kwadraty o boku ```100 jednostek``` w różnych kolorach, obrócone 
 
 <img src="./kwadraty_rotate.png" />
 
+
 ## zadanie 4
+ 
+Narysuj ```36 kwadratów```, z których każdy jest obrócony o ```10 stopni``` względem poprzedniego. Każdy kwadrat powinien mieć inny kolor. Zobacz rysunek poniżej:
+
+<img src="./kwadraty_36.png" />
+
+
+## zadanie 5
  
 Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc układ 8 × 8. Patrz na poniższy rysunek:
 
 <img src="../szachownica_kwadraty.png" />
 
-## zadanie 5
+## zadanie 6
  
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj co drugi rząd na inny kolor. Patrz na poniższy rysunek:
 
