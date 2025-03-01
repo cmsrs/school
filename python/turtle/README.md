@@ -42,3 +42,9 @@ Zmodyfikuj pierwsze zadanie tak, aby:
 W rozwiązaniu zastosuj instrukcję warunkową if.
 
 <img src="./img/task3.png" />
+
+# Zadanie 4 (dodatkowe)
+
+Zmodyfikuj pierwsze zadanie tak, aby otrzymać wynik przedstawiony poniżej:
+
+<img src="./img/task4.png" />
