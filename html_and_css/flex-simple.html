@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>cmsRs - CSS Flexbox</title>
+<style>
+    *{
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+    }
+    body{
+        background: #d3d3d3;
+    }
+
+    .wrapper{
+        background: #808080;
+        width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+        min-height: 100vh;/*100% of the viewport height*/
+    }   
+    .flex-container{
+        background: #fff;
+        display: flex;
+        /*flex-direction: row;  default*/
+        /*flex-direction: column;*/
+        flex-wrap: wrap;
+    } 
+    .box{
+        height: 100px;
+        /*flex: 1 0 100px;*/ /* shorthand: flex-grow: 1; flex-shrink: 0;  flex-basis: 100px; flex-shrink is rarely used */
+        flex-basis: 100px;  /* min-width: 100px; is similar */
+    }
+    .one{
+        background: red;
+        flex-grow: 7;
+    }       
+    .two{
+        background: green;
+        flex-grow: 4;
+    }       
+    .three{
+        background: blue;
+        flex-grow: 1;
+    }       
+</style>
+</head>
+<body>
+    <div class="wrapper">
+      <div class="flex-container">
+        <div class="box one"></div>
+        <div class="box two"></div>
+        <div class="box three"></div>
+      </div>
+    </div>
+</body>
