@@ -45,6 +45,37 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 Dobrze zaplanowane adresy URL mają kluczowe znaczenie dla wyszukiwarek internetowych i wpływają na pozycjonowanie strony.
 
+### Zdania dodatkowe
+
+- Utwórz stronę zawierającą regulamin – zapisz ją jako plik: ```imie_nazwisko/regulamin.html```. Następnie dodaj link do tej strony na stronie głównej, aby użytkownicy mogli łatwo do niej dotrzeć.
+
+- Umieść odwołanie do polityki prywatności w widocznym miejscu na stronie. Możesz wyróżnić je np. poprzez umieszczenie linku na czerwonym tle, kierującego do pliku: ```imie_nazwisko/polityka-prywatnosci.html```.
+
+- Stwórz wersję strony w innym języku, np. angielskim. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format:
+```imie_nazwisko/imie-nazwisko-lang.html```, np.:
+```john-doe.html/john-doe-en.html```.
+
+- Dodaj menu na stronie oraz utwórz podstrony – każdą umieść w osobnym pliku. Przykładowe nazwy plików:
+  - ```index.html``` – strona główna
+  - ```o-mnie.html``` – sekcja "O mnie"
+  - ```portfolio.html``` – przykłady realizacji
+  - ```kontakt.html``` – mail oraz telefon kontaktowy
+  - ```uslugi.html``` – oferta usług
+
+- Zabezpiecz adres e-mail przed spamem za pomocą JavaScript. Możesz zastosować prostą technikę ukrycia adresu e-mail w kodzie, np.:
+
+```
+document.addEventListener("DOMContentLoaded", function () {
+    let user = "kontakt";
+    let domain = "example.com";
+    let emailElement = document.getElementById("email");
+    emailElement.innerHTML = `<a href="mailto:${user}@${domain}">${user}@${domain}</a>`;
+});
+```
+
+Dzięki temu boty skanujące stronę nie odczytają bezpośrednio adresu e-mail z kodu HTML.
+
+
 # Zadanie 2: Edycja obrazków w programie graficznym
 
 Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto odpowiednio przygotować grafiki - np. zdjęcie profilowe i zdjęcia z wakacji i opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
