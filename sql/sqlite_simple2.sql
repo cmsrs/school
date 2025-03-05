@@ -52,4 +52,16 @@ join classes on
 where students.first_name = 'John';
 
 
+
+-- dla naszych danych wejsciowych - te selecty dadza ten sam wynik
+select * from students
+inner join classes on 
+( students.class_id  =  classes.id );
+
+select * from students
+left join classes on 
+( students.class_id  =  classes.id )
+where students.class_id is not null;
+
+
 -- koniec pliku
