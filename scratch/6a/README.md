@@ -24,7 +24,7 @@ Jeśli zostanie naciśnięty klawisz ```'a'```, narysuj schody pokazane poniżej
 
 Skorzystaj z bloku: ```jesli...w przeciwnym razie```, patrz poniższy przykład:
 
-<img src="./piramida_if.png" />
+<img src="./simple_if.png" />
 
 Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
 Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
