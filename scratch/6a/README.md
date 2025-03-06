@@ -22,6 +22,13 @@ Jeśli zostanie naciśnięty klawisz ```'a'```, narysuj schody pokazane poniżej
 
 <img src="./piramida_if2.png" />
 
+Skorzystaj z bloku: ```jesli...w przeciwnym razie```, patrz poniższy przykład:
+
+<img src="./piramida_if.png" />
+
+Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
+Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
+
 ## zadanie 4
 
 Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod drugim, oddalone od siebie o ```20 jednostek```, tak jak pokazano na rysunku poniżej.
