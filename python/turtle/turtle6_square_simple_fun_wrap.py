@@ -31,18 +31,15 @@ def move_to_next(c):
     t.left(90)
     t.pendown()
 
-#square 1
-t.pensize(3)
-t.color("red")
-square(a)
-
-#move to the next square
-move_to_next(a+10)
-
-#square 2
-t.pensize(7)
-t.color("blue")
-square(a+25)
+for i in range(2):
+    #t.pensize(3)
+    #if i == 0:        
+    #    t.color("red")
+    #if i == 1:
+    #    t.color("blue")
+    square(a)
+    move_to_next(a)
+    a = a + 25
 
 
 turtle.done()
