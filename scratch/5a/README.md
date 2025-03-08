@@ -38,3 +38,9 @@ Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc 
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj co drugi rząd na inny kolor. Patrz na poniższy rysunek:
 
 <img src="../szachownica_kwadraty_2.png" />
+
+## zadanie 7
+ 
+Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
+
+<img src="../szachownica_kwadraty_przekatne.png" />
