@@ -32,11 +32,11 @@ Wybierz jeden z poniższych tematów i przygotuj prezentację w programie Micros
 Możesz również wybrać inny interesujący Cię temat.
 
 ### 4. Dodaj obrazki do prezentacji
-Wstaw do dokumentu obrazy z folderu `imgs`. Pod każdym obrazkiem napisz jego źródło, np. stronę internetową, z której został pobrany.
+Wstaw obrazy z folderu imgs do dokumentu. Pod każdym z nich zamieść informację o źródle, na przykład adres strony internetowej, z której obrazek pochodzi, lub oznaczenie, że jest to obrazek własny.
 
-Jeśli nie ma informacji o licencji, dodaj następującą adnotację:
+Pod każdym obrazkiem dodaj następującą notatkę:
 ```
-Źródło: [adres strony]. Obrazek wykorzystany na użytek edukacyjny.
+Źródło: [adres strony lub własny]. Obrazek wykorzystany wyłącznie do celów edukacyjnych.
 ```
 
 ### 5. Spakuj i wyślij plik
@@ -45,3 +45,13 @@ Jeśli nie ma informacji o licencji, dodaj następującą adnotację:
 ```
 R.Szczepanski(małpa)eduwarszawa.pl
 ```
+
+w tytule maila napisz:
+Zadanie 2 - tytuł prezentacji
+
+w tresci maila:
+W załączeniu przesyłam rozwiązanie zadania nr 2
+
+Pozdrawiam serdecznie,
+[Imię i nazwisko]
+[Klasa]
