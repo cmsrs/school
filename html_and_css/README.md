@@ -45,15 +45,14 @@ Strona powinna zawierać odpowiednie elementy HTML, które są niezbędne do pop
 
 Dobrze zaplanowane adresy URL mają kluczowe znaczenie dla wyszukiwarek internetowych i wpływają na pozycjonowanie strony.
 
-### Zdania dodatkowe
+# Zdanie 2
 
-- Utwórz stronę zawierającą regulamin – zapisz ją jako plik: ```imie_nazwisko/regulamin.html```. Następnie dodaj link do tej strony na stronie głównej, aby użytkownicy mogli łatwo do niej dotrzeć.
+Wykonaj jedno z poniższych zadań według własnego wyboru:
 
-- Umieść odwołanie do polityki prywatności w widocznym miejscu na stronie. Możesz wyróżnić je np. poprzez umieszczenie linku na czerwonym tle, kierującego do pliku: ```imie_nazwisko/polityka-prywatnosci.html```.
+- Umieść odwołanie do polityki prywatności w widocznym miejscu na stronie. Możesz wyróżnić je np. poprzez umieszczenie linku na czerwonym tle, kierującego do pliku: ```imie_nazwisko/polityka-prywatnosci.html``` oraz utwórz stronę zawierającą regulamin – zapisz ją jako plik: ```imie_nazwisko/regulamin.html```. Następnie dodaj link do tej strony na stronie głównej, aby użytkownicy mogli łatwo do niej dotrzeć.
 
 - Stwórz wersję strony w innym języku, np. angielskim. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format:
-```imie_nazwisko/imie-nazwisko-lang.html```, np.:
-```john-doe.html/john-doe-en.html```.
+```imie_nazwisko/imie-nazwisko-lang.html```, np.: ```john-doe.html/john-doe-en.html```.
 
 - Dodaj menu na stronie oraz utwórz podstrony – każdą umieść w osobnym pliku. Przykładowe nazwy plików:
   - ```index.html``` – strona główna
@@ -61,6 +60,22 @@ Dobrze zaplanowane adresy URL mają kluczowe znaczenie dla wyszukiwarek internet
   - ```portfolio.html``` – przykłady realizacji
   - ```kontakt.html``` – mail oraz telefon kontaktowy
   - ```uslugi.html``` – oferta usług
+
+- Utwórz prostą stronę internetową, która skutecznie zachęci użytkowników do skorzystania z Twoich usług. Wykorzystaj tzw. lead, czyli chwytliwe i angażujące wezwanie do działania, które ma na celu przyciągnięcie uwagi potencjalnych klientów i skłonienie ich do podjęcia konkretnej akcji – np. zapisania się na newsletter, skontaktowania się z Tobą lub skorzystania z oferty.
+
+Przykładowy lead znajdziesz na stronie: [lead.html](https://github.com/cmsrs/school/blob/main/html_and_css/lead/lead.html).
+
+Pamiętaj, że skuteczny lead powinien być krótki, treściwy i dobrze dopasowany do grupy docelowej. Może zawierać elementy perswazji, takie jak korzyści wynikające z oferty, ograniczona dostępność usługi („Tylko dziś!"), czy bezpośrednie wezwanie do działania („Zarezerwuj teraz!”). Utwórz lead z trafnym obrazkiem, który będzie nawiązywał do Twojej działalności i przyciągał uwagę użytkowników. Grafika powinna wspierać przekaz, wzbudzać zainteresowanie i zachęcać do skorzystania z oferty.
+
+- Stwórz krótki film związany z Twoją działalnością lub pasją i opublikuj go w internecie, np. na YouTube. Opcjonalnie możesz umieścić link do filmu na swojej stronie.
+
+Pamiętaj, że publikowanie treści w sieci to nie tylko forma promocji, ale także sztuka przyciągania uwagi. Aby Twój film był bardziej angażujący:
+  - ```Zadbaj o jakość nagrania``` – dobra widoczność i czysty dźwięk to podstawa.
+  - ```Stwórz atrakcyjną miniaturę``` – pierwsze wrażenie ma ogromne znaczenie.
+  - ```Dodaj ciekawy opis i tytuł``` – zachęcą użytkowników do obejrzenia materiału.
+  - ```Podziel się nim w mediach społecznościowych``` – im więcej osób zobaczy Twój film, tym lepiej!
+
+### dodatkowe zadania
 
 - Zabezpiecz adres e-mail przed spamem za pomocą JavaScript. Możesz zastosować prostą technikę ukrycia adresu e-mail w kodzie, np.:
 
@@ -75,8 +90,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
 Dzięki temu boty skanujące stronę nie odczytają bezpośrednio adresu e-mail z kodu HTML.
 
+- Napisz prosty skrypt w JavaScript, który doda do Twojej strony efekt wizualny, np. spadające płatki śniegu. Płatki powinny delikatnie opadać z góry strony, tworząc efekt zimowego klimatu.
 
-# Zadanie 2: Edycja obrazków w programie graficznym
+Możesz użyć CSS do stylizacji płatków oraz JavaScript do animacji ich ruchu. Wykorzystaj funkcję setInterval() lub requestAnimationFrame(), aby uzyskać płynny efekt.
+
+
+# Zadanie 3: Edycja obrazków w programie graficznym
 
 Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto odpowiednio przygotować grafiki - np. zdjęcie profilowe i zdjęcia z wakacji i opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
 
@@ -88,7 +107,7 @@ Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto o
 Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
 
 
-# Zadanie 3: Wstawianie obrazków na stronę
+# Zadanie 4: Wstawianie obrazków na stronę
 
 Po przygotowaniu grafik umieść je na stronie, dbając o poprawne użycie znacznika ```<img>```. Pamiętaj o ustawieniu odpowiednich atrybutów, takich jak:
 
