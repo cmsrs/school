@@ -1,7 +1,7 @@
 # Zadanie 1: Strona internetowa o sobie
 
 Twoim celem jest stworzenie estetycznej i prostej strony internetowej, na której zaprezentujesz siebie oraz oferowane usługi. 
-Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum".
+Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum". Jeśli używasz obrazków z innych stron, dodaj pod obrazkiem informację o źródle oraz podaj licencję.
 
 ### Wymagania HTML
 
@@ -47,8 +47,7 @@ Dobrze zaplanowane adresy URL mają kluczowe znaczenie dla wyszukiwarek internet
 
 # Zdanie 2: Sztuka publikowania w sieci
 
-Wybierz jedno z poniższych zadań do wykonania:
-Możesz skorzystać z fikcyjnych danych oraz tekstu zastępczego, takiego jak "Lorem Ipsum".
+Publikowanie treści w internecie wymaga nie tylko dbałości o estetykę i funkcjonalność strony, ale także przestrzegania zasad prawnych i stosowania skutecznych metod angażowania użytkowników. Wybierz jedno z poniższych zadań do wykonania. Możesz skorzystać z fikcyjnych danych oraz tekstu zastępczego, takiego jak "Lorem Ipsum".
 
 - Umieść odwołanie do polityki prywatności w widocznym miejscu na stronie. Możesz wyróżnić je np. poprzez umieszczenie linku na czerwonym tle, kierującego do pliku: ```imie_nazwisko/polityka-prywatnosci.html``` oraz utwórz stronę zawierającą regulamin – zapisz ją jako plik: ```imie_nazwisko/regulamin.html```. Następnie dodaj link do tej strony na stronie głównej, aby użytkownicy mogli łatwo do niej dotrzeć.
 
