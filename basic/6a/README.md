@@ -47,11 +47,14 @@ R.Szczepanski(małpa)eduwarszawa.pl
 ```
 
 w tytule maila napisz:
-Zadanie 2 - tytuł prezentacji
+```Zadanie 2 ([klasa]) - tytuł prezentacji```
 
 w tresci maila:
+```
 W załączeniu przesyłam rozwiązanie zadania nr 2
+
 
 Pozdrawiam serdecznie,
 [Imię i nazwisko]
 [Klasa]
+```
