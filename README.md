@@ -11,6 +11,7 @@
 ## klasa 6
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)
 
 ## klasa 5
 
