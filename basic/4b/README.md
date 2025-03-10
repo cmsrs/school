@@ -2,8 +2,8 @@
 
 ## 1. Tworzenie katalogu i zapisywanie plików
 
-1. Utwórz katalog i nadaj mu nazwę w formacie: **[imię]_[nazwisko]** (bez znaków specjalnych, zapisane małymi literami).
-   - **Przykład:** `jan_kowalski`
+1. Utwórz katalog i nadaj mu nazwę w formacie: **[klasa]_[imię]_[nazwisko]** (bez znaków specjalnych, zapisane małymi literami).
+   - **Przykład:** `4a_jan_kowalski`
 
 2. Jeśli masz podłączony pendrive, zapisz folder na nim. Jeśli nie, umieść go w katalogu domowym użytkownika.
 
@@ -20,7 +20,7 @@
 
 1. Otwórz program **Word** i utwórz nowy dokument.
 
-2. Zapisz plik w katalogu **[imię]_[nazwisko]** pod nazwą:  
+2. Zapisz plik w katalogu **[klasa]_[imię]_[nazwisko]** pod nazwą:  
    **zdania_i_ludek.docx**
 
 3. Wklej do dokumentu wcześniej utworzony obrazek **ludek.png**.

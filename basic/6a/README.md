@@ -5,13 +5,13 @@
 ### 1. Utwórz folder
 Utwórz folder na swoim komputerze i nazwij go według wzoru:
 ```
-[imię]_[nazwisko]
+[klasa]_[imię]_[nazwisko]
 ```
 Nazwę folderu zapisz małymi literami, bez polskich znaków i spacji.
 
 **Przykład:**
 ```
-jan_kowalski
+6a_jan_kowalski
 ```
 
 ### 2. Dodaj folder na obrazki
@@ -19,7 +19,7 @@ W utworzonym folderze stwórz podfolder o nazwie:
 ```
 imgs
 ```
-W tym folderze umieść **dwa obrazki**, które później wstawisz do swojej prezentacji w Wordzie.
+W tym folderze umieść **jeden obrazk**, który później wstawisz do swojej prezentacji w Wordzie.
 
 ### 3. Przygotuj prezentację w Wordzie
 Wybierz jeden z poniższych tematów i przygotuj prezentację w programie Microsoft Word:
@@ -40,7 +40,7 @@ Pod każdym obrazkiem dodaj następującą notatkę:
 ```
 
 ### 5. Spakuj i wyślij plik
-- Spakuj cały folder (`[imię]_[nazwisko]`) do formatu **ZIP**.
+- Spakuj cały folder (`[klasa]_[imię]_[nazwisko]`) do formatu **ZIP**.
 - Wyślij plik na adres e-mail:
 ```
 R.Szczepanski(małpa)eduwarszawa.pl
