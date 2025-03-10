@@ -7,6 +7,26 @@ Następnie wykonaj poniższe zadania na platformie:
 https://pythonsandbox.com/turtle
 
 
+# Zadanie 0
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu 50.
+- Odległość między kwadratami wynosi od 1 do 10 jednostek.
+
+<img src="./img/task0.png" />
+
+
+# Zadanie 00
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu: odpowiednio 50, 75, 100, 125.
+- Odległość między kwadratami wynosi od 1 do 10 jednostek.
+
+<img src="./img/task00.png" />
+
+
 # Zadanie 1
 
 Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
