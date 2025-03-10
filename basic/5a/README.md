@@ -22,10 +22,10 @@ Pod każdym obrazkiem napisz:
 - **Źródło: [adres strony]** lub **Obrazek własny**
 
 ### 4. Zapisz dokument
-Zapisz plik jako **[klasa]_[imię]_[nazwisko].docx** (np. **5a_jan_kowalski.docx**).
+Zapisz plik jako ```[klasa]_[imię]_[nazwisko].docx``` (np. **5a_jan_kowalski.docx**).
 
 ### 5. Spakuj plik
-1. Spakuj plik Word (np. **5a_jan_kowalski.docx**) do formatu **ZIP** (np. **5a_jan_kowalski.zip**).
+1. Spakuj plik Word (np. ```5a_jan_kowalski.docx```) do formatu **ZIP** (np. ```5a_jan_kowalski.zip```).
 
 ### 6. Wyślij dokument
 1. Wyślij spakowany plik e-mailem na adres:  

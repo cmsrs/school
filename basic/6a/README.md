@@ -40,7 +40,7 @@ Pod każdym obrazkiem dodaj następującą notatkę:
 ```
 
 ### 5. Spakuj i wyślij plik
-- Spakuj cały folder (`[klasa]_[imię]_[nazwisko]`) do formatu **ZIP**.
+- Spakuj cały folder (```[klasa]_[imię]_[nazwisko]```) do formatu **ZIP**. Spakowany plik powinien mieć nazwę w formacie np.:  ```6a_jan_kowalski.zip```.
 - Wyślij plik na adres e-mail:
 ```
 R.Szczepanski(małpa)eduwarszawa.pl
