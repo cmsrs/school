@@ -2,7 +2,7 @@
 
 ## zadanie 1
 
-Narysuj ```1 kwadrat``` o boku równym ```100 jednostek``` w pierszej ćwiardce układu współrzędnych (prawy dolny róg). Zmodyfikuj podany kod poniżej:
+Narysuj ```1 kwadrat``` o boku równym ```100 jednostek``` w pierszej ćwiardce układu współrzędnych (prawy górny róg). Zmodyfikuj podany kod poniżej:
 
 <img src="./kwadrat.png" />
 
