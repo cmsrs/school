@@ -18,10 +18,9 @@ Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod 
 
 Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
 
-- Długość boku kwadratu: odpowiednio 50, 75, 100, 125.
+- Długość boku kwadratu: odpowiednio 10, 35, 60, 85.
 - Odległość między kwadratami wynosi ```10 jednostek```.
 
 <img src="./img/kwadraty_zmiana_boku.png" />
 
-Podpowiedź: Wykorzystaj w tym celu dodatkową zmienną która będzie się zmieniać o ```25 jednostek``` przy każdej interakcji pętli.
 
