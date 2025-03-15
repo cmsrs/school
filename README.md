@@ -8,6 +8,8 @@
 
 ## [html+css GIMP](https://github.com/cmsrs/school/tree/main/html_and_css)
 
+## [scratch klasa 7](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md)
+
 ## klasa 6
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md)
