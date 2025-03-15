@@ -23,4 +23,8 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 <img src="./kwadraty_zmiana_boku.png" />
 
+## zadanie 4
 
+Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
+
+<img src="../szachownica_kwadraty_przekatne.png" />
