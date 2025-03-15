@@ -21,6 +21,6 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 - Długość boku kwadratu: odpowiednio 10, 35, 60, 85.
 - Odległość między kwadratami wynosi ```10 jednostek```.
 
-<img src="./img/kwadraty_zmiana_boku.png" />
+<img src="./kwadraty_zmiana_boku.png" />
 
 
