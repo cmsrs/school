@@ -8,6 +8,9 @@ Narysuj ```1 kwadrat``` o boku równym ```100 jednostek``` w pierszej ćwiardce 
 
 <img src="./kwadrat_kod.png" />
 
+Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
+Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
+
 ## zadanie 2
 
 Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, tak jak pokazano na rysunku poniżej. Wykorzystaj w tym celu funkcje użytą w poprzednim ćwiczeniu.
