@@ -26,6 +26,21 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 <img src="./kwadraty_zmiana_boku.png" />
 
+Podpowiedź: Każdy kolejny kwadrat ma bok dłuższy o 25 jednostek, a początkowa długość boku wynosi 10 jednostek.
+
+## zadanie 4
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu: odpowiednio 10, 35, 60, 85.
+- Grubość linii: odpowiednio 1, 3, 5, 7.
+- Każdy kwadrat w innym kolorze linii.
+- Odległość między kwadratami wynosi od 1 do 10 jednostek.
+
+<img src="./kwadraty_zmiana_boku_koloru_grubosci.png" />
+
+Podpowiedź: Grubość linii każdego kolejnego kwadratu jest większa o 2 jednostki.
+
 ## zadanie 4
 
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
