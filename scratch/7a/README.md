@@ -41,7 +41,18 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 Podpowiedź: Grubość linii każdego kolejnego kwadratu jest większa o 2 jednostki.
 
-## zadanie 4
+## zadanie 5
+
+Zmodyfikuj pierwsze zadanie tak, aby:
+
+- Kwadraty o numerach 1 i 3 (licząc od góry) miały grubość linii 1.
+- Pozostałe kwadraty miały grubość linii 5.
+
+<img src="./kwadraty_zmiana_boku_koloru_grubosci_if.png" />
+
+W rozwiązaniu zastosuj instrukcję warunkową if.
+
+## zadanie 6
 
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
 
