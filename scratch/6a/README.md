@@ -28,6 +28,8 @@ Skorzystaj z bloku: ```jesli...w przeciwnym razie```, patrz poniższy przykład:
 
 Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
 Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
+Scratch is a project of the Scratch Foundation, in collaboration with the Lifelong Kindergarten Group at the MIT Media Lab. It is available for free at https://scratch.mit.edu
+patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890-czy-mog%C4%99-u%C5%BCywa%C4%87-zrzut%C3%B3w-ekranu-ze-scratcha-w-ksi%C4%85%C5%BCce-lub-prezentacji-
 
 ## zadanie 4
 
