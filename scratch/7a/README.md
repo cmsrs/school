@@ -45,7 +45,7 @@ Podpowiedź: Grubość linii każdego kolejnego kwadratu jest większa o 2 jedno
 
 ## zadanie 5
 
-Zmodyfikuj pierwsze zadanie tak, aby:
+Zmodyfikuj czwarte zadanie tak, aby:
 
 - Kwadraty o numerach 1 i 3 (licząc od góry) miały grubość linii 1.
 - Pozostałe kwadraty miały grubość linii 5.
