@@ -49,7 +49,7 @@ Dzięki bliskości Warszawy Kampinoski Park Narodowy jest idealnym miejscem na w
 ```
 
 ### 4. Dodaj obrazki do prezentacji
-Wstaw obrazy z folderu imgs do dokumentu. Pod każdym z nich zamieść informację o źródle, na przykład adres strony internetowej, z której obrazek pochodzi, lub oznaczenie, że jest to obrazek własny.
+Wstaw obraz z folderu imgs do dokumentu. Pod każdym z nich zamieść informację o źródle, na przykład adres strony internetowej, z której obrazek pochodzi, lub oznaczenie, że jest to obrazek własny.
 
 Pod każdym obrazkiem dodaj następującą notatkę:
 ```
