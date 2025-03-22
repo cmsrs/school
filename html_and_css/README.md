@@ -1,7 +1,6 @@
 # Zadanie 1: Strona internetowa o sobie
 
-Twoim celem jest stworzenie estetycznej i prostej strony internetowej, na której zaprezentujesz siebie oraz oferowane usługi. 
-Możesz użyć fikcyjnych danych oraz tekstu zastępczego "Lorem Ipsum". Jeśli używasz obrazków z innych stron, dodaj pod obrazkiem informację o źródle oraz podaj licencję.
+Twoim zadaniem jest stworzenie estetycznej i intuicyjnej strony internetowej, która przedstawi Ciebie, Twoje usługi lub wybrany produkt. Tworząc treść, zastosuj zasadę 5W (Who?, What?, Where?, When?, Why?), aby jasno określić, kim jesteś, co oferujesz i dlaczego warto skorzystać z Twojej oferty. Wykorzystaj również elementy graficzne i identyfikację wizualną, aby lepiej zobrazować działalność swojej firmy. Możesz posłużyć się fikcyjnymi danymi oraz tekstem zastępczym "Lorem Ipsum". Jeśli używasz obrazów z innych źródeł, pamiętaj o dodaniu informacji o ich pochodzeniu oraz licencji.
 
 ### Wymagania HTML
 
@@ -51,7 +50,7 @@ Publikowanie treści w internecie wymaga nie tylko dbałości o estetykę i funk
 
 - Umieść odwołanie do polityki prywatności w widocznym miejscu na stronie. Możesz wyróżnić je np. poprzez umieszczenie linku na czerwonym tle, kierującego do pliku: ```imie_nazwisko/polityka-prywatnosci.html``` oraz utwórz stronę zawierającą regulamin – zapisz ją jako plik: ```imie_nazwisko/regulamin.html```. Następnie dodaj link do tej strony na stronie głównej, aby użytkownicy mogli łatwo do niej dotrzeć.
 
-- Stwórz wersję strony w innym języku, np. angielskim. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format:
+- Stwórz wersję strony w innym języku, np. angielskim, aby dotrzeć do szerszej grupy odbiorców. Skuteczna komunikacja wymaga nie tylko tłumaczenia treści, ale także dostosowania jej do kultury i oczekiwań użytkowników. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format: 
 ```imie_nazwisko/imie-nazwisko-lang.html```, np.: ```john-doe.html/john-doe-en.html```.
 
 - Utwórz prostą stronę internetową, która skutecznie zachęci użytkowników do skorzystania z Twoich usług. Wykorzystaj tzw. lead, czyli chwytliwe i angażujące wezwanie do działania, które ma na celu przyciągnięcie uwagi potencjalnych klientów i skłonienie ich do podjęcia konkretnej akcji – np. zapisania się na newsletter, skontaktowania się z Tobą lub skorzystania z oferty. Przykładowy lead znajdziesz na stronie: [lead.html](https://github.com/cmsrs/school/blob/main/html_and_css/lead/lead.html). Pamiętaj, że skuteczny lead powinien być krótki, treściwy i dobrze dopasowany do grupy docelowej. Może zawierać elementy perswazji, takie jak korzyści wynikające z oferty, ograniczona dostępność usługi („Tylko dziś!"), czy bezpośrednie wezwanie do działania („Zarezerwuj teraz!”). Utwórz lead z trafnym obrazkiem, który będzie nawiązywał do Twojej działalności i przyciągał uwagę użytkowników. Grafika powinna wspierać przekaz, wzbudzać zainteresowanie i zachęcać do skorzystania z oferty.
