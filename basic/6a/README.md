@@ -31,6 +31,23 @@ Wybierz jeden z poniższych tematów i przygotuj prezentację w programie Micros
 
 Możesz również wybrać inny interesujący Cię temat.
 
+Oto przykładowy test:
+
+```
+Kampinoski Park Narodowy
+
+
+Kampinoski Park Narodowy to jeden z najważniejszych przyrodniczych skarbów Mazowsza. Położony na zachód od Warszawy, stanowi doskonałe miejsce dla miłośników natury, turystów oraz osób szukających odpoczynku od miejskiego zgiełku.
+
+Park charakteryzuje się niezwykłą różnorodnością krajobrazów. Spotkamy tu zarówno malownicze wydmy śródlądowe, jak i rozległe bagna, które są ostoją dla wielu gatunków zwierząt. Kampinos jest domem dla łosi, rysi, bobrów oraz licznych gatunków ptaków. To również ważne miejsce dla ochrony przyrody, pełni istotną rolę w zachowaniu ekosystemów nizinnych.
+
+Dla turystów przygotowano liczne szlaki piesze i rowerowe, które umożliwiają eksplorację parku. Popularne trasy prowadzą m.in. do rezerwatu Sieraków, na uroczysko „Zamczysko” czy w okolice wsi Granica, gdzie znajduje się ośrodek edukacyjny i skansen budownictwa puszczańskiego.
+
+Poza walorami przyrodniczymi Kampinos kryje również bogatą historię. W czasie II wojny światowej tereny te były miejscem walk partyzanckich oraz egzekucji przeprowadzanych przez okupanta. Liczne mogiły i pomniki upamiętniają tamte wydarzenia, czyniąc park miejscem nie tylko rekreacji, ale i zadumy nad przeszłością.
+
+Dzięki bliskości Warszawy Kampinoski Park Narodowy jest idealnym miejscem na weekendowe wypady dla mieszkańców stolicy. Jego unikalna przyroda i spokój sprawiają, że każdy znajdzie tu coś dla siebie – od wyciszających spacerów, przez rowerowe eskapady, aż po fotograficzne plenery w otoczeniu dzikiej przyrody.
+```
+
 ### 4. Dodaj obrazki do prezentacji
 Wstaw obrazy z folderu imgs do dokumentu. Pod każdym z nich zamieść informację o źródle, na przykład adres strony internetowej, z której obrazek pochodzi, lub oznaczenie, że jest to obrazek własny.
 
