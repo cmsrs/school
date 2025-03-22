@@ -54,20 +54,13 @@ Publikowanie treści w internecie wymaga nie tylko dbałości o estetykę i funk
 - Stwórz wersję strony w innym języku, np. angielskim. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format:
 ```imie_nazwisko/imie-nazwisko-lang.html```, np.: ```john-doe.html/john-doe-en.html```.
 
-- Dodaj menu na stronie oraz utwórz podstrony – każdą umieść w osobnym pliku. Przykładowe nazwy plików:
-  - ```index.html``` – strona główna
-  - ```o-mnie.html``` – sekcja "O mnie"
-  - ```portfolio.html``` – przykłady realizacji
-  - ```kontakt.html``` – mail oraz telefon kontaktowy
-  - ```uslugi.html``` – oferta usług
-
 - Utwórz prostą stronę internetową, która skutecznie zachęci użytkowników do skorzystania z Twoich usług. Wykorzystaj tzw. lead, czyli chwytliwe i angażujące wezwanie do działania, które ma na celu przyciągnięcie uwagi potencjalnych klientów i skłonienie ich do podjęcia konkretnej akcji – np. zapisania się na newsletter, skontaktowania się z Tobą lub skorzystania z oferty. Przykładowy lead znajdziesz na stronie: [lead.html](https://github.com/cmsrs/school/blob/main/html_and_css/lead/lead.html). Pamiętaj, że skuteczny lead powinien być krótki, treściwy i dobrze dopasowany do grupy docelowej. Może zawierać elementy perswazji, takie jak korzyści wynikające z oferty, ograniczona dostępność usługi („Tylko dziś!"), czy bezpośrednie wezwanie do działania („Zarezerwuj teraz!”). Utwórz lead z trafnym obrazkiem, który będzie nawiązywał do Twojej działalności i przyciągał uwagę użytkowników. Grafika powinna wspierać przekaz, wzbudzać zainteresowanie i zachęcać do skorzystania z oferty.
 
 - Stwórz krótki film związany z Twoją działalnością lub pasją i opublikuj go w internecie, np. na YouTube. Opcjonalnie możesz umieścić link do filmu na swojej stronie. Pamiętaj, że publikowanie treści w sieci to nie tylko forma promocji, ale także sztuka przyciągania uwagi. Aby Twój film był bardziej angażujący: zadbaj o jakość nagrania, stwórz atrakcyjną miniaturę, dodaj ciekawy opis i tytuł.
 
 ### dodatkowe zadania
 
-- Zabezpiecz adres e-mail przed spamem za pomocą JavaScript. Możesz zastosować prostą technikę ukrycia adresu e-mail w kodzie, np.:
+- Zabezpiecz adres e-mail przed spamem za pomocą JavaScript. Dzięki temu boty skanujące stronę nie odczytają bezpośrednio adresu e-mail z kodu HTML. Możesz zastosować prostą technikę ukrycia adresu e-mail w kodzie, np.:
 
 ```
 document.addEventListener("DOMContentLoaded", function () {
@@ -78,31 +71,39 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 ```
 
-Dzięki temu boty skanujące stronę nie odczytają bezpośrednio adresu e-mail z kodu HTML.
-
-- Napisz prosty skrypt w JavaScript, który doda do Twojej strony efekt wizualny, np. spadające płatki śniegu. Płatki powinny delikatnie opadać z góry strony, tworząc efekt zimowego klimatu.
-
-Możesz użyć CSS do stylizacji płatków oraz JavaScript do animacji ich ruchu. Wykorzystaj funkcję setInterval() lub requestAnimationFrame(), aby uzyskać płynny efekt.
+- Napisz prosty skrypt w JavaScript, który doda do Twojej strony efekt wizualny, np. spadające płatki śniegu. Płatki powinny delikatnie opadać z góry strony, tworząc efekt zimowego klimatu. Możesz użyć CSS do stylizacji płatków oraz JavaScript do animacji ich ruchu. Wykorzystaj funkcję setInterval() lub requestAnimationFrame(), aby uzyskać płynny efekt.
 
 
 # Zadanie 3: Edycja obrazków w programie graficznym
 
-Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto odpowiednio przygotować grafiki - np. zdjęcie profilowe i zdjęcia z wakacji i opcjonalnie logo - korzystając z programu graficznego (np. GIMP).
+Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto odpowiednio przygotować grafiki - np. zdjęcie profilowe i zdjęcia z wakacji - korzystając z programu graficznego GIMP.
 
 ### Wymagania dotyczące obrazków:
 
-- Dostosowanie rozmiaru - dopasuj wymiary obrazków do strony (Gimp: Obraz -> Skaluj obraz).
-- Kadrowanie i obróbka - jeśli to konieczne, popraw wygląd zdjęć (Gimp: Narzędzie kadrowania, po zaznaczeniu kliknij dwukrotnie w obszar kadrowania).
-
-Optymalizacja jakości - zachowaj czytelność, jednocześnie zmniejszając rozmiar plików.
-
+- ```Kadrowanie``` – Użyj narzędzia kadrowania (Shift + C). Po zaznaczeniu obszaru kadrowania kliknij dwukrotnie w jego wnętrze lub naciśnij Enter. Po przycięciu obraz powinien mieć szerokość ```250 px```. Zapisz wynik jako kadr.png.
+- ```Skalowanie obrazu``` – Zmień rozmiar obrazu tak, aby jego szerokość wynosiła ```250 px```, zachowując proporcje (Obraz → Skaluj obraz). Zapisz wynik jako skalowanie.png.
 
 # Zadanie 4: Wstawianie obrazków na stronę
 
-Po przygotowaniu grafik umieść je na stronie, dbając o poprawne użycie znacznika ```<img>```. Pamiętaj o ustawieniu odpowiednich atrybutów, takich jak:
+Po przygotowaniu grafik umieść je na stronie, korzystając z elementu ```<img>```. Pamiętaj o poprawnym ustawieniu następujących atrybutów:
 
-- src - ścieżka do pliku graficznego,
-- alt - opis alternatywny dla osób korzystających z czytników ekranu,
-- width i height - określenie wymiarów obrazka (opcjonalnie).
+- ```src``` – ścieżka do pliku graficznego,
+- ```alt``` – opis alternatywny (np. dla czytników ekranu),
+- ```width``` – szerokość obrazu (w tym przypadku ```250 px```).
 
-Dzięki temu Twoja strona będzie szybka w działaniu.
+Przykładowy kod HTML:
+
+```
+        <div class="holiday-container" >
+            <div class="holiday-img">
+                <img src="./kadr.png" alt="test kadr" width="250">
+            </div>
+            <div class="holiday-img">
+                <img src="./skalowanie.png" alt="test skalowanie" width="250">
+            </div>
+        </div>
+```
+
+Efekt końcowy powinien wyglądać następująco:
+
+<img src="./wynik.png" />
