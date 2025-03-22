@@ -56,6 +56,6 @@ W rozwiązaniu zastosuj instrukcję warunkową if.
 
 ## zadanie 6
 
-Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
+Narysuj siatkę 8 × 8 składającą się z kwadratów, zakładając, że odległość między nimi wynosi 10 jednostek. Pokoloruj przekątne na inny kolor, wzorując się na poniższym rysunku. Wykorzystaj funkcję z pierwszego ćwiczenia i utwórz zmienną ```bok_kwadratu```, której modyfikacja zmieni rozmiar wszystkich kwadratów.
 
 <img src="../szachownica_kwadraty_przekatne.png" />
