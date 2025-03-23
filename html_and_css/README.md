@@ -53,6 +53,60 @@ Publikowanie treści w internecie wymaga nie tylko dbałości o estetykę i funk
 - Stwórz wersję strony w innym języku, np. angielskim, aby dotrzeć do szerszej grupy odbiorców. Skuteczna komunikacja wymaga nie tylko tłumaczenia treści, ale także dostosowania jej do kultury i oczekiwań użytkowników. Dodaj przełącznik językowy na stronie głównej, umożliwiający użytkownikom zmianę wersji językowej. Link do strony w innym języku powinien mieć format: 
 ```imie_nazwisko/imie-nazwisko-lang.html```, np.: ```john-doe.html/john-doe-en.html```.
 
+przykład:
+
+Na stronie john-doe.html dodajemy:
+
+```
+<div class="language-switcher">
+  <a href="john-doe.html" class="lang-link pl active">Polski</a> | 
+  <a href="john-doe-en.html" class="lang-link en">English</a>
+</div>
+```
+
+Na stronie john-doe-en.html:
+
+```
+<div class="language-switcher">
+  <a href="john-doe.html" class="lang-link pl">Polski</a> | 
+  <a href="john-doe-en.html" class="lang-link en active">English</a>
+</div>
+```
+
+Na obu stronach dodajemy następujace style:
+
+```
+.language-switcher {
+    text-align: right;
+    margin: 10px;
+    font-size: 14px;
+}
+
+.lang-link {
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.lang-link.pl {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.lang-link.en {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Podkreślenie aktywnego języka */
+.lang-link.active {
+    font-weight: bold;
+    background-color: #007bff;
+    color: white;
+}
+```
+
+
 - Utwórz prostą stronę internetową, która skutecznie zachęci użytkowników do skorzystania z Twoich usług. Wykorzystaj tzw. lead, czyli chwytliwe i angażujące wezwanie do działania, które ma na celu przyciągnięcie uwagi potencjalnych klientów i skłonienie ich do podjęcia konkretnej akcji – np. zapisania się na newsletter, skontaktowania się z Tobą lub skorzystania z oferty. Przykładowy lead znajdziesz na stronie: [lead.html](https://github.com/cmsrs/school/blob/main/html_and_css/lead/lead.html). Pamiętaj, że skuteczny lead powinien być krótki, treściwy i dobrze dopasowany do grupy docelowej. Może zawierać elementy perswazji, takie jak korzyści wynikające z oferty, ograniczona dostępność usługi („Tylko dziś!"), czy bezpośrednie wezwanie do działania („Zarezerwuj teraz!”). Utwórz lead z trafnym obrazkiem, który będzie nawiązywał do Twojej działalności i przyciągał uwagę użytkowników. Grafika powinna wspierać przekaz, wzbudzać zainteresowanie i zachęcać do skorzystania z oferty.
 
 - Stwórz krótki film związany z Twoją działalnością lub pasją i opublikuj go w internecie, np. na YouTube. Opcjonalnie możesz umieścić link do filmu na swojej stronie. Pamiętaj, że publikowanie treści w sieci to nie tylko forma promocji, ale także sztuka przyciągania uwagi. Aby Twój film był bardziej angażujący: zadbaj o jakość nagrania, stwórz atrakcyjną miniaturę, dodaj ciekawy opis i tytuł.
