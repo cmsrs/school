@@ -9,7 +9,7 @@ Stwórz fotomontaż w GIMP-ie, łącząc dwa lub więcej zdjęć. Poniżej umie�
 ### Wynikowy fotomontaż:
 ![Fotomontaż](fotomontaz.png)  
 
-## Użyj poniższego kodu HTML, aby wyświetlić zdjęcia w przeglądarce (zmień nazwy plików w znacznikach <img>):
+## Użyj poniższego kodu HTML, aby wyświetlić zdjęcia w przeglądarce (zmień nazwy plików w znacznikach ```img```):
 
 
 ```
