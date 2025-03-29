@@ -147,14 +147,8 @@ Po przygotowaniu grafik umieść je na stronie, korzystając z elementu ```<img>
 Przykładowy kod HTML:
 
 ```
-        <div class="holiday-container" >
-            <div class="holiday-img">
-                <img src="./kadr.png" alt="test kadr" width="250">
-            </div>
-            <div class="holiday-img">
-                <img src="./skalowanie.png" alt="test skalowanie" width="250">
-            </div>
-        </div>
+      <img src="./kadr.png" alt="kadr" >
+      <img src="./skalowanie.png" alt="skalowanie" >
 ```
 
 Efekt końcowy powinien wyglądać następująco:
