@@ -21,8 +21,8 @@ imgs
 ```
 W tym folderze umieść **jeden obrazk**, który później wstawisz do swojej prezentacji w Wordzie.
 
-### 3. Przygotuj prezentację w Wordzie
-Wybierz jeden z poniższych tematów i przygotuj prezentację w programie Microsoft Word:
+### 3. Przygotuj prezentację w Wordzie lub PowerPoint
+Wybierz jeden z poniższych tematów i opracuj prezentację w programie Microsoft Word lub PowerPoint:
 - Moja klasa
 - Zdrowe odżywianie
 - Starożytny Egipt
