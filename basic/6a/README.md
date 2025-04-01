@@ -29,7 +29,7 @@ Wybierz jeden z poniższych tematów i przygotuj prezentację w programie Micros
 - Ochrona środowiska
 - Krajobrazy Polski
 
-Możesz również wybrać inny interesujący Cię temat.
+Możesz również wybrać inny interesujący Cię temat. Prezentację zapisz w folderze [klasa]_[imię]_[nazwisko], który utworzyłeś na początku.
 
 Oto przykładowy test:
 
