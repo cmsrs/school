@@ -73,7 +73,7 @@ patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890
 Przeanalizuj podany powyżej kod, w którym zastosowano listę (zwaną także tablicą). Następnie, korzystając z listy w tym przykładzie, narysuj kwadraty ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
 
 
-<img src="../lista_kwadrarty.png" />
+<img src="../lista_kwadraty.png" />
 
 Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
 Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
