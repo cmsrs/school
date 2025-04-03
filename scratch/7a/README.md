@@ -52,10 +52,30 @@ Zmodyfikuj czwarte zadanie tak, aby:
 
 <img src="./kwadraty_zmiana_boku_koloru_grubosci_if.png" />
 
-W rozwiązaniu zastosuj instrukcję warunkową if.
+W rozwiązaniu zastosuj instrukcję warunkową if oraz operację modulo (resztę z dzielenia przez 2).
 
 ## zadanie 6
 
 Narysuj siatkę 8 × 8 składającą się z kwadratów, zakładając, że odległość między nimi wynosi 10 jednostek. Pokoloruj przekątne na inny kolor, wzorując się na poniższym rysunku. Wykorzystaj funkcję z pierwszego ćwiczenia i utwórz zmienną ```bok_kwadratu```, której modyfikacja zmieni rozmiar wszystkich kwadratów.
 
 <img src="../szachownica_kwadraty_przekatne.png" />
+
+## zadanie 7
+
+<img src="../tutorial_lista.png" />
+
+Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
+Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
+Scratch is a project of the Scratch Foundation, in collaboration with the Lifelong Kindergarten Group at the MIT Media Lab. It is available for free at https://scratch.mit.edu
+patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890-czy-mog%C4%99-u%C5%BCywa%C4%87-zrzut%C3%B3w-ekranu-ze-scratcha-w-ksi%C4%85%C5%BCce-lub-prezentacji-
+
+
+Przeanalizuj podany powyżej kod, w którym zastosowano listę (zwaną także tablicą). Następnie, korzystając z listy w tym przykładzie, narysuj kwadraty ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
+
+
+<img src="../lista_kwadrarty.png" />
+
+Zrzut ekranu przedstawia projekt dostępny na platformie [Scratch](https://scratch.mit.edu/).  
+Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pl).  
+Scratch is a project of the Scratch Foundation, in collaboration with the Lifelong Kindergarten Group at the MIT Media Lab. It is available for free at https://scratch.mit.edu
+patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890-czy-mog%C4%99-u%C5%BCywa%C4%87-zrzut%C3%B3w-ekranu-ze-scratcha-w-ksi%C4%85%C5%BCce-lub-prezentacji-
