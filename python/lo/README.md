@@ -1,54 +1,70 @@
-# Zadnia
+# Zadania – Kwadraty z Alfabetu
 
-1. Analiza długości tekstu
+## Zadanie 1
 
-Zadanie:
-Napisz program, który przyjmuje od użytkownika zdanie i zwraca:
+Napisz funkcję `draw_square_from_alphabet`, która rysuje kwadrat o zadanej długości boku, wypełniony kolejnymi wielkimi literami alfabetu.  
+Litery powinny być wypisywane wierszami, zaczynając od podanej litery startowej.  
+Po literze `'Z'` należy kontynuować od `'A'`.
 
-    liczbę słów,
-    liczbę znaków (bez spacji),
-    liczbę znaków (ze spacjami).
+**Przykład:**  
+Dla litery startowej `'X'` i długości boku `6`, wynik powinien wyglądać następująco:
 
-Podpowiedź: Można użyć split() do podziału na słowa i len() do liczenia znaków.
+```
+X Y Z A B C 
+D E F G H I 
+J K L M N O 
+P Q R S T U 
+V W X Y Z A 
+B C D E F G 
+```
 
-📌 Bonus: Możesz dodać sprawdzanie, czy zdanie kończy się kropką.
 
-2. Zamiana liczby na liczbę rzymską
+## Zadanie 2
 
-Zadanie:
-Napisz program, który zamienia liczbę (1-1000) na jej odpowiednik w systemie rzymskim.
+Wykorzystaj funkcję `draw_square_from_alphabet(start, length)`, aby narysować **cztery kwadraty** z kolejnymi literami alfabetu (z zawijaniem po `'Z'`).
 
-Podpowiedź: Stwórz słownik {1: 'I', 5: 'V', 10: 'X', ...} i użyj algorytmu zamiany liczb.
+Każdy kwadrat ma inny rozmiar boku oraz inny punkt początkowy:
 
-📌 Bonus: Możesz dodać obsługę liczb większych niż 1000 (np. MCMXCIV = 1994).
+- **Pierwszy kwadrat** – bok: `3`, litera startowa: pierwsza litera **Twojego imienia**
+- **Drugi kwadrat** – bok: `4`, litera startowa: pierwsza litera **Twojego nazwiska**
+- **Trzeci kwadrat** – bok: `5`, litera startowa: litera oznaczająca **Twoją klasę** (np. `'H'` w `3H`)
+- **Czwarty kwadrat** – bok: `6`, litera startowa: `'M'` dla mężczyzny, `'F'` dla kobiety
 
-3. Strefy czasowe świata
+### Przykład
 
-Zadanie:
-Napisz program, który po podaniu nazwy miasta zwraca jego aktualny czas.
+Dla osoby o danych:
 
-Podpowiedź: Można użyć biblioteki pytz i datetime.
+- Imię: **Robert**
+- Nazwisko: **Szczepański**
+- Klasa: **3H**
+- Płeć: **mężczyzna**
 
-📌 Bonus: Dodaj kilka miast do wyboru (np. Warszawa, Londyn, Tokio) i pozwól użytkownikowi wybrać jedno.
+Litery startowe to: `R`, `S`, `H`, `M`
 
-4. Przeliczanie jednostek geograficznych
+**Wynik:**
 
-Zadanie:
-Napisz program, który konwertuje:
+```
+R S T 
+U V W 
+X Y Z 
 
-    kilometry na mile,
-    metry na stopy,
-    hektary na akry.
+S T U V 
+W X Y Z 
+A B C D 
+E F G H 
 
-Podpowiedź: 1 km = 0.621371 mil, 1 m = 3.28084 stopy, 1 ha = 2.47105 akra.
+H I J K L 
+M N O P Q 
+R S T U V 
+W X Y Z A 
+B C D E F 
 
-📌 Bonus: Dodaj opcję wyboru jednostki przez użytkownika.
+M N O P Q R 
+S T U V W X 
+Y Z A B C D 
+E F G H I J 
+K L M N O P 
+Q R S T U V 
+```
 
-5. Wyszukiwanie anagramów
 
-Zadanie:
-Napisz program, który sprawdza, czy dwa słowa są anagramami (np. "aktor" i "troka").
-
-Podpowiedź: Posortuj litery w obu słowach i porównaj wyniki.
-
-📌 Bonus: Możesz dodać sprawdzanie anagramów dla całych zdań.
