@@ -4,6 +4,8 @@
 
 ## [python turtle](https://github.com/cmsrs/school/tree/main/python/turtle)
 
+## [python lo3](https://github.com/cmsrs/school/blob/main/python/lo/README.md)
+
 ## [sql](https://github.com/cmsrs/school/tree/main/sql)
 
 ## [html+css GIMP](https://github.com/cmsrs/school/tree/main/html_and_css)
