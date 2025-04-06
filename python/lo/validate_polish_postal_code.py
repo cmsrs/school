@@ -1,4 +1,5 @@
 """
+Algorytmy na tekstach (2)
 
 Funkcja weryfikuje, czy podany ciąg znaków spełnia format polskiego kodu pocztowego (NN-NNN), gdzie N oznacza cyfrę. 
 Sprawdza długość ciągu, obecność myślnika na trzeciej pozycji oraz to, czy pozostałe znaki są cyframi.

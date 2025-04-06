@@ -1,4 +1,6 @@
 """
+Algorytmy na tekstach (3)
+
 Naiwny algorytm wyszukiwania wzorca w tekście.
 
 Parametry:
