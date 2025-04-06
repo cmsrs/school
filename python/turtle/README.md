@@ -68,3 +68,9 @@ W rozwiązaniu zastosuj instrukcję warunkową if.
 Zmodyfikuj pierwsze zadanie tak, aby otrzymać wynik przedstawiony poniżej:
 
 <img src="./img/task4.png" />
+
+# Zadanie 5
+
+Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
+
+<img src="./img/task5.png" />
