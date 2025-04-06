@@ -70,7 +70,7 @@ Scratch is a project of the Scratch Foundation, in collaboration with the Lifelo
 patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890-czy-mog%C4%99-u%C5%BCywa%C4%87-zrzut%C3%B3w-ekranu-ze-scratcha-w-ksi%C4%85%C5%BCce-lub-prezentacji-
 
 
-Przeanalizuj podany powyżej kod, w którym zastosowano listę (zwaną także tablicą). Następnie, korzystając z listy w tym przykładzie, narysuj kwadraty ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
+Przeanalizuj poniższy kod, w którym zastosowano listę (zwaną także tablicą). Następnie, korzystając z tej listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
 
 
 <img src="../lista_kwadraty.png" />

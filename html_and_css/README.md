@@ -142,8 +142,8 @@ Po przygotowaniu grafik umieść je na stronie, korzystając z elementu ```<img>
 Przykładowy kod HTML:
 
 ```
-      <img src="./kadr.png" alt="kadr" >
-      <img src="./skalowanie.png" alt="skalowanie" >
+      <img src="kadr.png" >
+      <img src="skalowanie.png" >
 ```
 
 Efekt końcowy powinien wyglądać następująco:
