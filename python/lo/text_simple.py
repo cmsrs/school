@@ -6,6 +6,8 @@ Algorytmy na tekstach (1)
 #print( ord("B") ) # 66
 #print( ord("Z") ) # 90
 
+
+od 65 do 90 jest 26 znaków
 """
 
 print('######1######')
@@ -56,9 +58,30 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 """
 
 
+print()
 print('######3######')
 
+def show_alphabet_from( start):
+    for i in range(ord(start), 91):  # Change 90 to 91 to include 90 in the range
+        print( f"{chr(i)}", end=" ")
+
+show_alphabet_from('S')
+
+"""
+S T U V W X Y Z 
+"""
+
+print()
+print('######3######')
+def show_alphabet_from_round( start):
+    start_nu = ord(start)
+    for _ in range(26):  # Change 90 to 91 to include 90 in the range
+        print(chr(start_nu), end=' ')
+        start_nu += 1
+        if start_nu > ord('Z'):
+            start_nu = ord('A')  # back to A after Z
 
 
+show_alphabet_from_round('S')
 
 

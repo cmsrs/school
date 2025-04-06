@@ -18,7 +18,7 @@ kody ASCII:
 ...
 90  -> 	Z
 
-od 90 do 65 jest 26 znaków
+od 65 do 90 jest 26 znaków
 
 
 dla klucza 2:
