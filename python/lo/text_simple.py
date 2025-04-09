@@ -84,4 +84,6 @@ def show_alphabet_from_round( start):
 
 show_alphabet_from_round('S')
 
-
+"""
+S T U V W X Y Z A B C D E F G H I J K L M N O P Q R 
+"""

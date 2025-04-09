@@ -2,9 +2,10 @@
 
 ## Zadanie 1
 
-Napisz funkcję `draw_square_from_alphabet`, która rysuje kwadrat o zadanej długości boku, wypełniony kolejnymi wielkimi literami alfabetu.  
-Litery powinny być wypisywane wierszami, zaczynając od podanej litery startowej.  
-Po literze `'Z'` należy kontynuować od `'A'`.
+Napisz funkcję ```draw_square_from_alphabet```, która rysuje kwadrat o zadanej długości boku, wypełniony kolejnymi wielkimi literami alfabetu.
+Litery powinny być wypisywane wierszami, zaczynając od podanej litery początkowej.
+Używaj wyłącznie wielkich liter alfabetu (zakres kodów ASCII od 65 do 90) oraz funkcji ```ord``` i ```chr```.
+Po literze 'Z' należy kontynuować od 'A', zachowując ciągłość alfabetu.
 
 **Przykład:**  
 Dla litery startowej `'X'` i długości boku `6`, wynik powinien wyglądać następująco:
@@ -66,5 +67,3 @@ E F G H I J
 K L M N O P 
 Q R S T U V 
 ```
-
-
