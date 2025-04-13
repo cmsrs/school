@@ -12,6 +12,8 @@
 
 ## [scratch klasa 7 i 8](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md)
 
+## [Gra Arkanoid](https://github.com/cmsrs/arkanoid/blob/main/arkanoid.html)
+
 ## klasa 6
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md)

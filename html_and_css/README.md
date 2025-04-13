@@ -139,6 +139,7 @@ Aby Twoja strona wyglądała profesjonalnie i wczytywała się szybciej, warto o
 # Zadanie 4: Wstawianie obrazków na stronę
 
 Po przygotowaniu grafik umieść je na stronie, korzystając z elementu ```<img>```
+W zadaniu użyj ten sam plik graficzny.
 Przykładowy kod HTML:
 
 ```
