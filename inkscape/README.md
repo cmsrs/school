@@ -18,6 +18,7 @@ Litery powinny być podobne do tych przedstawionych na ilustracji poniżej:
 - Wszystkie litery muszą być pisane wielkimi literami.
 - Każda litera powinna składać się z dwóch kolorów, z wyjątkiem liter: C, I, O – te mogą być jednokolorowe.
 - Pierwsza i druga litera (inicjały) powinny być większe niż trzecia i czwarta.
+- Do tworzenia liter użyj: prostokątów, kół lub krzywych Beziera.
 - Utwórz plik w formacie 'SVG'
 
 
