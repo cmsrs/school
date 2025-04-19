@@ -30,7 +30,7 @@ Litery powinny być podobne do tych przedstawionych na ilustracji poniżej:
 
 ```<img src="logo.svn">```
 
-## Przykład:
+## Przykład
 
 Dane przykładowej osoby:
 - Imię: Robert
