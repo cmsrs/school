@@ -9,15 +9,16 @@ Zaprojektuj logo składające się z czterech wielkich liter alfabetu, zgodnie z
 3. Litera oznaczająca Twoją klasę (np. "H" w 3H)
 4. "M" dla mężczyzny, "F" dla kobiety
 
-Litery powinny być inspirowane stylem przedstawionym na ilustracji:
+Litery powinny być podobne do tych przedstawionych na ilustracji poniżej:
 
 <img  src="alfabet.png" >
 
 ## Wymagania
 
 - Wszystkie litery muszą być pisane wielkimi literami.
-- Pierwsza i druga litera (inicjały) powinny być większe niż trzecia i czwarta.
 - Każda litera powinna składać się z dwóch kolorów, z wyjątkiem liter: C, I, O – te mogą być jednokolorowe.
+- Pierwsza i druga litera (inicjały) powinny być większe niż trzecia i czwarta.
+
 
 ## Dla osób, które wcześniej stworzyły stronę WWW
 
@@ -27,7 +28,7 @@ Litery powinny być inspirowane stylem przedstawionym na ilustracji:
 
 ```<img src="logo.svn">```
 
-Przykład:
+## Przykład:
 
 Dane przykładowej osoby:
 - Imię: Robert
@@ -37,7 +38,6 @@ Dane przykładowej osoby:
 
 Otrzymane litery: R, S, H, M
 
-Przykładowe logo znajduje się w pliku:
+Przykładowe logo:
 
-
-<img  src="logo_rshm.png" >
+<img  src="logo_rshm.png" style="width: 70%; height: auto;">
