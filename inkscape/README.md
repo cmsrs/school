@@ -85,6 +85,13 @@ Dobra infografika powinna prezentować informacje według jednego z poniższych 
 4. **Zamień tekst na grafikę** – zastanów się, jak najlepiej to zobrazować.
 5. **Zrób szkic** – najpierw ręcznie, np. na kartce.
 6. **Zaprojektuj infografikę** – najlepiej w programie graficznym, np. [Inkscape](https://inkscape.org/pl/).
+7. **Umieść infografikę na stronie internetowej** - którą wcześniej stworzyłeś/aś w ramach zajęć.
+W tym celu wykorzystaj znacznik HTML:
+
+```
+<img src="infografika.svg" alt="Opis infografiki">
+```
+
 
 > 🎯 **Uwaga:** Infografika powinna przedstawiać **jedno zagadnienie**. Najważniejsze jest, by była **czytelna i zrozumiała**, niekoniecznie bardzo ozdobna.
 
