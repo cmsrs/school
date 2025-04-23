@@ -39,6 +39,18 @@
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/README.md#zadanie--tworzenie-logo-na-podstawie-inicja%C5%82%C3%B3w-klasy-i-p%C5%82ci)
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/inkscape/README.md#zadanie---infografika--zadanie-projektowe)
 
+## sp - klasa 8
+
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-2)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-4)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-5)
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-7)
+
+## sp - klasa 7
+
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-2)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-4)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-5)
 
 ## sp - klasa 6
 
