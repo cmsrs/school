@@ -44,7 +44,7 @@ Przykładowe logo:
 
 <img  src="logo_rshm.png">
 
-# Infografika – Zadanie projektowe
+# Zadanie 2 - Infografika – Zadanie projektowe
 
 ## 🎯 Czym jest infografika?
 
