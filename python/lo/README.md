@@ -1,6 +1,6 @@
 # Zadania – Kwadraty z Alfabetu
 
-## Zadanie 1
+## Zadanie A
 
 Napisz funkcję ```draw_square_from_alphabet```, która rysuje kwadrat o zadanej długości boku, wypełniony kolejnymi wielkimi literami alfabetu.
 Litery powinny być wypisywane wierszami, zaczynając od podanej litery początkowej.
@@ -20,7 +20,7 @@ B C D E F G
 ```
 
 
-## Zadanie 2
+## Zadanie B
 
 Wykorzystaj funkcję `draw_square_from_alphabet(start, length)`, aby narysować **cztery kwadraty** z kolejnymi literami alfabetu (z zawijaniem po `'Z'`).
 
