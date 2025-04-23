@@ -94,6 +94,7 @@ Dobra infografika powinna prezentować informacje według jednego z poniższych 
 
 Oto przykładowa infografika mojego autorstwa – przedstawia proces tworzenia produktów w panelu administracyjnym CMS.
 
+<img  src="cmsrs_cmreate_shop_320.svg">
 📎 [Zobacz infografikę](cmsrs_cmreate_shop_320.svg)
 
 ### Opis:
