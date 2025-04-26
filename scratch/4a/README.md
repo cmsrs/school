@@ -24,3 +24,6 @@ Stwórz w Scratchu rysunek przedstawiony na obrazku:
 - Konto w Scratchu
 - Umiejętność korzystania z pisaka (blok "Pisanie")
 - Umiejętność zmiany koloru i rozmiaru pisaka
+
+
+*Wskazówka:** Przy tworzeniu projektu skorzystaj z przykładu kodu zamieszczonego na stronie 97.
