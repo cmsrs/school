@@ -1,8 +1,8 @@
- Zadanie
+ # Zadanie
 
 ## Opis
 Stwórz w Scratchu rysunek przedstawiony na obrazku:  
-![tunel](#tunel.png)
+<img src="tunel.png" >
 
 ## Instrukcje
 

@@ -68,7 +68,7 @@
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/4a/README.md)
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md)
-
+- [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/4a)
 
 
 ## Mój email:
