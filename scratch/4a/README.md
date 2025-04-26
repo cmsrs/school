@@ -26,4 +26,4 @@ Stwórz w Scratchu rysunek przedstawiony na obrazku:
 - Umiejętność zmiany koloru i rozmiaru pisaka
 
 
-*Wskazówka:** Przy tworzeniu projektu skorzystaj z przykładu kodu zamieszczonego na stronie 97.
+*Wskazówka:* Przy tworzeniu projektu skorzystaj z przykładu kodu zamieszczonego na stronie 97.
