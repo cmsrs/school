@@ -16,6 +16,7 @@
 
 ## [gra arkanoid](https://github.com/cmsrs/arkanoid/blob/main/arkanoid.html)
 
+# Zadania
 
 ## lo - klasa 3
 
