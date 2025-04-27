@@ -63,7 +63,7 @@
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/5a/README.md)
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/5a/README.md)
-
+- [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/5b#zadanie)
 
 ## sp - klasa 4
 
