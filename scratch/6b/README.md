@@ -1,6 +1,6 @@
-# Gra: Łapanie Jabłek
+# zadanie
 
-## Opis
+## Opis gry: Łapanie Jabłek
 
 W tej grze każdy z graczy steruje własnym duszkiem-graczem. Celem gry jest łapanie duszków-jabłek.
 
