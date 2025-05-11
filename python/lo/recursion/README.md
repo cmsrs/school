@@ -79,3 +79,40 @@ print ( 'fib(4)=', fib_iterative(4));
 Przykładowe czasy wykonania funkcji Fibonacciego w wersji iteracyjnej i rekurencyjnej dla wartości n od 30 do 44
 
 <img src="fib_comparative.png" />
+
+## Złota proporcja a ciąg Fibonacciego
+
+Złota proporcja (ang. *golden ratio*) to liczba oznaczana grecką literą φ (phi), równa w przybliżeniu **1.6180339887...**. Spełnia równanie:
+
+```
+x / y = (x + y) / x
+```
+
+czyli stosunek mniejszej części do większej jest taki sam, jak większej do całości.
+
+Można ją również zapisać jako:
+
+```
+φ = (1 + √5) / 2
+```
+
+Ciekawostka: jeśli policzymy iloraz kolejnych liczb Fibonacciego `F(n) / F(n-1)`, to dla dużych `n` wynik zbliża się do tej liczby:
+
+```
+lim (n → ∞) F(n) / F(n-1) = φ
+```
+
+Program w tym repozytorium pokazuje, jak złota proporcja pojawia się przy liczeniu liczb Fibonacciego **iteracyjnie**.  
+Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
+
+<img src="golden_ratio.png" />
+
+---
+
+### Gdzie występuje złota proporcja?
+
+Złota proporcja pojawia się w:
+- naturze (muszle, kwiaty, proporcje ciała),
+- architekturze (np. **piramidy** w Egipcie),
+- sztuce (obrazy Leonarda da Vinci),
+- designie (logo, UI, układy stron).
