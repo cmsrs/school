@@ -39,7 +39,7 @@ fib(n) = {
 }
 ```
 
-Kod:
+Program ```Fibonacci``` rekurencyjnie:
 ```python
 def fib(n):
     #print(f"fib({n}) called")
@@ -59,3 +59,23 @@ rys. Uruchomienie programu
 
 <img src="fib.png"  />
 rys. Schemat wywołań rekurencyjnych funkcji ```fib``` dla ```n = 4```
+
+
+Program ```Fibonacci``` interacyjnie:
+
+```python
+def fib_iterative(n):
+    a = 1
+    b = 0
+    for _ in range(n):
+        tmp = a + b
+        b = a
+        a = tmp
+    return b
+
+print ( 'fib(4)=', fib_iterative(4));
+```
+
+Przykładowe czasy wykonania funkcji Fibonacciego w wersji iteracyjnej i rekurencyjnej dla wartości n od 30 do 44
+
+<img src="fib_comparative.png" />
