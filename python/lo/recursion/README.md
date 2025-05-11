@@ -118,7 +118,7 @@ Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
 
 # Zadania
 
-Narysuj poniższe obrazy za pomocą biblioteki Turtle w języku Python, na przykład korzystając z platformy https://pythonsandbox.com/turtle. Najpierw wykonaj je w sposób interaktywny, a następnie zaimplementuj w wersji rekurencyjnej.
+Narysuj poniższe obrazy za pomocą biblioteki Turtle w języku Python, na przykład korzystając z platformy https://pythonsandbox.com/turtle. Najpierw wykonaj je w sposób iteracyjny, a następnie zaimplementuj w wersji rekurencyjnej.
 
 <img src="task1.png" />
 <img src="task2.png" />
