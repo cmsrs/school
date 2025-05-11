@@ -107,12 +107,20 @@ Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
 
 <img src="golden_ratio.png" />
 
----
 
-### Gdzie występuje złota proporcja?
-
-Złota proporcja pojawia się w:
+### Złota proporcja pojawia się w:
 - naturze (muszle, kwiaty, proporcje ciała),
 - architekturze (np. **piramidy** w Egipcie),
 - sztuce (obrazy Leonarda da Vinci),
 - designie (logo, UI, układy stron).
+
+---
+
+# Zadania
+
+Narysuj poniższe obrazy za pomocą biblioteki Turtle w języku Python, na przykład korzystając z platformy https://pythonsandbox.com/turtle. Najpierw wykonaj je w sposób interaktywny, a następnie zaimplementuj w wersji rekurencyjnej.
+
+<img src="task1.png" />
+<img src="task2.png" />
+<img src="task3.png" />
+<img src="task4.png" />
