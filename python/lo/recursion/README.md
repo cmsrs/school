@@ -39,10 +39,6 @@ fib(n) = {
 }
 ```
 
-<img src="console_fib.png" />
-rys. Uruchomienie programu
-
-
 Kod:
 ```python
 def fib(n):
@@ -56,6 +52,10 @@ def fib(n):
 fib_result = fib(4)
 print("out=", fib_result)
 ```
+
+<img src="console_fib.png" />
+rys. Uruchomienie programu
+
 
 <img src="fib.png"  />
 rys. Schemat wywołań rekurencyjnych funkcji ```fib``` dla ```n = 4```
