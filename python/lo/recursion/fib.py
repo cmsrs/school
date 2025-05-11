@@ -1,5 +1,5 @@
 def fib(n):
-    #print(f"fib_rek({n}) called")
+    print(f"fib_rek({n}) called")
     if n <= 1:
         return n
     else:
