@@ -88,7 +88,7 @@ Złota proporcja (ang. *golden ratio*) to liczba oznaczana grecką literą φ (p
 x / y = (x + y) / x
 ```
 
-czyli stosunek mniejszej części do większej jest taki sam, jak większej do całości.
+czyli stosunek całości do większej części jest równy stosunkowi większej części do mniejszej.
 
 Można ją również zapisać jako:
 
