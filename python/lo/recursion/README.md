@@ -76,7 +76,7 @@ def fib_iterative(n):
         a = tmp
     return b
 
-print ( 'fib(4)=', fib_iterative(4));
+print ( 'fib(4)=', fib_iterative(4))
 ```
 
 Przykładowe czasy wykonania funkcji Fibonacciego w wersji iteracyjnej i rekurencyjnej dla wartości n od 30 do 44
