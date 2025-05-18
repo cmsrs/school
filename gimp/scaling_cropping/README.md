@@ -18,4 +18,4 @@ Przykładowy kod HTML:
 
 Efekt końcowy powinien wyglądać następująco:
 
-<img src="./wynik.png" />
+<img src="../../html_and_css/wynik.png" />
