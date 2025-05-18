@@ -39,6 +39,9 @@ fib(n) = {
 }
 ```
 
+Ciąg Fibonacciego dla danych wejsciowych od 0 do 9
+<img src="fib10.png" />
+
 Program ```Fibonacci``` rekurencyjnie:
 ```python
 def fib(n):

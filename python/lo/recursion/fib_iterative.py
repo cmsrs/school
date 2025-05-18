@@ -7,5 +7,6 @@ def fib_iterative(n):
         a = tmp
     return b
 
+for i in range(10):
+    print ( 'fib(', i, ')=', fib_iterative(i))
 
-print ( 'fib(4)=', fib_iterative(4));
