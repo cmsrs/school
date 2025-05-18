@@ -20,14 +20,14 @@
 
 ## lo - klasa 3
 
-- [zadanie 1](https://github.com/cmsrs/school/tree/main/html_and_css#zadanie-strona-internetowa-o-sobie)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/python/lo/README.md#zadania--kwadraty-z-alfabetu)
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
 
 ## lo - klasa 2
 
-- [zadanie 1](https://github.com/cmsrs/school/tree/main/html_and_css#zadanie-strona-internetowa-o-sobie)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/gimp/scaling_cropping/README.md)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/gimp/README.md#zadanie-fotomonta%C5%BC-w-gimp)
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/inkscape/README.md#zadanie--tworzenie-logo-na-podstawie-inicja%C5%82%C3%B3w-klasy-i-p%C5%82ci)
