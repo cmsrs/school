@@ -24,6 +24,7 @@
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/python/lo/README.md#zadania--kwadraty-z-alfabetu)
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
+- [zadanie 5](https://github.com/cmsrs/school/blob/main/python/lo/recursion/README.md)
 
 ## lo - klasa 2
 
