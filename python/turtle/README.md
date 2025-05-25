@@ -74,3 +74,11 @@ Zmodyfikuj pierwsze zadanie tak, aby otrzymać wynik przedstawiony poniżej:
 Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
 
 <img src="./img/task5.png" />
+
+# Zadanie 6 (dodatkowe)
+
+Narysuj podane figury geometryczne w Scratch-u oraz w Python Turtle, wykorzystując ten sam algorytm w obu środowiskach.
+
+<img src="../../scratch/szachownica_kwadraty_przekatne.png" >
+
+<img src="../../python/lo/recursion/task4.png" >
