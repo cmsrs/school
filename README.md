@@ -43,16 +43,16 @@
 
 ## sp - klasa 8
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-2)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-4)
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-5)
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-7)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-B)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-D)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-E)
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-G)
 
 ## sp - klasa 7
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-2)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-4)
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-5)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-B)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-D)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-E)
 
 ## sp - klasa 6
 

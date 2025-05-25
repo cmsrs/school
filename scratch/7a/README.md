@@ -1,6 +1,6 @@
 # Zadania
 
-## zadanie 1
+## zadanie A
 
 Narysuj ```1 kwadrat``` o boku równym ```100 jednostek``` w pierszej ćwiardce układu współrzędnych (prawy górny róg). Zmodyfikuj podany kod poniżej:
 
@@ -13,13 +13,13 @@ Zrzut ekranu udostępniony zgodnie z licencją [CC BY-SA 4.0](https://creativeco
 Scratch is a project of the Scratch Foundation, in collaboration with the Lifelong Kindergarten Group at the MIT Media Lab. It is available for free at https://scratch.mit.edu
 patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890-czy-mog%C4%99-u%C5%BCywa%C4%87-zrzut%C3%B3w-ekranu-ze-scratcha-w-ksi%C4%85%C5%BCce-lub-prezentacji-
 
-## zadanie 2
+## zadanie B
 
 Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, tak jak pokazano na rysunku poniżej. Wykorzystaj w tym celu funkcje użytą w poprzednim ćwiczeniu.
 
 <img src="./kwadraty4.png" />
 
-## zadanie 3
+## zadanie C
 
 Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
 
@@ -30,7 +30,7 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 Podpowiedź: Każdy kolejny kwadrat ma bok dłuższy o 25 jednostek, a początkowa długość boku wynosi 10 jednostek.
 
-## zadanie 4
+## zadanie D
 
 Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
 
@@ -43,7 +43,7 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 Podpowiedź: Grubość linii każdego kolejnego kwadratu jest większa o 2 jednostki.
 
-## zadanie 5
+## zadanie E
 
 Zmodyfikuj czwarte zadanie tak, aby:
 
@@ -54,13 +54,13 @@ Zmodyfikuj czwarte zadanie tak, aby:
 
 W rozwiązaniu zastosuj instrukcję warunkową if oraz operację modulo (resztę z dzielenia przez 2).
 
-## zadanie 6
+## zadanie F
 
 Narysuj siatkę 8 × 8 składającą się z kwadratów, zakładając, że odległość między nimi wynosi 10 jednostek. Pokoloruj przekątne na inny kolor, wzorując się na poniższym rysunku. Wykorzystaj funkcję z pierwszego ćwiczenia i utwórz zmienną ```bok_kwadratu```, której modyfikacja zmieni rozmiar wszystkich kwadratów.
 
 <img src="../szachownica_kwadraty_przekatne.png" />
 
-## zadanie 7
+## zadanie G
 
 <img src="../tutorial_lista.png" />
 
