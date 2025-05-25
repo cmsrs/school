@@ -27,3 +27,9 @@ Stwórz w Scratchu rysunek przedstawiony na obrazku:
 
 
 *Wskazówka:* Przy tworzeniu projektu skorzystaj z przykładu kodu zamieszczonego na stronie 97.
+
+**Dodatkowe**
+
+Użyj duszka w Scratchu, aby narysować rysunek przedstawiony poniżej.
+
+<img src="tunel.png" >
