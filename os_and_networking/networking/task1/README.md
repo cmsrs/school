@@ -33,7 +33,7 @@ school123
 ### 2. Przejdź do katalogu serwera Apache
 
 ```bash
-cd /usr/local/www/apache24/data
+cd /usr/local/www/apache24/data/lab
 ```
 
 Sprawdź, czy jesteś w odpowiednim katalogu:
@@ -45,7 +45,7 @@ pwd
 Powinieneś zobaczyć:
 
 ```
-/usr/local/www/apache24/data
+/usr/local/www/apache24/data/lab
 ```
 
 ### 3. Utwórz swój plik HTML
@@ -61,7 +61,7 @@ echo "Hello, world! 3lo-jan-kowalski" > 3lo-jan-kowalski.html
 Otwórz przeglądarkę i wpisz:
 
 ```
-http://192.168.88.202/3lo-jan-kowalski.html
+http://192.168.88.202/lab/3lo-jan-kowalski.html
 ```
 
 Powinieneś zobaczyć:
