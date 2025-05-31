@@ -5,9 +5,9 @@
 <!-- Title: G Pages: 1 -->
 
 <svg
-   width="996pt"
-   height="151pt"
-   viewBox="0.00 0.00 996.28 150.74"
+   width="1021.2698pt"
+   height="434.92331pt"
+   viewBox="0 0 1021.5569 434.17443"
    version="1.1"
    id="svg116"
    sodipodi:docname="network_diagram.svg"
@@ -53,9 +53,9 @@
      inkscape:document-units="pt"
      showgrid="false"
      showguides="true"
-     inkscape:zoom="0.65865293"
-     inkscape:cx="658.92063"
-     inkscape:cy="-99.445394"
+     inkscape:zoom="1.8629518"
+     inkscape:cx="551.81245"
+     inkscape:cy="-97.962813"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -63,83 +63,59 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg116">
     <sodipodi:guide
-       position="480.4212,253.6248"
+       position="492.30528,271.34288"
        orientation="1,0"
        id="guide586"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="485.2536,335.61111"
+       position="497.13768,353.32919"
        orientation="0,-1"
        id="guide1569"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="497.7373,265.68161"
+       position="509.62138,283.39969"
        orientation="1,0"
        id="guide1571"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="461.57924,277.64266"
+       position="473.46332,295.36074"
        orientation="1,0"
        id="guide1573"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="506.194,295.01985"
+       position="518.07808,312.73793"
        orientation="0,-1"
        id="guide1575"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="425.41943,168.07509"
+       position="437.3035,185.79318"
        orientation="1,0"
        id="guide3901"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="-0.80540016,251.21343"
+       position="11.078653,268.93151"
        orientation="1,0"
        id="guide10753"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1000.307,208.6127"
+       position="1012.1911,226.33079"
        orientation="1,0"
        id="guide10755"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="504.1805,415.98986"
+       position="516.06458,433.70793"
        orientation="0,-1"
        id="guide10757"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="514.6507,-17.25157"
+       position="526.53478,0.46653277"
        orientation="0,-1"
        id="guide10759"
        inkscape:locked="false" />
   </sodipodi:namedview>
-  <text
-     xml:space="preserve"
-     style="font-size:14.004px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13418;stroke-linecap:square;stroke-miterlimit:0"
-     x="455.30908"
-     y="-150.87431"
-     id="text1798"><tspan
-       sodipodi:role="line"
-       id="tspan1796"
-       style="stroke-width:1.13418;fill:#000000;fill-opacity:1"
-       x="455.30908"
-       y="-150.87431" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:14.004px;line-height:45.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.13418;stroke-linecap:square;stroke-miterlimit:0"
-     x="456.09494"
-     y="-124.28249"
-     id="text2270"><tspan
-       sodipodi:role="line"
-       id="tspan2268"
-       style="stroke-width:1.13418"
-       x="456.09494"
-       y="-124.28249" /></text>
   <g
      id="g466"
-     inkscape:export-filename="network.svg"
-     inkscape:export-xdpi="96"
-     inkscape:export-ydpi="96">
+     transform="translate(11.884052,266.24947)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.387;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        id="rect10761"
@@ -272,7 +248,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="128.09,-57.36 129.93,-50.61 119.37,-51.35 "
+         points="129.93,-50.61 119.37,-51.35 128.09,-57.36 "
          id="polygon32" />
     </g>
     <g
@@ -318,7 +294,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="277.46,-52.64 279.68,-46 269.09,-46.14 "
+         points="279.68,-46 269.09,-46.14 277.46,-52.64 "
          id="polygon48" />
     </g>
     <g
@@ -364,7 +340,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="417.63,-62.08 422.59,-57.14 413.05,-52.53 "
+         points="422.59,-57.14 413.05,-52.53 417.63,-62.08 "
          id="polygon64" />
     </g>
     <g
@@ -410,7 +386,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="528.41,-57.14 533.37,-62.08 537.95,-52.53 "
+         points="533.37,-62.08 537.95,-52.53 528.41,-57.14 "
          id="polygon80" />
     </g>
     <g
@@ -456,7 +432,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="671.32,-46 673.54,-52.64 681.91,-46.14 "
+         points="673.54,-52.64 681.91,-46.14 671.32,-46 "
          id="polygon96" />
     </g>
     <g
@@ -502,7 +478,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="843.55,-44.98 845.44,-51.72 854.12,-45.65 "
+         points="845.44,-51.72 854.12,-45.65 843.55,-44.98 "
          id="polygon112" />
     </g>
     <g
@@ -555,7 +531,7 @@
          x="448.29919"
          y="-33.694489">MODEM</tspan></text>
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.93426257;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.934263;stroke-linecap:square;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
        d="m 480.3567,-30.547607 c 0,12.240368 0,24.4799861 0,36.7188539"
        id="path10743"
        inkscape:path-effect="#path-effect10745"

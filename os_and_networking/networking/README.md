@@ -1,4 +1,6 @@
-<img src="./imgs/graphviz/network_diagram.svg" >
+# Sieci komputerowe
+
+<img src="./imgs/graphviz/network.svg" >
 
 Zadania:
 
