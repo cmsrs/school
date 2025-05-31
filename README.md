@@ -8,6 +8,8 @@
 
 ## [sql](https://github.com/cmsrs/school/tree/main/sql)
 
+## [os+networking](https://github.com/cmsrs/school/blob/main/os_and_networking/networking/README.md)
+
 ## [html+css GIMP](https://github.com/cmsrs/school/tree/main/html_and_css)
 
 ## [inkscape](https://github.com/cmsrs/school/tree/main/inkscape)
