@@ -4,13 +4,6 @@
 
 Ten projekt pokazuje, jak przesłać spakowaną stronę HTML w pliku ZIP na serwer FreeBSD za pomocą `pscp`, rozpakować ją na serwerze i udostępnić przez serwer WWW Apache.
 
----
-
-## 📋 Zawartość
-
-- Plik ZIP z prostą stroną HTML 
-- Instrukcja przesłania pliku na serwer
-- Instrukcja rozpakowania pliku i udostępnienia strony przez Apache
 
 ---
 
