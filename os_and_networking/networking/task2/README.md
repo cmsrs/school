@@ -25,7 +25,7 @@ Ten projekt pokazuje, jak przesłać spakowaną stronę HTML w pliku ZIP na serw
 
 3. Zaloguj się na serwer przez SSH:
 
-   ```bash
+  ```bash
   ssh school@192.168.88.202
   ```
 
