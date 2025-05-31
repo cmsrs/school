@@ -1,4 +1,4 @@
-img src=""./imgs/graphviz/network_diagram.svg" >
+<img src=""./imgs/graphviz/network_diagram.svg" >
 
 Zadania:
 
