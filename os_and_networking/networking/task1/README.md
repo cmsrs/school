@@ -85,7 +85,6 @@ Hello, world! 3lo-jan-kowalski
 
 - Jeśli adres IP się zmieni, zapytaj nauczyciela o aktualny adres  
 - Jeśli coś nie działa, sprawdź dokładnie komendy lub poproś o pomoc  
-- Nie zmieniaj innych plików ani ustawień na serwerze
 
 ---
 
