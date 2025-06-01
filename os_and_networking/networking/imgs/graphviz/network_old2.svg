@@ -5,12 +5,13 @@
 <!-- Title: G Pages: 1 -->
 
 <svg
-   width="572.14703pt"
-   height="660.28375pt"
-   viewBox="0 0 572.30789 659.14683"
+   width="572.07996pt"
+   height="660.28381pt"
+   viewBox="0 0 572.24079 659.14689"
    version="1.1"
    id="svg116"
    sodipodi:docname="network.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      showgrid="false"
-     inkscape:zoom="0.92119478"
+     inkscape:zoom="3.6847791"
      inkscape:cx="771.82374"
-     inkscape:cy="419.56382"
+     inkscape:cy="878.61441"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
      inkscape:window-x="0"
@@ -42,13 +43,13 @@
      id="rect977"
      width="570.27606"
      height="660.17676"
-     x="1.9647591"
-     y="-0.51493722" />
+     x="0.067032412"
+     y="-0.3685748" />
   <!-- Czarna kropka -->
   <!-- Trzy zakrzywione linie -->
   <g
      id="g6347"
-     transform="matrix(0.54206327,0,0,0.54199981,117.72648,208.37402)"
+     transform="matrix(0.54206327,0,0,0.54199981,115.82875,208.52038)"
      inkscape:export-filename="g6347.svg"
      inkscape:export-xdpi="96"
      inkscape:export-ydpi="96">
