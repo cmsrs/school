@@ -8,7 +8,9 @@
 
 ## [sql](https://github.com/cmsrs/school/tree/main/sql)
 
-## [os+networking](https://github.com/cmsrs/school/blob/main/os_and_networking/networking/README.md)
+## [system operacyjny](https://github.com/cmsrs/school/blob/main/os/README.md)
+
+## [networking](https://github.com/cmsrs/school/blob/main/networking/README.md)
 
 ## [html+css GIMP](https://github.com/cmsrs/school/tree/main/html_and_css)
 
