@@ -12,7 +12,9 @@
 
 ## [sieci komputerowe](https://github.com/cmsrs/school/blob/main/networking/README.md)
 
-## [html+css GIMP](https://github.com/cmsrs/school/tree/main/html_and_css)
+## [html+css](https://github.com/cmsrs/school/tree/main/html_and_css)
+
+## [gimp](https://github.com/cmsrs/school/tree/main/gimp)
 
 ## [inkscape](https://github.com/cmsrs/school/tree/main/inkscape)
 
