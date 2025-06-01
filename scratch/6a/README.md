@@ -66,3 +66,9 @@ Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątną na inny ko
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
 
 <img src="../szachownica_kwadraty_przekatne.png" />
+
+## zadanie 10
+
+Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (co trzeci wiersz w innym kolorze):
+
+<img src="../trojkaty.png" />
