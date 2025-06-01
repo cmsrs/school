@@ -69,6 +69,6 @@ Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kol
 
 ## zadanie 10
 
-Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (co trzeci wiersz w innym kolorze):
+Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (dodatkowo: co trzeci wiersz w innym kolorze):
 
 <img src="../trojkaty.png" />
