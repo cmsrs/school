@@ -1,4 +1,4 @@
-# Zadanie 2 – Programy wypisujące dane ucznia (Python i C)
+# Zadanie 3 – Programy wypisujące dane ucznia (Python i C)
 
 ## 🎯 Cel
 
@@ -30,11 +30,8 @@ Dane dostępowe:
 🐍 Część 1: Program w Pythonie
 🔧 Instrukcje:
 
-    Utwórz plik o nazwie:
+Utwórz plik o nazwie: imie_nazwisko_klasa.py
 
-```bash
-imie_nazwisko_klasa.py
-```
 
 Przykład: jan_kowalski_2c.py
 
@@ -49,15 +46,13 @@ print("Klasa: 2C")
 Uruchom program:
 
 ```bash
-    python3.ver jan_kowalski_2c.py
+python3.ver jan_kowalski_2c.py
 ```
 
 💻 Część 2: Program w języku C
 🔧 Instrukcje:
 
-    Utwórz plik o nazwie:
-
-imie_nazwisko_klasa.c
+Utwórz plik o nazwie: imie_nazwisko_klasa.c
 
 Przykład: jan_kowalski_2c.c
 
@@ -81,9 +76,9 @@ gcc jan_kowalski_2c.c -o jan_kowalski_2c
 ```
 
 Uruchom program:
-
-```
-    ./jan_kowalski_2c
+ 
+```bash
+./jan_kowalski_2c
 ```    
 
 ✅ Przykładowy wynik działania
@@ -92,19 +87,7 @@ Imię: Jan
 Nazwisko: Kowalski
 Klasa: 2C
 
-📝 Co należy oddać
+📌 Uwaga
 
-    Plik .py z kodem w Pythonie
-
-    Plik .c z kodem w języku C
-
-    Plik README.md z opisem i danymi ucznia
-
-👤 Dane ucznia (uzupełnij poniżej)
-
-    Imię: Jan
-
-    Nazwisko: Kowalski
-
-    Klasa: 2C
+Gotowe programy należy pokazać i uruchomić na lekcji po zalogowaniu się na serwer.
 
