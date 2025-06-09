@@ -46,7 +46,7 @@ print("Klasa: 2C")
 Uruchom program:
 
 ```bash
-python3.ver jan_kowalski_2c.py
+python3.11 jan_kowalski_2c.py
 ```
 
 💻 Część 2: Program w języku C
