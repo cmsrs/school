@@ -13,7 +13,7 @@ Ten projekt pokazuje, jak przesłać spakowaną stronę HTML w pliku ZIP na serw
 2. Prześlij plik na serwer:
 
     ```bash
-    pscp 3lo-jan-kowalski.zip school@192.168.88.202:/home/school/
+    scp 3lo-jan-kowalski.zip school@192.168.88.202:/home/school/
     ```
 
 3. Zaloguj się na serwer przez SSH:
