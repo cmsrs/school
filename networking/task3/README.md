@@ -1,93 +1,44 @@
-# Zadanie 3 – Programy wypisujące dane ucznia (Python i C)
+# Przesyłanie i udostępnianie strony HTML na serwerze FreeBSD
 
-## 🎯 Cel
+## Opis projektu
 
-Nauczyć się pisać i uruchamiać podstawowe programy:
-- w języku **Python** (skryptowym),
-- w języku **C** (kompilowanym),
+Ten projekt pokazuje, jak przesłać spakowaną stronę HTML w pliku ZIP na serwer FreeBSD za pomocą `pscp`, rozpakować ją na serwerze i udostępnić przez serwer WWW Apache.
 
-które wypisują dane ucznia: **imię, nazwisko i klasę**.
 
 ---
 
-## 🔐 Logowanie do serwera
+## 🚀 Jak używać
 
-Przed wykonaniem zadania zaloguj się na serwer FreeBSD przez SSH:
+1. Przygotuj plik ZIP ze swoją stroną HTML (np. `3lo-jan-kowalski.zip` z np. `index.html` w środku).  
+2. Prześlij plik na serwer:
 
-```bash
-ssh school@192.168.88.202
-```
+    ```bash
+    pscp 3lo-jan-kowalski.zip school@192.168.88.202:/home/school/
+    ```
 
-Dane dostępowe:
+3. Zaloguj się na serwer przez SSH:
 
-    Adres IP serwera: 192.168.88.202
-    (adres może się zmieniać – sprawdź na lekcji)
+    ```bash
+    ssh school@192.168.88.202
+    ```
 
-    Nazwa użytkownika SSH: school
+4. Przenieś plik ZIP do katalogu Apache i rozpakuj go:
 
-    Hasło: school123
+    ```bash
+    mv ~/3lo-jan-kowalski.zip /usr/local/www/apache24/data/lab
+    cd /usr/local/www/apache24/data/lab
+    unzip 3lo-jan-kowalski.zip
+    ```
 
-🐍 Część 1: Program w Pythonie
-🔧 Instrukcje:
-
-Utwórz plik o nazwie: imie_nazwisko_klasa.py
+5. Otwórz swoją stronę w przeglądarce:
 
 
-Przykład: jan_kowalski_2c.py
+http://192.168.88.202/lab/3lo-jan-kowalski/index.html
 
-Zawartość pliku:
 
-```
-print("Imię: Jan")
-print("Nazwisko: Kowalski")
-print("Klasa: 2C")
-```
+## 🔐 Dane dostępowe do serwera
 
-Uruchom program:
-
-```bash
-python3.ver jan_kowalski_2c.py
-```
-
-💻 Część 2: Program w języku C
-🔧 Instrukcje:
-
-Utwórz plik o nazwie: imie_nazwisko_klasa.c
-
-Przykład: jan_kowalski_2c.c
-
-Zawartość pliku:
-
-```
-#include <stdio.h>
-
-int main() {
-    printf("Imię: Jan\n");
-    printf("Nazwisko: Kowalski\n");
-    printf("Klasa: 2C\n");
-    return 0;
-}
-```
-
-Skompiluj program:
-
-```
-gcc jan_kowalski_2c.c -o jan_kowalski_2c
-```
-
-Uruchom program:
- 
-```bash
-./jan_kowalski_2c
-```    
-
-✅ Przykładowy wynik działania
-
-Imię: Jan
-Nazwisko: Kowalski
-Klasa: 2C
-
-📌 Uwaga
-
-Gotowe programy należy pokazać i uruchomić na lekcji po zalogowaniu się na serwer.
-
+- **Adres IP serwera:** `192.168.88.202`  
+  *(adres może się zmieniać w zależności od DHCP)*  
+- **Nazwa użytkownika SSH:** `school`  
+- **Hasło:** `school123`
