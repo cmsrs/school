@@ -57,18 +57,18 @@ Aby zakończyć działanie tail, naciśnij:
 Ctrl + C
 ```
 
-✅ Checklist (do odhaczenia)
- Połączyłem się z serwerem przez SSH
+## ✅ Checklist do odhaczenia
 
- Odwiedziłem stronę http://192.168.88.202/
+- [ ] Połączyłem się z serwerem przez SSH  
+- [ ] Odwiedziłem stronę http://192.168.88.202/
+- [ ] Uruchomiłem podgląd logów Apache
+- [ ] Zobaczyłem wpisy odpowiadające odwiedzinom
+- [ ] Rozumiem, co oznaczają poszczególne elementy wpisów w logach
 
- Uruchomiłem podgląd logów Apache
+ 
 
- Zobaczyłem wpisy odpowiadające odwiedzinom
+## ℹ️ Dodatkowe wskazówki
 
- Rozumiem, co oznaczają poszczególne elementy wpisów w logach
-
-ℹ️ Dodatkowe wskazówki
 Jeśli nie widzisz nowych logów, odśwież stronę lub odwiedź ją z innego urządzenia.
 
 tail -f pozwala obserwować logi na żywo — przydatne przy testowaniu i diagnostyce.
