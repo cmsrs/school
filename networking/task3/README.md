@@ -36,7 +36,6 @@ Ten projekt pokazuje, jak przesłać spakowaną stronę HTML w pliku ZIP na serw
 http://192.168.88.202/lab/3lo-jan-kowalski/index.html
 
 
-## 🔐 Dane dostępowe do serwera
 
 - **Adres IP serwera:** `192.168.88.202`  
   *(adres może się zmieniać w zależności od DHCP)*  

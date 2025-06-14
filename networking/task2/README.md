@@ -21,9 +21,10 @@ Uruchom terminal (Linux/macOS) lub program PuTTY (Windows), następnie wpisz:
 
 ```bash
 ssh school@192.168.88.202
+```
+
 Zaakceptuj klucz (yes), a potem wpisz hasło:
 school123
-```
 
 2. Odwiedź stronę w przeglądarce
 Na swoim komputerze otwórz przeglądarkę i przejdź do:
@@ -37,7 +38,7 @@ Odśwież stronę kilka razy lub poproś kolegę/koleżankę, żeby też ją odw
 3. Sprawdź logi serwera Apache w czasie rzeczywistym
 W terminalu na serwerze wpisz polecenie:
 
-```bash
+```
 tail -f /var/log/httpd-access.log
 ```
 
