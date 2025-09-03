@@ -39,7 +39,9 @@ Pdręcznik: Nowa Ewa, Informatyka na czasie 3, Podręcznik dla liceum ogólnoksz
 ## lo - klasa 2
 
 Pdręcznik: Migra, Informatyka 1-3, Podręcznik dla szkół ponadpodstatowych - Zakres podstawowy
+
  #1 Komputer i aplikacje
+ 
  #2 Algorytmika i programowanie
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
