@@ -26,10 +26,9 @@
 
 ## lo - klasa 3
 
-Pdręcznik: Nowa Ewa, Informatyka na czasie 3, Podręcznik dla liceum ogólnokszałcącego i technikum - Zakres podstawowy
-
 ----semestr I----
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
+- [zadanie 1a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
+- [zadanie 1b](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/python/lo/recursion/README.md)
 
@@ -38,14 +37,8 @@ Pdręcznik: Nowa Ewa, Informatyka na czasie 3, Podręcznik dla liceum ogólnoksz
 
 ## lo - klasa 2
 
-Pdręcznik: Migra, Informatyka 1-3, Podręcznik dla szkół ponadpodstatowych - Zakres podstawowy
-
- #1 Komputer i aplikacje
- 
- #2 Algorytmika i programowanie
-
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/python/turtle/README.md#zadania)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/turtle/README.md#zadania)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/sql/README.md)
 
 ## lo - klasa 1
 
