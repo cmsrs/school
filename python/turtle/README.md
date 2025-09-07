@@ -6,6 +6,7 @@ https://github.com/cmsrs/school/tree/main/python/turtle
 Następnie wykonaj poniższe zadania na platformie:
 https://pythonsandbox.com/turtle
 
+Najpierw rozwiąż wszystkie zadania w Scratchu, aby dobrze zrozumieć logikę, a dopiero potem przenieś rozwiązania do Pythona.
 
 # Zadanie 0
 
@@ -71,9 +72,15 @@ Zmodyfikuj pierwsze zadanie tak, aby otrzymać wynik przedstawiony poniżej:
 
 # Zadanie 5
 
-Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej.
+Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej. Na końcu oblicz i podaj sumę wszystkich obwodów.
 
 <img src="./img/task5.png" />
+
+Aby wyświetlić sumę obwodów, możesz skorzystać z następującego kodu:”
+```python
+t.write(f"Suma obwodów: {suma_obwodow}", font=("Arial", 16, "bold"))
+print("Suma obwodów (print):", suma_obwodow)
+````
 
 # Zadanie 6 (dodatkowe)
 
