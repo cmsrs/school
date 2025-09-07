@@ -27,13 +27,14 @@
 ## lo - klasa 3
 
 ----semestr I----
-- [zadanie 1a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
-- [zadanie 1b](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/python/lo/recursion/README.md)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/recursion/README.md#zadania) - termin oddania: **03.10.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/python/lo/README.md#zadania--kwadraty-z-alfabetu)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
 
 ----semestr II----
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/python/lo/README.md#zadania--kwadraty-z-alfabetu)
+- [zadanie 1a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
+- [zadanie 1b](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
+
 
 ## lo - klasa 2
 
