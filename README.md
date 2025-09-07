@@ -38,7 +38,7 @@
 
 ## lo - klasa 2
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/turtle/README.md#zadania)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/turtle/README.md#zadania) - termin oddania: **03.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/sql/README.md)
 
 ## lo - klasa 1
