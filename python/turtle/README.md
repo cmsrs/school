@@ -6,7 +6,7 @@ https://github.com/cmsrs/school/tree/main/python/turtle
 Następnie wykonaj poniższe zadania na platformie:
 https://pythonsandbox.com/turtle
 
-Najpierw rozwiąż wszystkie zadania w Scratchu, aby dobrze zrozumieć logikę, a dopiero potem przenieś rozwiązania do Pythona.
+**Uwaga:** Najpierw rozwiąż wszystkie zadania w Scratchu, aby dobrze zrozumieć logikę, a dopiero potem przenieś rozwiązania do Pythona.
 
 # Zadanie 0
 
