@@ -123,7 +123,10 @@ Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
 
 # Zadania
 
-Narysuj poniższe obrazy za pomocą biblioteki Turtle w języku Python, na przykład korzystając z platformy https://pythonsandbox.com/turtle. Najpierw wykonaj je w sposób iteracyjny, a następnie zaimplementuj w wersji rekurencyjnej.
+Co masz zrobić (3 etapy):
+- Wersja w Scratchu – odtwórz jedną z wybranych figur w Scratchu (z Piórem).
+- Python – wersja iteracyjna: zaimplementuj tę samą figurę w Pythonie z użyciem biblioteki Turtle, korzystając z pętli.
+- Python – wersja rekurencyjna: zaimplementuj tę figurę ponownie, ale tym razem w sposób rekurencyjny.
 
 <img src="task1.png" />
 <img src="task2.png" />
