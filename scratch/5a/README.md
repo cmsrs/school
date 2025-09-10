@@ -33,13 +33,13 @@ Narysuj siatkę składającą się z 8 rzędów i 8 kolumn kwadratów, tworząc 
 
 <img src="../szachownica_kwadraty.png" />
 
-## zadanie F
+## zadanie F (na 5+)
  
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj co drugi rząd na inny kolor. Patrz na poniższy rysunek:
 
 <img src="../szachownica_kwadraty_2.png" />
 
-## zadanie G
+## zadanie G (na 6)
  
 Narysuj siatkę 8 × 8 złożoną z kwadratów. Pokoloruj przekątne na inny kolor. Patrz na poniższy rysunek.
 

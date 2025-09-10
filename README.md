@@ -67,14 +67,14 @@
 
 ## sp - klasa 5
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/5a/README.md)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/5a/README.md)
-- [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/5b#zadanie)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/5a/README.md#zadanie-d) - termin oddania (Scratch): **26.09.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/5a/README.md#zadanie-e) - termin oddania (Scratch): **03.10.2025**
+- [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/5b#zadanie) - termin oddania (Scratch): **06.11.2025**
 
 ## sp - klasa 4
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/4a/README.md)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/4a/README.md) - termin oddania (Scratch): **03.10.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md) - termin oddania (Scratch): **07.11.2025**
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/4a)
 
 
