@@ -50,10 +50,8 @@
 
 ## sp - klasa 8
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-B)
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-D)
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-E)
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-G)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-G)
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H)
 
 ## sp - klasa 7
 
