@@ -88,10 +88,11 @@ Wykonaj jedno z poniższych zadań
 ### 1 (zadanie na 6)
 
 Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (co trzeci wiersz w innym kolorze):
+
 Zdefiniuj zmienne:
 
-```bok_trójkąta``` – określającą długość boku,
-```ilosc_rzedow``` – określającą liczbę wierszy.
+    ```bok_trójkąta``` – określającą długość boku,
+    ```ilosc_rzedow``` – określającą liczbę wierszy.
 
 Dzięki temu wartości te będzie można dowolnie modyfikować.
 
@@ -101,10 +102,11 @@ Dzięki temu wartości te będzie można dowolnie modyfikować.
 ### 2
 
 Narysuj kwadraty tak jak pokazano poniźej:
+
 Zdefiniuj zmienne:
 
-```bok_kwadratu``` – określającą długość boku,
-```ilosc_kwadratow``` – określającą liczbę rysowanych kwadratów.
+    ```bok_kwadratu``` – określającą długość boku,
+    ```ilosc_kwadratow``` – określającą liczbę rysowanych kwadratów.
 
 Dzięki temu wartości te będzie można dowolnie modyfikować.
 
