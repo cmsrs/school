@@ -85,20 +85,22 @@ patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890
 
 Wykonaj jedno z poniższych zadań
 
-### A (zadanie na 6)
+### 1 (zadanie na 6)
 
 Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (co trzeci wiersz w innym kolorze):
 
 <img src="../trojkaty.png" />
 
-### B
+
+### 2
+
+Narysuj kwadraty tak jak pokazano poniźej:
+
+<img src="../../python/lo/recursion/task3.png" />
+
+## I (zadanie na +)
 
 Narysuj spiralę tak jak pokazano poniźej:
 
 <img src="../../python/lo/recursion/task2.png" />
 
-### C
-
-Narysuj kwadraty tak jak pokazano poniźej:
-
-<img src="../../python/lo/recursion/task3.png" />
