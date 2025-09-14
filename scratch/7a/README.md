@@ -91,8 +91,8 @@ Narysuj następujące ```trójkąty``` tak jak pokazano poniźej (co trzeci wier
 
 Zdefiniuj zmienne:
 
-    ```bok_trójkąta``` – określającą długość boku,
-    ```ilosc_rzedow``` – określającą liczbę wierszy.
+    bok_trójkąta – określającą długość boku,
+    ilosc_rzedow – określającą liczbę wierszy.
 
 Dzięki temu wartości te będzie można dowolnie modyfikować.
 
@@ -105,8 +105,8 @@ Narysuj kwadraty tak jak pokazano poniźej:
 
 Zdefiniuj zmienne:
 
-    ```bok_kwadratu``` – określającą długość boku,
-    ```ilosc_kwadratow``` – określającą liczbę rysowanych kwadratów.
+    bok_kwadratu – określającą długość boku,
+    ilosc_kwadratow – określającą liczbę rysowanych kwadratów.
 
 Dzięki temu wartości te będzie można dowolnie modyfikować.
 
