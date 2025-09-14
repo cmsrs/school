@@ -121,6 +121,8 @@ Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
 
 ---
 
+
+
 # Zadania
 
 Co masz zrobić (3 etapy):
@@ -129,6 +131,10 @@ Co masz zrobić (3 etapy):
 - Python – wersja rekurencyjna: zaimplementuj tę figurę ponownie, ale tym razem w sposób rekurencyjny.
 
 <img src="task1.png" />
-<img src="task2.png" />
 <img src="task3.png" />
 <img src="task4.png" />
+
+
+# zadanie na +
+
+<img src="task2.png" />
