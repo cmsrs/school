@@ -72,14 +72,15 @@ Zmodyfikuj pierwsze zadanie tak, aby otrzymać wynik przedstawiony poniżej:
 
 # Zadanie 5
 
-Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej. Na końcu oblicz i podaj sumę wszystkich obwodów.
+Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawione jeden pod drugim, oddalone od siebie o ```10 jednostek```, zgodnie z ilustracją poniżej. Następnie oblicz sumę wszystkich obwodów oraz podaj długość boku największego kwadratu..
 
 <img src="./img/task5.png" />
 
-Aby wyświetlić sumę obwodów, możesz skorzystać z następującego kodu:”
+Aby wyświetlić sumę obwodów oraz długość najdłuższego boku, możesz skorzystać z poniższego kodu (zakładając, że wcześniej obliczono wartości zmiennych suma_obwodow i max_bok):
+
 ```python
-t.write(f"Suma obwodów: {suma_obwodow}", font=("Arial", 16, "bold"))
-print("Suma obwodów (print):", suma_obwodow)
+t.write(f"Suma obwodów: {suma_obwodow}, długość najdłuszego boku: {max_bok}", font=("Arial", 16, "bold"))
+print(f"Suma obwodów : {suma_obwodow}, długość najdłuszego boku: {max_bok} ")
 ````
 
 # Zadanie 6 (dodatkowe)
