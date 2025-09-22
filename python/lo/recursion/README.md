@@ -129,8 +129,23 @@ Co masz zrobić (3 etapy):
 - Oblicz sumę obwodów wszystkich trójkątów z wierzchołkiem skierowanym w dół (zad. 1) lub wszystkich kwadratów (zad. 2).
 - (dodatkowo - lo3) Python – wersja rekurencyjna: zaimplementuj tę figurę ponownie, ale tym razem w sposób rekurencyjny.
 
+### 1
+
+Zdefiniuj zmienne:
+
+    bok_trójkąta – określającą długość boku,
+    ilosc_rzedow – określającą liczbę wierszy.
 
 <img src="task3.png" />
+
+
+### 2
+
+Zdefiniuj zmienne:
+
+    bok_kwadratu – określającą długość boku,
+    ilosc_kwadratow – określającą liczbę rysowanych kwadratów.
+
 <img src="task4.png" />
 
 
