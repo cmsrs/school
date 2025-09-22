@@ -144,7 +144,7 @@ Zdefiniuj zmienne:
 Zdefiniuj zmienne:
 
     bok_kwadratu – określającą długość boku,
-    ilosc_kwadratow – określającą liczbę rysowanych kwadratów.
+    ilosc_kwadratow – określającą liczbę rysowanych kwadratów (przyjmujemy, że musi być parzysta).
 
 <img src="task3.png" />
 
