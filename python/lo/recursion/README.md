@@ -126,7 +126,9 @@ Na obrazku poniżej pokazano iteracje aż do `fib(33)/fib(32)`:
 Co masz zrobić (3 etapy):
 - Wersja w Scratchu – odtwórz jedną z wybranych figur w Scratchu (z Piórem).
 - Python – wersja iteracyjna: zaimplementuj tę samą figurę w Pythonie z użyciem biblioteki Turtle, korzystając z pętli.
-- (dodatkowo) Python – wersja rekurencyjna: zaimplementuj tę figurę ponownie, ale tym razem w sposób rekurencyjny.
+- Oblicz sumę obwodów wszystkich trójkątów z wierzchołkiem skierowanym w dół (zad. 1) lub wszystkich kwadratów (zad. 2).
+- (dodatkowo - lo3) Python – wersja rekurencyjna: zaimplementuj tę figurę ponownie, ale tym razem w sposób rekurencyjny.
+
 
 <img src="task3.png" />
 <img src="task4.png" />
