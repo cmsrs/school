@@ -136,7 +136,7 @@ Zdefiniuj zmienne:
     bok_trójkąta – określającą długość boku,
     ilosc_rzedow – określającą liczbę wierszy.
 
-<img src="task3.png" />
+<img src="task4.png" />
 
 
 ### 2
@@ -146,7 +146,7 @@ Zdefiniuj zmienne:
     bok_kwadratu – określającą długość boku,
     ilosc_kwadratow – określającą liczbę rysowanych kwadratów.
 
-<img src="task4.png" />
+<img src="task3.png" />
 
 
 # zadanie na +
