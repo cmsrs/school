@@ -56,7 +56,7 @@
 
 ## sp - klasa 7
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Scratch): **26.09.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Scratch): **03.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Python):  **24.10.2025**
 
 ## sp - klasa 6
