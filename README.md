@@ -27,7 +27,7 @@
 ## lo - klasa 3
 
 ----semestr I----
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/recursion/README.md#zadania) - termin oddania: **26.09.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/python/lo/README.md#zadania--kwadraty-z-alfabetu)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
 
@@ -38,7 +38,7 @@
 
 ## lo - klasa 2
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/turtle/README.md#zadania) - termin oddania: **26.09.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/sql/README.md)
 
 ## lo - klasa 1
