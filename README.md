@@ -51,19 +51,19 @@
 ## sp - klasa 8
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-g) - termin oddania: **26.09.2025**
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Scratch): **24.10.2025**
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Python): **24.11.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Scratch): **24.10.2025**
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Python): **24.11.2025**
 
 ## sp - klasa 7
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Scratch): **26.09.2025**
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Python):  **24.10.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Scratch): **26.09.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Python):  **24.10.2025**
 
 ## sp - klasa 6
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md#zadanie-C) - termin oddania (Scratch): **26.09.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md#zadanie-c) - termin oddania (Scratch): **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-e) - termin oddania (Scratch):  **24.10.2025**
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Scratch): **24.11.2025**
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - termin oddania (Scratch): **24.11.2025**
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)
 
 ## sp - klasa 5

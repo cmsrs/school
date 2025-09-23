@@ -99,7 +99,7 @@ Dzięki temu wartości te będzie można dowolnie modyfikować.
 <img src="../trojkaty.png" />
 
 
-### 2
+### 2 (zadanie na 5+)
 
 Narysuj kwadraty tak jak pokazano poniźej:
 
@@ -112,9 +112,15 @@ Dzięki temu wartości te będzie można dowolnie modyfikować.
 
 <img src="../../python/lo/recursion/task3.png" />
 
-## I (zadanie na +)
+### 3 (zadanie na 5)
 
-Narysuj spiralę tak jak pokazano poniźej:
+Narysuj spiralę jedną pod drugą tak jak pokazano poniźej:
 
-<img src="../../python/lo/recursion/task2.png" />
+Zdefiniuj zmienne:
+
+    ilosc_bokow_spirali  - ustal na 16
+    ilosc_spiral - ustal na 3
+
+
+<img src="spirale.png" />
 
