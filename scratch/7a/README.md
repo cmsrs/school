@@ -112,7 +112,7 @@ Dzięki temu wartości te będzie można dowolnie modyfikować.
 
 <img src="../../python/lo/recursion/task3.png" />
 
-### 3 (zadanie na 5)
+### 3 (zadanie na 5+)
 
 Narysuj spiralę jedną pod drugą tak jak pokazano poniźej:
 
@@ -124,3 +124,10 @@ Zdefiniuj zmienne:
 
 <img src="spirale.png" />
 
+### 4 (zadanie na 5)
+
+Narysuj kompozycję z ośmiokątów tak jak pokazano poniźej:
+
+<img src="8_katy.png" />
+oraz
+<img src="8_katy_move.png" />
