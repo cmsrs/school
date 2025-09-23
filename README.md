@@ -50,7 +50,7 @@
 
 ## sp - klasa 8
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-G) - termin oddania: **26.09.2025**
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-g) - termin oddania: **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Scratch): **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-H) - termin oddania (Python): **24.11.2025**
 
