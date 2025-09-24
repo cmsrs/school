@@ -83,7 +83,7 @@ patrz: https://mitscratch.freshdesk.com/pl/support/solutions/articles/4000156890
 
 ## zadanie H
 
-Wykonaj jedno z poniższych zadań
+Wykonaj jedno z poniższych zadań. W każdym zadaniu zastosuj blok instrukcji (w Scratchu) lub funkcję (w Pythonie).
 
 ### 1 (zadanie na 6)
 
@@ -127,6 +127,12 @@ Zdefiniuj zmienne:
 ### 4 (zadanie na 5)
 
 Narysuj kompozycję z ośmiokątów tak jak pokazano poniźej:
+
+Zdefiniuj zmienne:
+
+    bok_osmiokata  - określa długość boku ośmiokąta,
+    przesuniecie - (dodatkwo) określa wielkość środkowego okręgu.
+
 
 <img src="8_katy.png" />
 oraz
