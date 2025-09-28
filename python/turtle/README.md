@@ -76,11 +76,10 @@ Korzystając z listy, narysuj kwadraty o bokach: 54, 10, 25, 10, 48, 55 ustawion
 
 <img src="./img/task5.png" />
 
-Aby wyświetlić sumę obwodów oraz długość najdłuższego boku, możesz skorzystać z poniższego kodu (zakładając, że wcześniej obliczono wartości zmiennych suma_obwodow i max_bok):
+Aby wyświetlić sumę obwodów oraz długość najdłuższego boku, możesz skorzystać z poniższego kodu (zakładając, że wcześniej obliczono wartości zmiennych perimeter_squares i max_side):
 
 ```python
-t.write(f"Suma obwodów: {suma_obwodow}, długość najdłuszego boku: {max_bok}", font=("Arial", 16, "bold"))
-print(f"Suma obwodów : {suma_obwodow}, długość najdłuszego boku: {max_bok} ")
+t.write("Suma obwodow: "+ str(perimeter_squares) +", dlugosc najdluszego boku: " + str(max_side))
 ````
 
 # Zadanie 6 (dodatkowe)
