@@ -1,9 +1,9 @@
 # Programowanie
 
-https://youtu.be/XRY_j0xmSLA
+- [kwadraty scratch](https://youtu.be/XRY_j0xmSLA)
 
-https://youtu.be/c7N17VjRFoU
+- [kwadraty python](https://youtu.be/c7N17VjRFoU)
 
-https://youtu.be/REPaygJ6qDg
+- [kwadraty python - listy](https://youtu.be/REPaygJ6qDg)
 
-https://youtu.be/ThBS86gOOZM
+- [kwadraty python - maks](https://youtu.be/ThBS86gOOZM)
