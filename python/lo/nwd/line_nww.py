@@ -33,7 +33,7 @@ Algorytm (opis)
 
 # --- Podaj liczby a i b ---
 a = 6
-b = 8
+b = 35
 # --------------------------
 
 # Oblicz NWW
