@@ -9,7 +9,7 @@ import math
 """
 
 # --- Podaj boki prostokąta ---
-a = 12 
+a = 6 
 b = 35
 # -----------------------------
 
