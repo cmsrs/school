@@ -7,3 +7,9 @@
 - [kwadraty python - listy](https://youtu.be/REPaygJ6qDg)
 
 - [kwadraty python - maks](https://youtu.be/ThBS86gOOZM)
+
+# HTML / CSS
+
+- [Utworzenie prostej strony wizytówki](https://youtu.be/LSWQG-FbqIw)
+
+- [Zmiana istniejącej strony, aby była w dwóch językach (polskim i angielskim)](https://youtu.be/imJpjfu5IkU)
