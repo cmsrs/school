@@ -20,6 +20,22 @@ Narysuj dwa kwadraty o boku ```100 jednostek``` w różnych kolorach, obrócone 
 <img src="./kwadraty_rotate.png" />
 
 
+## zadanie C_2
+
+Narysuj ```4 kwadraty``` o boku równym ```50 jednostek```, ustawione jeden pod drugim, oddalone od siebie o ```20 jednostek```, tak jak pokazano na rysunku poniżej.
+
+<img src="../6a/kwadraty.png" />
+
+## zadanie C_3
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu: odpowiednio 10, 35, 60, 85.
+- Odległość między kwadratami wynosi ```10 jednostek```.
+
+<img src="../7a/kwadraty_zmiana_boku.png" />
+
+
 ## zadanie D
  
 Narysuj ```36 kwadratów```, z których każdy jest obrócony o ```10 stopni``` względem poprzedniego. Każdy kwadrat powinien mieć inny kolor. Zobacz rysunek poniżej:
