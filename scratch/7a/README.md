@@ -141,7 +141,17 @@ oraz
 ### 5
 
 Narysuj w jednym wierszu: kwadrat, trójkąt i sześciokąt o boku 40.
+
 W drugim wierszu: kwadrat, trójkąt i sześciokąt o boku 60,
 zgodnie z pokazanym na rysunku wzorem.
 
 <img src="figury_2_wiersze.png" />
+
+### 6 (klasa 8)
+
+Narysuj w jednym wierszu figury zdefiniowane w liście.
+
+Na przykład, dla listy: ['kwadrat', 'sześciokąt', 'trójkąt', 'trójkąt']
+program powinien narysować kolejno następujące figury:
+
+<img src="figury_lista.png" />
