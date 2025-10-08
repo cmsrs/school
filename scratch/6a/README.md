@@ -46,6 +46,16 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 <img src="../7a/kwadraty_zmiana_boku.png" />
 
+## zadanie D_3
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu: odpowiednio 10, 35, 60, 85 (różnica 25).
+- Odległość między kwadratami wynosi ```10 jednostek```.
+
+<img src="../7a/kwadraty_zmiana_boku.png" />
+
+
 ## zadanie E (na 5+)
 
 Narysuj następujące ```sześciokąty``` o boku równym ```50 jednostek```.
