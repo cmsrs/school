@@ -137,3 +137,11 @@ Zdefiniuj zmienne:
 <img src="8_katy.png" />
 oraz
 <img src="8_katy_move.png" />
+
+### 5
+
+Narysuj w jednym wierszu: kwadrat, trójkąt i sześciokąt o boku 40.
+W drugim wierszu: kwadrat, trójkąt i sześciokąt o boku 60,
+zgodnie z pokazanym na rysunku wzorem.
+
+<img src="figury_2_wiersze.png" />
