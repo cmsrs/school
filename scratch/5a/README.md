@@ -39,11 +39,19 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
 
-- Długość boku kwadratu: odpowiednio 10
+- Długość boku kwadratu: ```10 jednostek```
 - Odległość między kwadratami wynosi: odpowiednio 10, 35, 60 (różnica 25).
 
 <img src="../7a/kwadraty_zmiana_odleglosci.png" />
 
+## zadanie C_4
+
+Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące warunki:
+
+- Długość boku kwadratu: odpowiednio 10, 35, 60 (różnica 25)
+- Odległość między kwadratami wynosi: odpowiednio 10, 35, 60 (różnica 25).
+
+<img src="../7a/kwadraty_zmiana_dl_odleglosci.png" />
 
 ## zadanie D
  
