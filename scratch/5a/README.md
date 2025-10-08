@@ -41,7 +41,7 @@ Narysuj cztery kwadraty, ułożone jeden pod drugim, spełniające następujące
 
 - Długość boku kwadratu: odpowiednio 10
 - Odległość między kwadratami wynosi: odpowiednio 10, 35, 60 (różnica 25).
-                kwadaty_zmiana_odleglosci.png
+
 <img src="../7a/kwadraty_zmiana_odleglosci.png" />
 
 
