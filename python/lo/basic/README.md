@@ -21,7 +21,7 @@ W przeciwnym razie wypisz informację: „Wystarczająco gruszek, można zrobić
 
 Graficzne przedstawienie algorytmu:
 
-<img src="algorytm.png">
+<img src="./algorytm.png">
 
 Oto przykłady popularnych języków interpretowanych:
 
@@ -70,6 +70,9 @@ Dodatkowo istnieją języki hybrydowe, np.
 🔹 Java – kompilowana do bytecode’u, który uruchamia JVM (maszyna wirtualna Javy).
 
 🔹 C# – kompilowana do MSIL, wykonywana przez środowisko .NET.
+
+<img src="./ide.png">
+
 
 
 
