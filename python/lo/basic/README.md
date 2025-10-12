@@ -1,4 +1,4 @@
-Algorytm – proces lub zestaw kroków służących do wykonania określonego zadania.
+```Algorytm``` – proces lub zestaw kroków służących do wykonania określonego zadania.
 
 Cechy poprawnego algorytmu:
 
@@ -73,6 +73,37 @@ Dodatkowo istnieją języki hybrydowe, np.
 
 <img src="./ide.png">
 
+```IDE``` oznacza Integrated Development Environment, czyli po polsku zintegrowane środowisko programistyczne.
 
+To program lub zestaw narzędzi, które pomagają programistom pisać, testować i debugować kod.
 
+📦 Typowe elementy IDE:
+
+🔹 Edytor kodu – z kolorowaniem składni, autouzupełnianiem, podpowiedziami itd.
+
+🔹 Kompilator / interpreter – pozwala uruchamiać program.
+
+🔹 Debugger – umożliwia znajdowanie i naprawianie błędów w kodzie.
+
+🔹 Zarządzanie projektem i plikami – ułatwia organizację kodu.
+
+🔹 Integracja z systemem kontroli wersji (np. Git).
+
+💻 Przykłady popularnych IDE:
+
+🔹 Visual Studio Code (VS Code)
+
+🔹 PyCharm (dla Pythona)
+
+🔹 IntelliJ IDEA (dla Javy i innych języków)
+
+🔹 Eclipse
+
+🔹 Xcode (dla macOS/iOS)
+
+🔹 Android Studio (dla Androida)
+
+<img src="./suma_max_vim.png">
+
+<img src="./suma_max_cmd.png">
 
