@@ -26,30 +26,50 @@ Graficzne przedstawienie algorytmu:
 Oto przykłady popularnych języków interpretowanych:
 
 🔹 Python – bardzo popularny, prosty składniowo, szeroko stosowany w analizie danych, AI, web dev.
+
 🔹 JavaScript – podstawowy język programowania stron internetowych.
+
 🔹 PHP – używany głównie po stronie serwera w aplikacjach webowych.
+
 🔹 Ruby – znany z frameworka Ruby on Rails.
+
 🔹 Perl – dawniej bardzo popularny w administracji systemami i przetwarzaniu tekstu.
+
 🔹 Lua – lekki język do osadzania w grach i aplikacjach.
+
 🔹 R – język do analizy danych i statystyki.
+
 🔹 Shell / Bash – języki skryptowe w systemach Unix/Linux.
+
 🔹 Tcl – używany w automatyzacji i interfejsach graficznych.
+
 
 Oto najpopularniejsze języki kompilowane:
 
-C – klasyczny, szybki i wydajny język, używany m.in. w systemach operacyjnych.
+🔹 C – klasyczny, szybki i wydajny język, używany m.in. w systemach operacyjnych.
+
 🔹 C++ – rozszerzenie C z obiektowością; często używany w grach, systemach i aplikacjach wymagających wydajności.
+
 🔹 Rust – nowoczesny język nastawiony na bezpieczeństwo pamięci i wysoką wydajność.
+
 🔹 Go (Golang) – język stworzony przez Google, prosty i bardzo szybki, często w backendach.
+
 🔹 Swift – kompilowany język Apple, używany w aplikacjach na iOS i macOS.
-🔹 Kotlin (kompilowany do JVM lub natywnego kodu) – używany głównie na Androida.
+
 🔹 Pascal / Object Pascal (Delphi) – dawniej popularny język edukacyjny i aplikacyjny.
+
 🔹 Fortran – używany w naukach ścisłych i obliczeniach numerycznych.
+
 🔹 Ada – stosowany w systemach lotniczych i wojskowych.
+
 🔹 COBOL - jeden z najstarszych języków programowania (powstał w latach 50. XX w.). Zaprojektowany do zastosowań biznesowych – obliczeń finansowych, systemów bankowych, ubezpieczeniowych i administracyjnych.
+
 
 Dodatkowo istnieją języki hybrydowe, np.
 
 🔹 Java – kompilowana do bytecode’u, który uruchamia JVM (maszyna wirtualna Javy).
+
 🔹 C# – kompilowana do MSIL, wykonywana przez środowisko .NET.
+
+
 
