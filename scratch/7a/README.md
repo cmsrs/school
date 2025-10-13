@@ -167,6 +167,6 @@ Przykład wejścia:
 
 
 Program powinien narysować kolejno: kwadrat o boku 10, sześciokąt o boku 15, trójkąt o boku 20, trójkąt o boku 40, … (i tak dalej, parując elementy list według indeksów).
-prPatrz rysunek poniżej:
+Patrz rysunek poniżej:
 
 <img src="figury_lista_boki.png" />
