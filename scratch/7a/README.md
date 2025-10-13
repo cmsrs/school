@@ -160,8 +160,11 @@ program powinien narysować kolejno następujące figury:
 
 Narysuj w jednym wierszu figury wymienione w pierwszej liście, używając długości boków podanych w drugiej liście.
 Przykład wejścia:
+
 ['kwadrat', 'sześciokąt', 'trójkąt', 'trójkąt','kwadrat', 'sześciokąt', 'trójkąt', 'trójkąt', 'sześciokąt','kwadrat' ], 
+
 ['10', '15', '20', '40','10', '15', '20', '40', '20', '40' ], 
+
 
 Program powinien narysować kolejno: kwadrat o boku 10, sześciokąt o boku 15, trójkąt o boku 20, trójkąt o boku 40, … (i tak dalej, parując elementy list według indeksów).
 prPatrz rysunek poniżej:
