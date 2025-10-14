@@ -21,13 +21,11 @@ Narysuj kolejno (jedna obok drugiej) poniższe figury o podanych długościach b
 
 ## 🖥️ Wykonanie
 
-Zadanie możesz wykonać w:
+Zadanie możesz wykonać w **Scratchu** lub w **Pythonie** z wykorzystaniem biblioteki `turtle`.
 
-- **Scratchu**  
-lub  
-- **Pythonie** z wykorzystaniem biblioteki `turtle`
+👉 **Uwaga:**  
+Aby zdobyć ocenę **6**, zadanie **należy wykonać w Pythonie**.
 
-Zadanie na 6 należy wykonać w pythonie.
 
 Wzór rysunku pokazano poniżej:
 
