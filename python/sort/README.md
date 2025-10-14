@@ -12,8 +12,8 @@ Narysuj kolejno (jedna obok drugiej) poniższe figury o podanych długościach b
 | trójkąt | 40 |
 | kwadrat | 10 |
 | sześciokąt | 15 |
-| trójkąt | 20 |
-| trójkąt | 40 |
+| rąb | 20 |
+| rąb | 40 |
 | sześciokąt | 20 |
 | kwadrat | 40 |
 
@@ -43,10 +43,12 @@ figury_lista_boki.png
 | **4** | Wszystkie figury narysowane z użyciem pętli i funkcji |
 | **5** | Wszystkie figury narysowane z użyciem pętli, funkcji **i listy** |
 | **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. <br>Do sortowania użyj jednego z algorytmów:  
-  - metoda bąbelkowa *(bubble sort)*  
-  - metoda przez wstawianie *(insertion sort)*  
-  - metoda przez wybieranie *(selection sort)*  
-  - metoda przez zliczanie *(counting sort)* |
+<ul>
+  <li>metoda bąbelkowa *(bubble sort)* </li>
+  <li>metoda przez wstawianie *(insertion sort)* </li>
+  <li>metoda przez wybieranie *(selection sort)* </li>
+  <li>metoda przez zliczanie *(counting sort)* </li>
+<ul>|
 
 ---
 
