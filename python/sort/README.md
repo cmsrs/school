@@ -27,7 +27,9 @@ Zadanie możesz wykonać w:
 lub  
 - **Pythonie** z wykorzystaniem biblioteki `turtle`
 
-Wzór rysunku znajdziesz w pliku:
+Zadanie na 6 należy wykonać w pythonie.
+
+Wzór rysunku pokazano poniżej:
 
 <img  src="sort_figury_lista_boki.png" />
 
@@ -43,6 +45,5 @@ Wzór rysunku znajdziesz w pliku:
 | **4** | Wszystkie figury narysowane z użyciem pętli i funkcji |
 | **5** | Wszystkie figury narysowane z użyciem pętli, funkcji **i listy** |
 | **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. <br>Do sortowania użyj jednego z algorytmów:  <ul><li>metoda bąbelkowa *(bubble sort)* </li><li>metoda przez wstawianie *(insertion sort)* </li><li>metoda przez wybieranie *(selection sort)* </li><li>metoda przez zliczanie *(counting sort)* </li></ul>|
-
 ---
 
