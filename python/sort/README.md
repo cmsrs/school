@@ -42,6 +42,6 @@ Wzór rysunku pokazano poniżej:
 | **3** | Wszystkie figury narysowane, ale bez użycia pętli i funkcji |
 | **4** | Wszystkie figury narysowane z użyciem pętli i funkcji |
 | **5** | Wszystkie figury narysowane z użyciem pętli, funkcji **i listy** |
-| **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. <br>Do sortowania użyj jednego z algorytmów:  <ul><li>metoda bąbelkowa *(bubble sort)* </li><li>metoda przez wstawianie *(insertion sort)* </li><li>metoda przez wybieranie *(selection sort)* </li><li>metoda przez zliczanie *(counting sort)* </li></ul>|
+| **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. Zadanie **należy wykonać w Pythonie**.<br>Do sortowania użyj jednego z algorytmów:  <ul><li>metoda bąbelkowa *(bubble sort)* </li><li>metoda przez wstawianie *(insertion sort)* </li><li>metoda przez wybieranie *(selection sort)* </li><li>metoda przez zliczanie *(counting sort)* </li></ul>|
 ---
 
