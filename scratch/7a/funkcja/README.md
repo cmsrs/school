@@ -5,7 +5,7 @@ W drugim wierszu narysuj te same figury o boku 30,
 a w trzecim wierszu — o boku 20.
 Rysuj zgodnie ze wzorem pokazanym na obrazku.
 
-<img src="figury_trzy_rzedy.png" />
+<img src="figury_3_rzedy.png" />
 
 ## 🧮 System oceniania
 
