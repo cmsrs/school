@@ -8,6 +8,19 @@ Cechy poprawnego algorytmu:
 
 - Uniwersalny – może być zastosowany w różnych sytuacjach o podobnym charakterze.
 
+Rozwiązywanie problemów
+
+- Zrozum problem
+
+- Przeanalizuj konkretne przykłady
+
+- Podziel problem na części
+
+- Rozwiąż / uprość
+
+- Sprawdź i popraw (refaktoryzuj)
+
+
 Przykład algorytmu:
 
 1. Zapytaj Krzysia, ile ma gruszek. Zapamiętaj tę liczbę.
@@ -72,6 +85,13 @@ Dodatkowo istnieją języki hybrydowe, np.
 🔹 C# – kompilowana do MSIL, wykonywana przez środowisko .NET.
 
 <img src="./ide.png">
+
+Rys. Przykład uruchomienia programu Python w VS Code
+
+<img src="./ide_cpp.png">
+
+Rys. Przykład uruchomienia programu w C++ w VS Code
+
 
 ```IDE``` oznacza Integrated Development Environment, czyli po polsku zintegrowane środowisko programistyczne.
 
