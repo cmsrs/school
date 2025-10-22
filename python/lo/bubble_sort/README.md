@@ -46,8 +46,8 @@
 
 <img src="./zamiana_zmiennych.png">
 
-Ilustracja zamiany wartości dwóch zmiennych
+Rys. 1. Ilustracja zamiany wartości dwóch zmiennych
 
 <img src="./bubble_sort.png">
 
-Implementacja algorytmu sortowania bąbelkowe w python
+Rys. 2. Implementacja algorytmu sortowania bąbelkowe w python
