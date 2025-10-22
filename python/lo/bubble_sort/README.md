@@ -48,3 +48,6 @@
 
 Ilustracja zamiany wartości dwóch zmiennych
 
+<img src="./bubble_sort.png">
+
+Implementacja algorytmu sortowania bąbelkowe w python

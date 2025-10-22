@@ -1,0 +1,16 @@
+def bubble_sort(arr):
+    n = len(arr)
+    for i in range(1, n):
+        for j in range(0, n-i):
+            if arr[j] > arr[j+1]:
+                # Swap arr[j] and arr[j+1]
+                tmp = arr[j]
+                arr[j] = arr[j+1]
+                arr[j+1] = tmp                    
+    return arr
+
+
+# Example usage:
+input = [8, 12, 9, 11, 3]
+sorted_array = bubble_sort(input)
+print("Sorted array is:", sorted_array)  # Output: Sorted array is: [3, 8, 9, 11, 12]
