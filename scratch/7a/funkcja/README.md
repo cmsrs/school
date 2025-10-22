@@ -15,3 +15,8 @@ Rysuj zgodnie ze wzorem pokazanym na obrazku.
 | **4** | Wszystkie figury narysowane z użyciem funkcji, ale bez parametrów. |
 | **5** | Wszystkie figury narysowane z użyciem funkcji z parametrem (długość boku). |
 | **6** | Program rozszerzony o dodatkowe figury |
+
+
+## Kąty w figurach:
+
+<img  src="../../../python/sort/figury_katy.png" />
