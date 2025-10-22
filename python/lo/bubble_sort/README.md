@@ -44,10 +44,10 @@
 [8, 9, 11, ```3```, ```12```]
 
 
-<img src="./zamiana_zmiennych.png">
-
-Rys. 1. Ilustracja zamiany wartości dwóch zmiennych
-
 <img src="./bubble_sort.png">
 
-Rys. 2. Implementacja algorytmu sortowania bąbelkowe w python
+Rys. 1. Implementacja algorytmu sortowania bąbelkowe w python
+
+<img src="./zamiana_zmiennych.png">
+
+Rys. 2. Ilustracja zamiany wartości dwóch zmiennych
