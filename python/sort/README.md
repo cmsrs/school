@@ -41,3 +41,6 @@ Wzór rysunku pokazano poniżej:
 | **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. Zadanie **należy wykonać w Pythonie**.<br>Do sortowania użyj jednego z algorytmów:  <ul><li>metoda bąbelkowa *(bubble sort)* </li><li>metoda przez wstawianie *(insertion sort)* </li><li>metoda przez wybieranie *(selection sort)* </li><li>metoda przez zliczanie *(counting sort)* </li></ul>|
 ---
 
+## Kąty w figurach:
+
+<img  src="figury_katy.png" />
