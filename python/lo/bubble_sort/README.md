@@ -13,35 +13,36 @@
 ## Ręczne przejście przez tablicę – pierwsza iteracja pętli:
 
 - **Krok 1**: Zaczynamy od nieposortowanej tablicy.
-[8, 12, 9, 11, 3]
+
+    [8, 12, 9, 11, 3]
 
 - **Krok 2**: Patrzymy na dwie pierwsze wartości. Czy mniejsza wartość jest pierwsza? Tak, więc nie musimy ich zamieniać.
 
-[```8```, ```12```, 9, 11, 3]
+    [```8```, ```12```, 9, 11, 3]
 
 - **Krok 3**: Przesuwamy się o jeden krok i patrzymy na wartości 12 i 9. Czy mniejsza wartość jest pierwsza? Nie.
 
-[8, ```12```, ```9```, 11, 3]
+    [8, ```12```, ```9```, 11, 3]
 
 - **Krok 4**: Musimy więc je zamienić miejscami, aby 9 była pierwsza.
 
-[8, ```9```, ```12```, 11, 3]
+    [8, ```9```, ```12```, 11, 3]
 
 - **Krok 5**: Przesuwamy się o jeden krok dalej, patrzymy na 12 i 11.
 
-[8, 9, ```12```, ```11```, 3]
+    [8, 9, ```12```, ```11```, 3]
 
 - **Krok 6**: Musimy je zamienić miejscami, aby 11 znalazła się przed 12.
 
-[8, 9, ```11```, ```12```, 3]
+    [8, 9, ```11```, ```12```, 3]
 
 - **Krok 7**: Patrzymy na 12 i 3 — czy trzeba je zamienić? Tak.
 
-[8, 9, ```11```, ```12```, 3]
+    [8, 9, ```11```, ```12```, 3]
 
 - **Krok 8**: Zamieniamy 12 i 3, aby 3 znalazła się pierwsza.
 
-[8, 9, 11, ```3```, ```12```]
+    [8, 9, 11, ```3```, ```12```]
 
 
 <img src="./bubble_sort.png">
