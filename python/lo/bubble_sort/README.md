@@ -10,7 +10,7 @@
 
 4. Przejdź przez tablicę tyle razy, ile jest w niej elementów.
 
-## Ręczne przejście przez tablicę
+## Ręczne przejście przez tablicę – pierwsza iteracja pętli:
 
 - **Krok 1**: Zaczynamy od nieposortowanej tablicy.
 [8, 12, 9, 11, 3]
