@@ -16,3 +16,7 @@ print("Input: ", input)
 sorted_array = bubble_sort(input)
 print("Sorted array is:", sorted_array)  # Output: Sorted array is: [3, 8, 9, 11, 12]
 print("Sorted array is (input):", input)  # Output: Sorted array is: [3, 8, 9, 11, 12]
+
+assert [3, 8, 9, 11, 12] == sorted_array
+assert [3, 8, 9, 11, 12] == input
+

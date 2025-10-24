@@ -10,7 +10,7 @@
 
 4. Przejdź przez tablicę tyle razy, ile jest w niej elementów.
 
-## Ręczne przejście przez tablicę – pierwsza iteracja pętli:
+## Ręczne przejście przez tablicę
 
 - **Krok 1**: Zaczynamy od nieposortowanej tablicy.
 [8, 12, 9, 11, 3]
@@ -46,7 +46,7 @@
 
 <img src="./bubble_sort.png">
 
-Rys. 1. Implementacja algorytmu sortowania bąbelkowe w python
+Rys. 1. Implementacja algorytmu sortowania bąbelkowego w python
 
 <img src="./zamiana_zmiennych.png">
 
