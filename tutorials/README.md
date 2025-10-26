@@ -8,6 +8,8 @@
 
 - [kwadraty python - maks](https://youtu.be/ThBS86gOOZM)
 
+- [kwadraty python - sort](https://youtu.be/4DlDJs6fi5I)
+
 # HTML / CSS
 
 - [Utworzenie prostej strony wizytówki](https://youtu.be/LSWQG-FbqIw)
