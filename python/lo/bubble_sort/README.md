@@ -38,12 +38,35 @@
 
 - **Krok 7**: Patrzymy na 12 i 3 — czy trzeba je zamienić? Tak.
 
-    [8, 9, ```11```, ```12```, 3]
+    [8, 9, 11, ```12```, ```3```]
 
 - **Krok 8**: Zamieniamy 12 i 3, aby 3 znalazła się pierwsza.
 
     [8, 9, 11, ```3```, ```12```]
 
+    W ten sposób ```12``` jest już posortowane, wiec w kolejnych interacjach nie musimy sprawdzać tej wartości
+
+## Ręczne przejście przez tablicę – druga iteracja pętli:    
+
+- **Krok 1**: sprawdzmy 8 i 9. 8 jest mniejsze od 9, wiec nie musimy zamianieć miejscami:
+
+    [```8```, ```9```, 11, 3, 12]
+
+- **Krok 2**: sprawdzmy 9 i 11. 9 jest mniejsze od 11, wiec nie musimy zamianieć miejscami:
+
+    [8, ```9```, ```11```, 3, 12]
+
+- **Krok 3**: sprawdzmy 11 i 3. 11 jest większe od 11, wiec nie zamianieć miejscami:
+
+    [8, 9, ```11```, ```3```, 12]
+
+- **Krok 4**: Zamianiamy miejscami  11 z 3:
+
+    [8, 9, ```3```, ```11```, 12]
+
+    Nie musimy sprawdzać ostatniej wartości tj. 12 bo w pirwszej interacji pętli wartość ta została umieszczona na właćiwej pozycji
+
+## ...Wykonujemy kolejne interacje pętli, aż do uzyskania posortowanej tablicy.
 
 <img src="./bubble_sort.png">
 
