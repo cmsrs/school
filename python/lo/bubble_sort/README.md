@@ -56,7 +56,7 @@
 
     [8, ```9```, ```11```, 3, 12]
 
-- **Krok 3**: sprawdzmy 11 i 3. 11 jest większe od 11, wiec nie zamianieć miejscami:
+- **Krok 3**: sprawdzmy 11 i 3. 11 jest większe od 3, wiec liczby musimy zamianieć miejscami:
 
     [8, 9, ```11```, ```3```, 12]
 
