@@ -31,7 +31,7 @@ def draw_squares(sides_of_the_squares, colors_fun):
         move_to_the_next_square(a, distant)
         i += 1
 
-def bubble_sort(arr, colors):
+def bubble_sort(arr, colors_fun):
     n = len(arr)
     for i in range(1, n):
         for j in range(0, n-i):
@@ -39,10 +39,13 @@ def bubble_sort(arr, colors):
                 # Swap arr[j] and arr[j+1]
                 tmp = arr[j]
                 arr[j] = arr[j+1]
-                arr[j+1] = tmp                    
-                tmp = colors[j]
-                colors[j] = colors[j+1]
-                colors[j+1] = tmp                    
+                arr[j+1] = tmp   
+                # Swap 
+                # colors_fun[j] and colors_fun[j+1]
+                # to keep colors in sync with sides                
+                tmp_color = colors_fun[j]
+                colors_fun[j] = colors_fun[j+1]
+                colors_fun[j+1] = tmp_color
 
 
 colors_in = ['red', 'blue', 'green', 'blue', 'green', 'red']
