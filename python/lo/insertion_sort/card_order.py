@@ -12,11 +12,11 @@ def card_order(arr, i):
 
 
 #krok 6
-print('wejscie1', arr, 'przestawiamy element o indeksie 3')
+print('wejscie1', arr, 'przestawiamy element o indeksie 3') # Input [8, 9, 12, 11, 3]
 card_order(arr, 3)
 print('wynik1', arr)  # Output: [8, 9, 11, 12, 3]
 
 #krok 8
-print('wejscie2', arr, 'przestawiamy element o indeksie 4')
+print('wejscie2', arr, 'przestawiamy element o indeksie 4') # Input [8, 9, 11, 12, 3]
 card_order(arr, 4)
-print('wynik2', arr)  # Output: [8, 9, 11, 12, 3]
+print('wynik2', arr)  # Output: [3, 8, 9, 11, 12]
