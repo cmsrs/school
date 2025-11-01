@@ -52,3 +52,10 @@
 
 Na koniec tablica jest posortowana.
 
+<img src="card_order.png">
+
+Rys. 1. Wstawianie elementu tablicy na odpowiednie miejsce – porównanie do układania kart
+
+<img src="insertion_sort.png">
+
+Rys. 2. Kod w Pythonie realizujący algorytm sortowania przez wstawianie.
