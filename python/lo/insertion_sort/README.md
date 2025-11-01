@@ -34,6 +34,8 @@
 
     [8, 9, 12, ```11```, 3]
 
+<img src="karty_2.png">    
+
 - **Krok 7**: Wstawiamy ją pomiędzy 9 a 12 w posortowanej części tablicy.
 
     [8, 9, ```11```, 12, 3]
@@ -41,6 +43,8 @@
 - **Krok 8**: Ostatnia wartość do wstawienia to 3.
 
     [8, 9, 11, 12, ```3```]
+
+<img src="karty_1.png">        
 
 - **Krok 9**: Wstawiamy 3 przed wszystkimi pozostałymi wartościami, ponieważ jest najmniejsza.
 
