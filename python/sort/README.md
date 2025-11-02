@@ -43,7 +43,7 @@ Wzór rysunku pokazano poniżej:
 
 ## Figury posortowane według obwodów:
 
-<img  src="figury_not_sorted.png" />
+<img  src="figury_sorted.png" />
 
 ## Kąty w figurach:
 
