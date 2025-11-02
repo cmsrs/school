@@ -8,14 +8,14 @@ Narysuj kolejno (jedna obok drugiej) poniższe figury o podanych długościach b
 |:--------|:-------------|
 | kwadrat | 10 |
 | sześciokąt | 15 |
-| trójkąt | 20 |
-| trójkąt | 40 |
-| kwadrat | 10 |
-| sześciokąt | 15 |
-| rąb | 20 |
-| rąb | 40 |
+| trójkąt | 21 |
+| trójkąt | 42 |
+| kwadrat | 13 |
+| sześciokąt | 17 |
+| rąb | 24 |
+| rąb | 47 |
 | sześciokąt | 20 |
-| kwadrat | 40 |
+| kwadrat | 49 |
 
 ---
 
@@ -26,7 +26,7 @@ Zadanie możesz wykonać w **Scratchu** (poza zadaniem na 6) lub w **Pythonie** 
 
 Wzór rysunku pokazano poniżej:
 
-<img  src="sort_figury_lista_boki.png" />
+<img  src="figury_not_sorted.png" />
 ---
 
 ## 💯 Kryteria oceny
@@ -40,6 +40,10 @@ Wzór rysunku pokazano poniżej:
 | **5** | Wszystkie figury narysowane z użyciem pętli, funkcji **i listy** |
 | **6** | Figury posortowane **od najmniejszego do największego obwodu**, a następnie narysowane. Zadanie **należy wykonać w Pythonie**.<br>Do sortowania użyj jednego z algorytmów:  <ul><li>metoda bąbelkowa *(bubble sort)* </li><li>metoda przez wstawianie *(insertion sort)* </li><li>metoda przez wybieranie *(selection sort)* </li></ul>|
 ---
+
+## Figury posortowane według obwodów:
+
+<img  src="figury_not_sorted.png" />
 
 ## Kąty w figurach:
 
