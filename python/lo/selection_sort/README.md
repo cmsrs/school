@@ -4,7 +4,7 @@
 
 1. Przejdź przez tablicę, aby znaleźć najmniejszą wartość.
 
-2. Dla każdego elementu porównaj go z następnym elementem.
+2. Przenieś najmniejszą wartość na początek nieposortowanej części tablicy.
 
 3. Przechodź przez tablicę ponownie tyle razy, ile jest w niej wartości.
 
