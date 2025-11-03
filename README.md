@@ -1,11 +1,5 @@
 # school
 
-## [python basic](https://github.com/cmsrs/school/blob/main/python/basic/basic_b.py)
-
-## [python turtle](https://github.com/cmsrs/school/tree/main/python/turtle)
-
-## [python lo3](https://github.com/cmsrs/school/blob/main/python/lo/README.md)
-
 ## [sql](https://github.com/cmsrs/school/tree/main/sql)
 
 ## [system operacyjny](https://github.com/cmsrs/school/blob/main/os/README.md)
@@ -17,8 +11,6 @@
 ## [gimp](https://github.com/cmsrs/school/tree/main/gimp)
 
 ## [inkscape](https://github.com/cmsrs/school/tree/main/inkscape)
-
-## [scratch klasa 7 i 8](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md)
 
 ## [gra arkanoid](https://github.com/cmsrs/arkanoid/blob/main/arkanoid.html)
 
