@@ -8,7 +8,10 @@
 
 - [kwadraty python - maks](https://youtu.be/ThBS86gOOZM)
 
-- [kwadraty python - sort](https://youtu.be/4DlDJs6fi5I)
+- [kwadraty python - sortowanie bąbelkowe](https://youtu.be/4DlDJs6fi5I)
+
+- [kwadraty python - sortowanie przez wstawianie](https://youtu.be/FGt1Do8WK_o)
+
 
 # HTML / CSS
 

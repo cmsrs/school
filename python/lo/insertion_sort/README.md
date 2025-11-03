@@ -1,4 +1,4 @@
-# Sortowania przez wstawianie (Insertion Sort):
+# Sortowanie przez wstawianie (Insertion Sort):
 
 ## Jak to działa:
 
