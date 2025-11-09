@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <title>Ulam Spiral — najprostsza wersja</title>
+  <style>
+    body { margin: 0; background: black; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    canvas { background: #000; }
+  </style>
+</head>
+<body>
+  <canvas id="c"></canvas>
+
+<script>
+// --- Funkcja sprawdzająca liczbę pierwszą (port z Pythona) ---
+function isPrimeNumber(n) {
+  if (n === 2) return true;
+  if (n < 2 || n % 2 === 0) return false;
+  const limit = Math.floor(Math.sqrt(n));
+  for (let i = 3; i <= limit; i += 2) {
+    if (n % i === 0) return false;
+  }
+  return true;
+}
+
+// --- Parametry ---
+const size = 800;        // rozmiar canvas
+const maxNumber = 65000; // ile liczb rysować
+//const maxNumber = 7; // ile liczb rysować
+const dotSize = 2;       // promień kropki
+
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+canvas.width = size;
+canvas.height = size;
+
+const centerX = Math.floor(size / 2);
+const centerY = Math.floor(size / 2);
+const spacing = dotSize + 1;
+
+// --- Rysowanie spirali ---
+let x = 0, y = 0;
+let dx = 1, dy = 0;   // początkowy kierunek: prawo
+let steps = 1;        // długość bieżącego boku
+let n = 1;
+
+ctx.translate(centerX, centerY);
+ctx.fillStyle = 'white';
+ctx.fillRect(-centerX, -centerY, size, size);
+
+while (n <= maxNumber) {
+  for (let side = 0; side < 2; side++) { // dwa boki o tej samej długości
+    for (let i = 0; i < steps && n <= maxNumber; i++) {
+      if (isPrimeNumber(n)) {
+        ctx.fillStyle = 'red';
+        ctx.beginPath();
+        ctx.arc(x * spacing, y * spacing, dotSize, 0, Math.PI * 2);
+        ctx.fill();
+      }
+      x += dx;
+      y += dy;
+      n++;
+    }
+    // obrót w lewo
+    const temp = dx;
+    dx = -dy;
+    dy = temp;
+  }
+  steps++;
+}
+</script>
+</body>
+</html>
