@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Duży kwadrat i prostokąty</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #f0f0f0;
+    }
+    .big-square {
+      display: grid;
+      border: 2px solid black;
+      background-color: white;
+    }
+    .rect {
+      border: 1px solid black;
+      box-sizing: border-box;
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<div id="bigSquare" class="big-square"></div>
+
+<script>
+// --- PODAJ BOKI PROSTOKĄTA ---
+let a = 6;   // szerokość prostokąta
+let b = 35;  // wysokość prostokąta
+// -----------------------------
+
+// funkcja NWD
+function gcd(x, y) {
+  while (y !== 0) {
+    let temp = y;
+    y = x % y;
+    x = temp;
+  }
+  return x;
+}
+
+// Oblicz NWW
+let nww = (a * b) / gcd(a, b);
+
+// Oblicz ile prostokątów zmieści się w dużym kwadracie
+let cols = nww / a;
+let rows = nww / b;
+
+// Przygotuj duży kwadrat
+const bigSquare = document.getElementById("bigSquare");
+bigSquare.style.width = nww + "px";
+bigSquare.style.height = nww + "px";
+bigSquare.style.gridTemplateColumns = `repeat(${cols}, ${a}px)`;
+bigSquare.style.gridTemplateRows = `repeat(${rows}, ${b}px)`;
+
+// Wypełnij prostokątami a x b
+for (let i = 0; i < cols * rows; i++) {
+  const rect = document.createElement("div");
+  rect.className = "rect";
+  bigSquare.appendChild(rect);
+}
+</script>
+
+</body>
+</html>
