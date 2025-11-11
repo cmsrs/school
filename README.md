@@ -32,6 +32,7 @@
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania: **07.11.2025**
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
 
 ## lo - klasa 1
 
