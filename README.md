@@ -21,18 +21,24 @@
 ----semestr I----
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania: **07.11.2025**
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
+- [zadanie 3a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania: **05.12.2025**
+- [zadanie 3b](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md) - termin oddania: **05.12.2025**
 
 ----semestr II----
-- [zadanie 1a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md)
-- [zadanie 1b](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
+
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 
 
 ## lo - klasa 2
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania: **07.11.2025**
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
+- [zadanie 3a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania: **05.12.2025**
+- [zadanie 3b](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md) - termin oddania: **05.12.2025**
+
+----semestr II----
+
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 
 ## lo - klasa 1
 
@@ -46,20 +52,22 @@
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-g) - **zadanie g** - termin oddania: **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python): **24.11.2025**
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md)
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md)- termin oddania (Scratch/Python): **05.12.2025**
 
 ## sp - klasa 7
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **03.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/funkcja/README.md) - termin oddania (Scratch): **07.11.2025**
-- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python)
+- [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python) **07.11.2025**
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/gimp/README.md#zadanie-fotomonta%C5%BC-w-gimp) - termin oddania **05.12.2025**
+
 
 ## sp - klasa 6
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md#zadanie-c) - **zadanie c** - termin oddania (Scratch): **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-e) - **zadanie e** - termin oddania (Scratch):  **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie e** - termin oddania (Scratch): **24.11.2025**
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)- termin oddania **05.12.2025**
 
 ## sp - klasa 5
 
