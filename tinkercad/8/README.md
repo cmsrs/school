@@ -1,6 +1,6 @@
 ## Zadanie — Utworzenie breloczka w Tinkercad
 
-Aby utworzyć kształt kropli, połączymy dwa bryły: walec oraz dach.
+Aby utworzyć kształt kropli, połączymy dwie bryły: walec oraz dach.
 
 Walec powinien mieć wymiary:
 
