@@ -32,7 +32,7 @@ Następnie obrazamy prostopadłościan przezroczysty o -20 stopni:
 
 <img src="3.png" />
 
-Na koniec dodajemy napis:
+Na koniec dodajemy napis, poniżej przedstawiono filnaly projekt:
 
 <img src="4.png" />
 
