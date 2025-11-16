@@ -1,8 +1,8 @@
 ## Zadanie — Utworzenie podstawki pod smartfon w Tinkercad
 
-Aby utworzyć kształt podstawski, połączymy dwie bryły: prostopadłościan oraz prostopadłościan przezroczysty.
+Aby utworzyć model podstawki, połączymy dwie bryły: prostopadłościan oraz prostopadłościan przezroczysty (otwór).
 
-Prostopadłoscian powinien mieć wymiary:
+Wymiary pierwszego prostopadłościanu:
 
  - długość: 80.00
 
@@ -11,7 +11,7 @@ Prostopadłoscian powinien mieć wymiary:
  - wysokość: 15.00
 
 
-Prostopadłoscian przezroczysty powinien mieć wymiary:
+Wymiary prostopadłościanu przezroczystego (otworu):
 
  - długość: 80.00
 
@@ -20,22 +20,24 @@ Prostopadłoscian przezroczysty powinien mieć wymiary:
  - wysokość: 20.00
 
 
-Po połączeniu tych elementów otrzymamy następujący kształt, gdzie prostopadłoscian przezroczysty jest podniesiony na wysokość 4.00 od podłoża i oddalony od jednej ze ścian o 15.00:
+Po ustawieniu elementów uzyskujemy następujący kształt: przezroczysty prostopadłościan jest podniesiony na wysokość 4,00 mm od podłoża i odsunięty od jednej ze ścian o 15,00 mm:
 
 <img src="1.png" />
 
-Następnie obrazamy prostopadłościan przezroczysty obracamy o -20 stopni:
+Następnie obracamy prostopadłościan przezroczysty o –20°:
 
 <img src="2.png" />
 
-Łączymy obydie bryły za pomocą grupowania i otrzymamy następujący kształt:
+Kolejnym krokiem jest zgrupowanie obu brył, co pozwala uzyskać właściwy kształt podstawki:
 
 <img src="3.png" />
 
-Na koniec dodajemy napis, poniżej przedstawiono filnaly projekt:
+Na końcu dodajemy napis. Gotowy projekt wygląda następująco:
 
 <img src="4.png" />
 
 
 
-Materiał został opracowany na podstawie książki dla 7. klasy szkoły podstawowej: Informatyka autorstwa Grażyny Koby, temat: „Projektowanie i drukowanie modeli 3D”, wydawnictwo Migra.
+Materiał opracowano na podstawie książki dla klasy 7 szkoły podstawowej:
+
+Grażyna Koba, „Informatyka”, temat: „Projektowanie i drukowanie modeli 3D”, wydawnictwo Migra.
