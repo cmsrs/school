@@ -13,11 +13,9 @@ Aby utworzyć kszałt kropli możemy połaczyć ze sobą dwa kszałty: ```Walec`
  <img src="2.png" />
 
  Za pomocą tekstu o wysokości 2.00 piszemy swoją grupę krwi, jeśli jej nie znasz napisz "A Rh+",
- Wyrównaj napis do środka kropli, wynik noścowy powinein wyglądać następująco:
+ Wyrównaj napis oraz otwór do środka kropli, wynik noścowy powinein wyglądać następująco:
 
 <img src="3.png" />
-
-<img src="4.png" />
 
 
 
