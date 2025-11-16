@@ -37,7 +37,6 @@
 - [zadanie 3b](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md) - termin oddania: **05.12.2025**
 
 ----semestr II----
-
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
 
 ## lo - klasa 1
@@ -64,10 +63,14 @@
 
 ## sp - klasa 6
 
+----semestr I----
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/6a/README.md#zadanie-c) - **zadanie c** - termin oddania (Scratch): **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-e) - **zadanie e** - termin oddania (Scratch):  **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie e** - termin oddania (Scratch): **24.11.2025**
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)- termin oddania **05.12.2025**
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/6b/README.md) - termin oddania **05.12.2025**
+
+----semestr II----
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)
 
 ## sp - klasa 5
 
