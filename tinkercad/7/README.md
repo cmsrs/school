@@ -20,11 +20,11 @@ Prostopadłoscian przezroczysty powinien mieć wymiary:
  - wysokość: 20.00
 
 
-Po połączeniu tych elementów otrzymamy następujący kształt:
+Po połączeniu tych elementów otrzymamy następujący kształt, gdzie prostopadłoscian przezroczysty jest podniesiony na wysokość 4.00 od podłoża i oddalony od jednej ze ścian o 15.00:
 
 <img src="1.png" />
 
-Następnie obrazamy prostopadłościan przezroczysty o -20 stopni:
+Następnie obrazamy prostopadłościan przezroczysty obracamy o -20 stopni:
 
 <img src="2.png" />
 
@@ -35,6 +35,7 @@ Następnie obrazamy prostopadłościan przezroczysty o -20 stopni:
 Na koniec dodajemy napis, poniżej przedstawiono filnaly projekt:
 
 <img src="4.png" />
+
 
 
 Materiał został opracowany na podstawie książki dla 7. klasy szkoły podstawowej: Informatyka autorstwa Grażyny Koby, temat: „Projektowanie i drukowanie modeli 3D”, wydawnictwo Migra.
