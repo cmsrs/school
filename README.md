@@ -31,6 +31,7 @@
 
 ## lo - klasa 2
 
+----semestr I----
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/python/lo/task1/README.md) - termin oddania: **10.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania: **07.11.2025**
 - [zadanie 3a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania: **05.12.2025**
@@ -51,7 +52,7 @@
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-g) - **zadanie g** - termin oddania: **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python): **24.11.2025**
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md)- termin oddania (Scratch/Python): **05.12.2025**
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania (Scratch/Python): **05.12.2025**
 
 ## sp - klasa 7
 
@@ -74,9 +75,12 @@
 
 ## sp - klasa 5
 
+----semestr I----
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/5a/README.md#zadanie-d) - **zadanie d** - termin oddania (Scratch): **26.09.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/5a/README.md#zadanie-e) - **zadanie e** - termin oddania (Scratch): **03.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/5b#zadanie) - termin oddania (Scratch): **06.11.2025**
+
+----semestr II----
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/5a/README.md)
 
 ## sp - klasa 4
@@ -92,4 +96,4 @@
 R.Szczepanski(małpa)eduwarszawa.pl
 ```
 
-- [Tutoriale](https://github.com/cmsrs/school/blob/main/tutorials/README.md)
+- [Tutoriale video](https://github.com/cmsrs/school/blob/main/tutorials/README.md)

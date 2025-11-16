@@ -4,20 +4,20 @@ Aby utworzyć kształt kropli, połączymy dwa bryły: walec oraz dach.
 
 Walec powinien mieć wymiary:
 
-długość: 30.00
+ - długość: 30.00
 
-szerokość: 30.00
+ - szerokość: 30.00
 
-wysokość: 4.00
+ - wysokość: 4.00
 
 
 Dach powinien mieć wymiary:
 
-długość: 30.00
+ - długość: 30.00
 
-szerokość: 28.00
+ - szerokość: 28.00
 
-wysokość: 4.00
+ - wysokość: 4.00
 
 
 Po połączeniu tych elementów otrzymamy następujący kształt:
