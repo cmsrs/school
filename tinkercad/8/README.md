@@ -1,26 +1,30 @@
-## Zadanie - Utworzenie bryloczka w tinkecad.
+## Zadanie — Utworzenie breloczka w Tinkercad
 
-Aby utworzyć kszałt kropli możemy połaczyć ze sobą dwa kszałty: ```Walec``` oraz ```Dach```
- - Walec pownienien mieeć wymiary odpowiednio: długość, szerokość wysokość: 30.00, 30.00, 4.00
- - Dach pownienien mieeć wymiary odpowiednio: długość, szerokość wysokość: 30.00, 28.00, 4.00
+Aby utworzyć kształt kropli, połączymy dwa bryły: walec oraz dach.
 
- po złaczeniu tych kszałtów powinniśmy otrzymać następującą figurę:
+Walec powinien mieć wymiary:
+długość: 30.00
+szerokość: 30.00
+wysokość: 4.00
 
- <img src="1.png" />
+Dach powinien mieć wymiary:
+długość: 30.00
+szerokość: 28.00
+wysokość: 4.00
 
- Natępnie towrzymy otwór w kropli za pomocą przezroczystego walca:
+Po połączeniu tych elementów otrzymamy następujący kształt:
 
- <img src="2.png" />
+<img src="1.png" />
 
- Za pomocą tekstu o wysokości 2.00 piszemy swoją grupę krwi, jeśli jej nie znasz napisz "A Rh+",
- Wyrównaj napis oraz otwór do środka kropli, wynik noścowy powinein wyglądać następująco:
+Następnie tworzymy otwór w kropli, korzystając z przezroczystego walca:
+
+<img src="2.png" />
+
+Dodajemy napis z użyciem narzędzia Text o wysokości 2.00. Wpisz swoją grupę krwi — jeśli jej nie znasz, użyj przykładu: „A Rh+”.
+
+Wyrównaj napis oraz otwór do środka kropli. Gotowy breloczek powinien wyglądać tak:
 
 <img src="3.png" />
 
 
-
-
-
-
-
-
+Materiał został opracowany na podstawie książki dla 8. klasy szkoły podstawowej: Informatyka autorstwa Grażyny Koby, temat: „Projektowanie i druk 3D pomocy dydaktycznych”, wydawnictwo Migra.
