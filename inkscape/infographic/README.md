@@ -38,7 +38,7 @@ Dobra infografika powinna prezentować informacje według jednego z poniższych 
 3. **Zbierz dane i informacje** – poszukaj lub opracuj potrzebne treści.
 4. **Zamień tekst na grafikę** – zastanów się, jak najlepiej to zobrazować.
 5. **Zrób szkic** – najpierw ręcznie, np. na kartce.
-6. **Zaprojektuj infografikę** – w programie do grafiki wektorowej np. [Inkscape](https://inkscape.org/pl/).
+6. **Zaprojektuj infografikę** – w programie do grafiki wektorowej [Inkscape](https://inkscape.org/pl/).
 7. **Umieść infografikę na stronie internetowej** - w tym celu wykorzystaj znacznik HTML:
 
 ```
