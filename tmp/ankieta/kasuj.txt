@@ -1,0 +1,18 @@
+[robert04@s104 school]$ /bin/bash ./show.sh 
+==== lo_r.txt ====
+https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSftAc0Q09kY5u2Pln28CrLaxCDevG_6dH41FSsX23j9TT0F-A%2FformResponse&data=05%7C02%7C%7Cb4630bbd8b8040230ddc08de28278192%7C7fb57ac212674d8bbd838a898116c90c%7C0%7C0%7C638992347295510028%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=IhGwXGAYUkkNJorq4Zc6ZqOCkg4u4s9mAiWrs9aBRRE%3D&reserved=0
+==== lo.txt ====
+https://docs.google.com/forms/d/e/1FAIpQLSftAc0Q09kY5u2Pln28CrLaxCDevG_6dH41FSsX23j9TT0F-A/viewform
+==== sp370pl_r.txt ====
+href="https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdeToVAmUuWEIVd69h-_240RLt2yu-Xz_aslGmg6cvwsWS32Q%2Fviewform&data=05%7C02%7C%7Cb4630bbd8b8040230ddc08de28278192%7C7fb57ac212674d8bbd838a898116c90c%7C0%7C0%7C638992347295459404%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=N7Jk5oyA4E8Eq%2F4%2FT%2FbkXWWzJ0PxAq2mjVGp%2BM%2BjJZo%3D&reserved=0"
+==== sp370pl.txt ====
+https://docs.google.com/forms/d/e/1FAIpQLSdeToVAmUuWEIVd69h-_240RLt2yu-Xz_aslGmg6cvwsWS32Q/viewform
+==== sp370u_r.txt ====
+https://eur05.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSdXADdJN6fRXC5USkKL9u1Qn6Be6TW0qH7F48RshRkKnrfv1Q%2Fviewform&data=05%7C02%7C%7Cb4630bbd8b8040230ddc08de28278192%7C7fb57ac212674d8bbd838a898116c90c%7C0%7C0%7C638992347295485139%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=50Jd9WAZUnzp5z%2F74I%2BP1BagrunsZAje9wtQAxgkPx0%3D&reserved=0
+==== sp370u.txt ====
+https://docs.google.com/forms/d/e/1FAIpQLSdXADdJN6fRXC5USkKL9u1Qn6Be6TW0qH7F48RshRkKnrfv1Q/viewform
+==== video.txt ====
+https://www.youtube.com/watch?v=0ODamZB9NPo&t=1s
+[robert04@s104 school]$ 
+
+
