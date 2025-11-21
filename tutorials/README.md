@@ -14,6 +14,8 @@
 
 - [kwadraty python - sortowanie przez wstawianie](https://youtu.be/FGt1Do8WK_o)
 
+- [kwadraty python - sortowanie przez wybieranie](https://youtu.be/8E1pGeBV5_U)
+
 
 # HTML / CSS
 
