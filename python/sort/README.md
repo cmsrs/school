@@ -12,8 +12,8 @@ Narysuj kolejno (jedna obok drugiej) poniższe figury o podanych długościach b
 | trójkąt | 42 |
 | kwadrat | 13 |
 | sześciokąt | 17 |
-| rąb | 24 |
-| rąb | 47 |
+| romb | 24 |
+| romb | 47 |
 | sześciokąt | 20 |
 | kwadrat | 49 |
 
