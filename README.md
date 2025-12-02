@@ -53,6 +53,7 @@
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python): **24.11.2025**
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania (Scratch/Python): **05.12.2025**
+- [zadanie 5](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania (html): **05.12.2025**
 
 ## sp - klasa 7
 
