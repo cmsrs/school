@@ -85,8 +85,8 @@
 
 ## sp - klasa 4
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/4a/README.md) - termin oddania (Scratch): **10.10.2025**
-- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md) - termin oddania (Scratch): **14.11.2025** (2 oceny za rysunek w paint i całe zadanie)
+- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/4a/README.md) - termin oddania: **10.10.2025**
+- [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md) - termin oddania: **14.11.2025** (2 oceny za rysunek w paint i całe zadanie)
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/4a)
 
 
