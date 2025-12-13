@@ -1,18 +1,18 @@
 miesiac,nr_tranzakcji,kod_produktu,opis_produktu,cena_z_magazynu,cena_sprzedazy,sprzedawca,wojewodztwo
-2024-01,T001,PROD001,Laptop gamingowy 15.6", 16GB RAM, 512GB SSD, 3499.99,4199.99,Jan Kowalski,MAZOWIECKIE
+2024-01,T001,PROD001,"Laptop gamingowy 15.6"", 16GB RAM, 512GB SSD", 3499.99,4199.99,Jan Kowalski,MAZOWIECKIE
 2024-01,T002,PROD005,Mysz bezprzewodowa, 99.99,129.99,Anna Nowak,MAŁOPOLSKIE
 2024-01,T003,PROD012,Słuchawki nauszne z ANC, 249.99,349.99,Piotr Wiśniewski,ŚLĄSKIE
 2024-01,T004,PROD007,Monitor 24" Full HD, 599.99,749.99,Jan Kowalski,MAZOWIECKIE
 2024-01,T005,PROD019,Klawiatura mechaniczna, 199.99,279.99,Anna Nowak,MAŁOPOLSKIE
 2024-02,T006,PROD003,Drukarka laserowa, 499.99,649.99,Marek Zieliński,WIELKOPOLSKIE
 2024-02,T007,PROD015,Smartwatch, 699.99,899.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
-2024-02,T008,PROD008,Tablet 10.5", 64GB, 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-02,T008,PROD008,"Tablet 10.5"", 64GB", 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
 2024-02,T009,PROD022,Głośnik Bluetooth, 159.99,219.99,Jan Kowalski,MAZOWIECKIE
 2024-02,T010,PROD004,Dysk zewnętrzny 1TB, 199.99,269.99,Anna Nowak,MAŁOPOLSKIE
 2024-03,T011,PROD009,Kamera internetowa 4K, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
 2024-03,T012,PROD017,Router Wi-Fi 6, 349.99,449.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
 2024-03,T013,PROD025,Powerbank 20000mAh, 89.99,119.99,Piotr Wiśniewski,ŚLĄSKIE
-2024-03,T014,PROD002,Smartfon 6.7", 128GB, 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
+2024-03,T014,PROD002,"Smartfon 6.7"", 128GB", 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
 2024-03,T015,PROD013,Podkładka pod mysz, 29.99,49.99,Anna Nowak,MAŁOPOLSKIE
 2024-04,T016,PROD020,Mikrofon studyjny USB, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
 2024-04,T017,PROD006,Notebook ultrabook 13.3", 4299.99,4999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
@@ -29,20 +29,20 @@ miesiac,nr_tranzakcji,kod_produktu,opis_produktu,cena_z_magazynu,cena_sprzedazy,
 2024-06,T028,PROD029,Pamięć RAM 32GB, 449.99,599.99,Piotr Wiśniewski,ŚLĄSKIE
 2024-06,T029,PROD030,Karta graficzna, 2999.99,3899.99,Jan Kowalski,MAZOWIECKIE
 2024-06,T030,PROD023,Drukarka atramentowa, 299.99,399.99,Anna Nowak,MAŁOPOLSKIE
-2024-07,T031,PROD001,Laptop gamingowy 15.6", 16GB RAM, 512GB SSD, 3499.99,4199.99,Marek Zieliński,WIELKOPOLSKIE
+2024-07,T031,PROD001,"Laptop gamingowy 15.6"", 16GB RAM, 512GB SSD", 3499.99,4199.99,Marek Zieliński,WIELKOPOLSKIE
 2024-07,T032,PROD005,Mysz bezprzewodowa, 99.99,129.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
 2024-07,T033,PROD012,Słuchawki nauszne z ANC, 249.99,349.99,Piotr Wiśniewski,ŚLĄSKIE
 2024-07,T034,PROD007,Monitor 24" Full HD, 599.99,749.99,Jan Kowalski,MAZOWIECKIE
 2024-07,T035,PROD019,Klawiatura mechaniczna, 199.99,279.99,Anna Nowak,MAŁOPOLSKIE
 2024-08,T036,PROD003,Drukarka laserowa, 499.99,649.99,Marek Zieliński,WIELKOPOLSKIE
 2024-08,T037,PROD015,Smartwatch, 699.99,899.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
-2024-08,T038,PROD008,Tablet 10.5", 64GB, 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-08,T038,PROD008,"Tablet 10.5"", 64GB", 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
 2024-08,T039,PROD022,Głośnik Bluetooth, 159.99,219.99,Jan Kowalski,MAZOWIECKIE
 2024-08,T040,PROD004,Dysk zewnętrzny 1TB, 199.99,269.99,Anna Nowak,MAŁOPOLSKIE
 2024-09,T041,PROD009,Kamera internetowa 4K, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
 2024-09,T042,PROD017,Router Wi-Fi 6, 349.99,449.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
 2024-09,T043,PROD025,Powerbank 20000mAh, 89.99,119.99,Piotr Wiśniewski,ŚLĄSKIE
-2024-09,T044,PROD002,Smartfon 6.7", 128GB, 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
+2024-09,T044,PROD002,"Smartfon 6.7"", 128GB", 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
 2024-09,T045,PROD013,Podkładka pod mysz, 29.99,49.99,Anna Nowak,MAŁOPOLSKIE
 2024-10,T046,PROD020,Mikrofon studyjny USB, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
 2024-10,T047,PROD006,Notebook ultrabook 13.3", 4299.99,4999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
