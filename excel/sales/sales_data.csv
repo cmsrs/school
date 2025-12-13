@@ -1,0 +1,131 @@
+miesiac,nr_tranzakcji,kod_produktu,opis_produktu,cena_z_magazynu,cena_sprzedazy,sprzedawca,wojewodztwo
+2024-01,T001,PROD001,Laptop gamingowy 15.6", 16GB RAM, 512GB SSD, 3499.99,4199.99,Jan Kowalski,MAZOWIECKIE
+2024-01,T002,PROD005,Mysz bezprzewodowa, 99.99,129.99,Anna Nowak,MAŁOPOLSKIE
+2024-01,T003,PROD012,Słuchawki nauszne z ANC, 249.99,349.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-01,T004,PROD007,Monitor 24" Full HD, 599.99,749.99,Jan Kowalski,MAZOWIECKIE
+2024-01,T005,PROD019,Klawiatura mechaniczna, 199.99,279.99,Anna Nowak,MAŁOPOLSKIE
+2024-02,T006,PROD003,Drukarka laserowa, 499.99,649.99,Marek Zieliński,WIELKOPOLSKIE
+2024-02,T007,PROD015,Smartwatch, 699.99,899.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-02,T008,PROD008,Tablet 10.5", 64GB, 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-02,T009,PROD022,Głośnik Bluetooth, 159.99,219.99,Jan Kowalski,MAZOWIECKIE
+2024-02,T010,PROD004,Dysk zewnętrzny 1TB, 199.99,269.99,Anna Nowak,MAŁOPOLSKIE
+2024-03,T011,PROD009,Kamera internetowa 4K, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
+2024-03,T012,PROD017,Router Wi-Fi 6, 349.99,449.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-03,T013,PROD025,Powerbank 20000mAh, 89.99,119.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-03,T014,PROD002,Smartfon 6.7", 128GB, 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
+2024-03,T015,PROD013,Podkładka pod mysz, 29.99,49.99,Anna Nowak,MAŁOPOLSKIE
+2024-04,T016,PROD020,Mikrofon studyjny USB, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
+2024-04,T017,PROD006,Notebook ultrabook 13.3", 4299.99,4999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-04,T018,PROD014,Stacja dokująca, 449.99,599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-04,T019,PROD026,Ładowarka szybka 65W, 119.99,169.99,Jan Kowalski,MAZOWIECKIE
+2024-04,T020,PROD021,Słuchawki douszne sportowe, 149.99,199.99,Anna Nowak,MAŁOPOLSKIE
+2024-05,T021,PROD010,Konsola do gier, 1899.99,2299.99,Marek Zieliński,WIELKOPOLSKIE
+2024-05,T022,PROD018,Monitor 27" 4K, 1599.99,1999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-05,T023,PROD027,Kabel HDMI 2.1, 49.99,79.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-05,T024,PROD011,Aparat fotograficzny, 2899.99,3499.99,Jan Kowalski,MAZOWIECKIE
+2024-05,T025,PROD024,Obudowa do PC, 399.99,549.99,Anna Nowak,MAŁOPOLSKIE
+2024-06,T026,PROD028,Płyta główna ATX, 799.99,999.99,Marek Zieliński,WIELKOPOLSKIE
+2024-06,T027,PROD016,Procesor 8-rdzeniowy, 1399.99,1699.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-06,T028,PROD029,Pamięć RAM 32GB, 449.99,599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-06,T029,PROD030,Karta graficzna, 2999.99,3899.99,Jan Kowalski,MAZOWIECKIE
+2024-06,T030,PROD023,Drukarka atramentowa, 299.99,399.99,Anna Nowak,MAŁOPOLSKIE
+2024-07,T031,PROD001,Laptop gamingowy 15.6", 16GB RAM, 512GB SSD, 3499.99,4199.99,Marek Zieliński,WIELKOPOLSKIE
+2024-07,T032,PROD005,Mysz bezprzewodowa, 99.99,129.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-07,T033,PROD012,Słuchawki nauszne z ANC, 249.99,349.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-07,T034,PROD007,Monitor 24" Full HD, 599.99,749.99,Jan Kowalski,MAZOWIECKIE
+2024-07,T035,PROD019,Klawiatura mechaniczna, 199.99,279.99,Anna Nowak,MAŁOPOLSKIE
+2024-08,T036,PROD003,Drukarka laserowa, 499.99,649.99,Marek Zieliński,WIELKOPOLSKIE
+2024-08,T037,PROD015,Smartwatch, 699.99,899.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-08,T038,PROD008,Tablet 10.5", 64GB, 1299.99,1599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-08,T039,PROD022,Głośnik Bluetooth, 159.99,219.99,Jan Kowalski,MAZOWIECKIE
+2024-08,T040,PROD004,Dysk zewnętrzny 1TB, 199.99,269.99,Anna Nowak,MAŁOPOLSKIE
+2024-09,T041,PROD009,Kamera internetowa 4K, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
+2024-09,T042,PROD017,Router Wi-Fi 6, 349.99,449.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-09,T043,PROD025,Powerbank 20000mAh, 89.99,119.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-09,T044,PROD002,Smartfon 6.7", 128GB, 2249.99,2799.99,Jan Kowalski,MAZOWIECKIE
+2024-09,T045,PROD013,Podkładka pod mysz, 29.99,49.99,Anna Nowak,MAŁOPOLSKIE
+2024-10,T046,PROD020,Mikrofon studyjny USB, 299.99,399.99,Marek Zieliński,WIELKOPOLSKIE
+2024-10,T047,PROD006,Notebook ultrabook 13.3", 4299.99,4999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-10,T048,PROD014,Stacja dokująca, 449.99,599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-10,T049,PROD026,Ładowarka szybka 65W, 119.99,169.99,Jan Kowalski,MAZOWIECKIE
+2024-10,T050,PROD021,Słuchawki douszne sportowe, 149.99,199.99,Anna Nowak,MAŁOPOLSKIE
+2024-11,T051,PROD010,Konsola do gier, 1899.99,2299.99,Marek Zieliński,WIELKOPOLSKIE
+2024-11,T052,PROD018,Monitor 27" 4K, 1599.99,1999.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-11,T053,PROD027,Kabel HDMI 2.1, 49.99,79.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-11,T054,PROD011,Aparat fotograficzny, 2899.99,3499.99,Jan Kowalski,MAZOWIECKIE
+2024-11,T055,PROD024,Obudowa do PC, 399.99,549.99,Anna Nowak,MAŁOPOLSKIE
+2024-12,T056,PROD028,Płyta główna ATX, 799.99,999.99,Marek Zieliński,WIELKOPOLSKIE
+2024-12,T057,PROD016,Procesor 8-rdzeniowy, 1399.99,1699.99,Katarzyna Wójcik,DOLNOŚLĄSKIE
+2024-12,T058,PROD029,Pamięć RAM 32GB, 449.99,599.99,Piotr Wiśniewski,ŚLĄSKIE
+2024-12,T059,PROD030,Karta graficzna, 2999.99,3899.99,Jan Kowalski,MAZOWIECKIE
+2024-12,T060,PROD023,Drukarka atramentowa, 299.99,399.99,Anna Nowak,MAŁOPOLSKIE
+2024-01,T061,PROD031,Smartfon średniej klasy, 899.99,1199.99,Tomasz Lewandowski,POMORSKIE
+2024-01,T062,PROD032,Słuchawki True Wireless, 199.99,279.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-02,T063,PROD033,Laptop 2 w 1, 2799.99,3399.99,Tomasz Lewandowski,POMORSKIE
+2024-02,T064,PROD034,Mysz gamingowa, 149.99,219.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-03,T065,PROD035,Monitor gamingowy 240Hz, 2199.99,2799.99,Tomasz Lewandowski,POMORSKIE
+2024-03,T066,PROD036,Głośnik z asystentem głosowym, 399.99,549.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-04,T067,PROD037,Tablet graficzny, 599.99,799.99,Tomasz Lewandowski,POMORSKIE
+2024-04,T068,PROD038,Klawiatura membranowa, 59.99,89.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-05,T069,PROD039,Dysk SSD 1TB NVMe, 349.99,459.99,Tomasz Lewandowski,POMORSKIE
+2024-05,T070,PROD040,Kamera sportowa, 799.99,999.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-06,T071,PROD041,Słuchawki do biegania, 129.99,189.99,Tomasz Lewandowski,POMORSKIE
+2024-06,T072,PROD042,Mikrofon do podcastów, 499.99,649.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-07,T073,PROD043,Laptop biznesowy, 3899.99,4599.99,Tomasz Lewandowski,POMORSKIE
+2024-07,T074,PROD044,Router mesh 3-pack, 899.99,1199.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-08,T075,PROD045,Monitor ultraszeroki, 2999.99,3699.99,Tomasz Lewandowski,POMORSKIE
+2024-08,T076,PROD046,Głośnik pod prysznic, 79.99,119.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-09,T077,PROD047,Drukarka 3D, 2499.99,3199.99,Tomasz Lewandowski,POMORSKIE
+2024-09,T078,PROD048,Słuchawki dla dzieci, 69.99,99.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-10,T079,PROD049,Konsola przenośna, 1199.99,1499.99,Tomasz Lewandowski,POMORSKIE
+2024-10,T080,PROD050,Mysz ergonomiczna, 129.99,179.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-11,T081,PROD051,Smartfon flagowy, 4799.99,5699.99,Tomasz Lewandowski,POMORSKIE
+2024-11,T082,PROD052,Słuchawki z redukcją szumów, 899.99,1199.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-12,T083,PROD053,Laptop gamingowy 17.3", 5499.99,6499.99,Tomasz Lewandowski,POMORSKIE
+2024-12,T084,PROD054,Stacja pogodowa, 299.99,399.99,Aleksandra Kamińska,ŁÓDZKIE
+2024-01,T085,PROD055,Tablet z rysikiem, 1699.99,2099.99,Robert Mazur,PODKARPACKIE
+2024-02,T086,PROD056,Głośnik przenośny, 249.99,329.99,Magdalena Kaczmarek,OPOLSKIE
+2024-03,T087,PROD057,Monitor OLED 32", 4499.99,5299.99,Robert Mazur,PODKARPACKIE
+2024-04,T088,PROD058,Klawiatura bezprzewodowa, 199.99,279.99,Magdalena Kaczmarek,OPOLSKIE
+2024-05,T089,PROD059,Dysk HDD 4TB, 349.99,459.99,Robert Mazur,PODKARPACKIE
+2024-06,T090,PROD060,Kamera 360 stopni, 1299.99,1699.99,Magdalena Kaczmarek,OPOLSKIE
+2024-07,T091,PROD061,Słuchawki do pracy, 399.99,549.99,Robert Mazur,PODKARPACKIE
+2024-08,T092,PROD062,Mikrofon do gier, 299.99,399.99,Magdalena Kaczmarek,OPOLSKIE
+2024-09,T093,PROD063,Laptop z ekranem dotykowym, 3199.99,3899.99,Robert Mazur,PODKARPACKIE
+2024-10,T094,PROD064,Router podróżny, 149.99,219.99,Magdalena Kaczmarek,OPOLSKIE
+2024-11,T095,PROD065,Monitor do biura, 899.99,1199.99,Robert Mazur,PODKARPACKIE
+2024-12,T096,PROD066,Głośnik z LED, 179.99,249.99,Magdalena Kaczmarek,OPOLSKIE
+2024-01,T097,PROD067,Drukarka termiczna, 399.99,529.99,Robert Mazur,PODKARPACKIE
+2024-02,T098,PROD068,Słuchawki nauszne dla graczy, 599.99,799.99,Magdalena Kaczmarek,OPOLSKIE
+2024-03,T099,PROD069,Konsola retro, 299.99,399.99,Robert Mazur,PODKARPACKIE
+2024-04,T100,PROD070,Mysz podróżna, 49.99,79.99,Magdalena Kaczmarek,OPOLSKIE
+2024-05,T101,PROD071,Smartfon z aparatem, 1599.99,1999.99,Robert Mazur,PODKARPACKIE
+2024-06,T102,PROD072,Słuchawki bezprzewodowe do TV, 349.99,479.99,Magdalena Kaczmarek,OPOLSKIE
+2024-07,T103,PROD073,Laptop do programowania, 4699.99,5499.99,Robert Mazur,PODKARPACKIE
+2024-08,T104,PROD074,Stacja dokująca do laptopa, 299.99,399.99,Magdalena Kaczmarek,OPOLSKIE
+2024-09,T105,PROD075,Monitor dla graczy, 1799.99,2299.99,Robert Mazur,PODKARPACKIE
+2024-10,T106,PROD076,Głośnik z wodoodpornością, 299.99,399.99,Magdalena Kaczmarek,OPOLSKIE
+2024-11,T107,PROD077,Drukarka fotograficzna, 599.99,799.99,Robert Mazur,PODKARPACKIE
+2024-12,T108,PROD078,Słuchawki z mikrofonem, 199.99,279.99,Magdalena Kaczmarek,OPOLSKIE
+2024-01,T109,PROD079,Tablet dla seniora, 799.99,999.99,Robert Mazur,PODKARPACKIE
+2024-02,T110,PROD080,Głośnik z radiem, 129.99,179.99,Magdalena Kaczmarek,OPOLSKIE
+2024-03,T111,PROD081,Monitor ekonomiczny, 499.99,649.99,Robert Mazur,PODKARPACKIE
+2024-04,T112,PROD082,Klawiatura gamingowa, 299.99,399.99,Magdalena Kaczmarek,OPOLSKIE
+2024-05,T113,PROD083,Dysk SSD 500GB, 199.99,279.99,Robert Mazur,PODKARPACKIE
+2024-06,T114,PROD084,Kamera do monitoringu, 349.99,459.99,Magdalena Kaczmarek,OPOLSKIE
+2024-07,T115,PROD085,Słuchawki z aptecznym dźwiękiem, 899.99,1199.99,Robert Mazur,PODKARPACKIE
+2024-08,T116,PROD086,Mikrofon do śpiewu, 699.99,899.99,Magdalena Kaczmarek,OPOLSKIE
+2024-09,T117,PROD087,Laptop z Windows 11 Pro, 4199.99,4899.99,Robert Mazur,PODKARPACKIE
+2024-10,T118,PROD088,Router z modemem, 499.99,649.99,Magdalena Kaczmarek,OPOLSKIE
+2024-11,T119,PROD089,Monitor do domu, 699.99,899.99,Robert Mazur,PODKARPACKIE
+2024-12,T120,PROD090,Głośnik do samochodu, 159.99,219.99,Magdalena Kaczmarek,OPOLSKIE
+2024-01,T121,PROD091,Drukarka wielofunkcyjna, 449.99,599.99,Robert Mazur,PODKARPACKIE
+2024-02,T122,PROD092,Słuchawki z dłuższą baterią, 299.99,399.99,Magdalena Kaczmarek,OPOLSKIE
+2024-03,T123,PROD093,Konsola z grami, 999.99,1299.99,Robert Mazur,PODKARPACKIE
+2024-04,T124,PROD094,Mysz z dużą precyzją, 89.99,129.99,Magdalena Kaczmarek,OPOLSKIE
+2024-05,T125,PROD095,Smartfon z dużą baterią, 1299.99,1699.99,Robert Mazur,PODKARPACKIE
+2024-06,T126,PROD096,Słuchawki do słuchania muzyki, 149.99,199.99,Magdalena Kaczmarek,OPOLSKIE
+2024-07,T127,PROD097,Laptop z ekranem 4K, 5799.99,6799.99,Robert Mazur,PODKARPACKIE
+2024-08,T128,PROD098,Stacja ładująca, 199.99,279.99,Magdalena Kaczmarek,OPOLSKIE
+2024-09,T129,PROD099,Monitor do gier, 2499.99,3099.99,Robert Mazur,PODKARPACKIE
+2024-10,T130,PROD100,Głośnik z podświetleniem, 229.99,309.99,Magdalena Kaczmarek,OPOLSKIE
