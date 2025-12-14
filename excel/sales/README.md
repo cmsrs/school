@@ -1,3 +1,16 @@
+text to columns
+if
+sumif
+sort
+filter
+pivot tables
+pie chart
+
+
+
+
+
+
 miesiac
 nr tranzakcji
 kod produktu
@@ -9,8 +22,8 @@ wojewodztwo
 
 zysk
 prowizja: 
-- 10% dla produktow mniejszych niz 100zl
-- 20% dla produktow wiekszych niz 100zl
+- 10% dla produktow mniejszych niz 1000zl
+- 20% dla produktow wiekszych niz 1000zl
 
 
 Opis danych:
