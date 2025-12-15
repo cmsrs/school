@@ -1,4 +1,4 @@
-# Sprzedaż – Ćwiczenie Excel dla LO
+# Sprzedaż – Ćwiczenie
 
 ## Cel ćwiczenia
 Ćwiczenie ma na celu użycie następujących funkcji i narzędzi w Excelu:  
@@ -13,7 +13,7 @@
 ---
 
 ## Zadanie
-Twoim zadaniem jest **zaimportowanie pliku `sales_data.csv` do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: `robert_szczepanski_1f.pdf`.
+Twoim zadaniem jest **zaimportowanie pliku `sales_data.csv` do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1f.pdf](robert_szczepanski_1f.pdf).
 
 ---
 
