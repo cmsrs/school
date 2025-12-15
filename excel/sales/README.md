@@ -1,83 +1,69 @@
-# Sprzedaż 
+# Sprzedaż – Ćwiczenie Excel dla LO
 
-## Ćwiczenie ma na celu użycie komend
-- text to columns
-- if
-- sum
-- sumif
-- sort
-- pivot tables
-- pie chart
+## Cel ćwiczenia
+Ćwiczenie ma na celu użycie następujących funkcji i narzędzi w Excelu:  
+- **Text to Columns**  
+- **IF**  
+- **SUM**  
+- **SUMIF**  
+- **Sortowanie**  
+- **Tabele przestawne (Pivot Tables)**  
+- **Wykres kołowy (Pie Chart)**
 
-Twoim zdaniem jest zaimportować plik: sales_data.csv do excela następnie zrobić zestawienie pokazane w pdf-ie: robert_szczepanski_1f.pdf
+---
 
-Aby to zrealizowac nalezy nastepujace czynnosci wykonac:
+## Zadanie
+Twoim zadaniem jest **zaimportowanie pliku `sales_data.csv` do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: `robert_szczepanski_1f.pdf`.
 
-1. pobieramy plik sales_data.csv do exela
-2. rozdzielamy kolumne sprzedawcza na imie i nazwisko (data -> tekst jako kolumny)
-3. dodajemy pusta kolumne zatytuowana 'zysk' po  kolumnie 'cena sprzedazy' zasilamy ta kolumne danymi zysk = cena_sprzedazy - cena z magazynu (pamietaj o prawidlowym ustawieniu wartosci kulumn jako walutowe - zamien kropke na przecinek jesli bedzie taka koniecznosc)
-4. dodajemy kolumne 'prowizja sprzedawcy' po kolumnie 'zysk'
-jesli cena_sprzedazy > 1000 -> zysk * 0.2
-przeciwnie zysk * 0.1
-tj.:
-prowizja: 
-- 10% dla produktow mniejszych niz 1000zl
-- 20% dla produktow wiekszych niz 1000zl
+---
 
-5 liczymy nastepujace dane:
-- Suma ceny sprzedazy
-- suma wartosci ceny sprzedazy powyzej 1000
-- suma wartosci ceny sprzedazy ponizej 1000
-(za pomoca sum oraz sumif)
+## Kroki do wykonania
 
-5. Tworzymy pivot table (tabele przestawna) i dodajemy dane jak w pdf-e
-dla kazdego ze sprzedawcy (po nazwisku)
-dodajemy Suma z ceny sprzedazy, liczba produktów jakie dany sprzedawca sprzedal oraz suma prowizji danego sprzedawcy
+1. **Import danych**  
+   - Pobierz plik `sales_data.csv` do Excela.
 
-6 tworzymy wykres taki jak w pdf-ie
+2. **Rozdzielenie kolumny sprzedawcy**  
+   - Rozdziel kolumnę z nazwiskami i imionami sprzedawców przy użyciu **Text to Columns**.
 
-7. dodajemy do tego skoroszytu dane z p5
+3. **Dodanie kolumny 'Zysk'**  
+   - Dodaj pustą kolumnę zatytułowaną **Zysk** po kolumnie `cena_sprzedazy`.  
+   - Oblicz wartość zysku:  
+     ```
+     Zysk = cena_sprzedazy - cena_z_magazynu
+     ```  
+   - Upewnij się, że kolumny są ustawione jako walutowe (jeśli potrzeba, zamień kropkę na przecinek).
 
-8. zamieniamy na pdf (w drukuj oraz dopasowywujemy dane aby zmieniscily sie na jednej stronie - pdf-a)
+4. **Dodanie kolumny 'Prowizja sprzedawcy'**  
+   - Dodaj kolumnę **Prowizja sprzedawcy** po kolumnie `Zysk`.  
+   - Oblicz prowizję według warunku:  
+     ```
+     IF(cena_sprzedazy > 1000, Zysk * 0.2, Zysk * 0.1)
+     ```
+   - Zasada:  
+     - 10% dla produktów mniejszych niż 1000 zł  
+     - 20% dla produktów większych niż 1000 zł
 
+5. **Podsumowania**  
+   - Oblicz:  
+     - Suma ceny sprzedazy  
+     - Suma wartości ceny sprzedazy powyżej 1000  
+     - Suma wartości ceny sprzedazy poniżej 1000  
+   - Wykorzystaj funkcje **SUM** oraz **SUMIF**.
 
+6. **Tabela przestawna (Pivot Table)**  
+   - Utwórz tabelę przestawną z danymi dla każdego sprzedawcy (po nazwisku).  
+   - Wyświetl w tabeli:  
+     - Suma ceny sprzedazy  
+     - Liczba produktów sprzedanych przez danego sprzedawcę  
+     - Suma prowizji danego sprzedawcy
 
+7. **Wykres**  
+   - Utwórz wykres taki jak w PDF-ie (Pie Chart).
 
+8. **Dodanie danych z P5**  
+   - Dodaj do skoroszytu dane z pliku `p5`.
 
-
-
-
-
-miesiac
-nr tranzakcji
-kod produktu
-opis produktu
-cena z magazynu
-cena sprzedazy
-sprzedawca
-wojewodztwo
-
-zysk
-prowizja: 
-- 10% dla produktow mniejszych niz 1000zl
-- 20% dla produktow wiekszych niz 1000zl
-
-
-Opis danych:
-
-    Miesiąc: Zakres od stycznia do grudnia 2024 roku.
-
-    Nr transakcji: Unikalny identyfikator transakcji (T001-T130).
-
-    Kod produktu: Unikalny kod produktu (PROD001-PROD100).
-
-    Opis produktu: Krótki opis produktu elektronicznego/RTV/AGD.
-
-    Cena z magazynu: Cena zakupu/koszt produktu (zł).
-
-    Cena sprzedaży: Cena końcowa dla klienta (zł).
-
-    Sprzedawca: Imię i nazwisko sprzedawcy (6 różnych osób).
-
-    Województwo: Losowo przydzielone województwa z Polski.
-
+9. **Eksport do PDF**  
+   - Zamień skoroszyt na PDF:  
+     - Użyj opcji **Drukuj**  
+     - Dopasuj dane tak, aby wszystkie znalazły się na jednej stronie PDF-a.
