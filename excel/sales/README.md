@@ -13,7 +13,7 @@
 ---
 
 ## Zadanie
-Twoim zadaniem jest **zaimportowanie pliku `sales_data.csv` do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1f.pdf](robert_szczepanski_1f.pdf).
+Twoim zadaniem jest **zaimportowanie pliku `sales_data.csv` do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1e.pdf](robert_szczepanski_1e.pdf).
 
 ---
 
