@@ -1,7 +1,5 @@
 # school
 
-## [sql](https://github.com/cmsrs/school/tree/main/sql)
-
 ## [system operacyjny](https://github.com/cmsrs/school/blob/main/os/README.md)
 
 ## [sieci komputerowe](https://github.com/cmsrs/school/blob/main/networking/README.md)
