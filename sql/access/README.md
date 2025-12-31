@@ -1,45 +1,84 @@
 # Ms-Access – zadanie
 
-Schemat bazy danych:
+## 🎯 Cel ćwiczenia
+Praktyczne wykorzystanie MS Access do importu danych, tworzenia relacji, kwerend i raportów na podstawie rzeczywistych danych szkolnych.
 
-<img src="../sqlite/school_structure.png" />
+## 📊 Struktura bazy danych
+![Schemat bazy danych](../sqlite/school_structure.png)
 
+*Diagram przedstawia relacje między tabelami zawierającymi dane o klasach, uczniach i ocenach.*
+
+## 📋 Zadanie do wykonania
 
 1. zaimportuj nastepujace pliki - import csv
-każdy z ucznów ma swoj zestaw na podstawie nr w librusie
+### 1. **Import danych CSV**
+Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w dzienniku Librus).
 
-w ktalogu zestawienia/zestawy_danych_access mozesz znaleźć swoje dane do wygenerowania raportu
+**Pliki do zaimportowania** (znajdziesz w folderze `zestawienia/zestawy_danych_access`):
+- `classes.csv` - dane o klasach
+- `students.csv` - dane o uczniach  
+- `grades_dictionary.csv` - słownik ocen
+- `student_grades.csv` - oceny uczniów
 
-classes.csv  grades_dictionary.csv  student_grades.csv  students.csv
-
-ktore stanowia poszczegolne tabele programu ms-access
-
-2. Utworz relacje miedzy tabelami
+### 2. **Utworzenie relacji między tabelami**
+W MS Access:
+- Przejdź do zakładki **Narzędzia bazy danych → Relacje**
+- Połącz tabele odpowiednimi relacjami zgodnie ze schematem
 
 Narzędzia bazy danych -> Relacje
 
-3. utworz kwerende, ktora pozaże nastepujace dane
+### 3. **Tworzenie kwerendy**
+Utwórz kwerendę SQL, która wyświetli następujące informacje:
+- **Klasa** ucznia
+- **Imię** i **nazwisko**
+- **Średnią ocen** (zaokrągloną do 2 miejsc po przecinku)
+- **Sumę wszystkich ocen**
+- **Liczbę otrzymanych ocen**
 
-klasa, imie, nazwisko, srednia ocen ucznia, suma ocen ucznia oraz ilosc ocen ucznia
 
-4. utworz raport, na podstawie kwerendy wykonajej w poprzednim punkcie
+### 4. **Generowanie raportu**
+Na podstawie utworzonej kwerendy stwórz **raport** w MS Access, który:
+- Będzie czytelnie prezentował dane
+- Zostanie posortowany według średniej ocen (malejąco)
 
-5. na podtawie raportu wygeneruj pdf
 
-raport powinien wygladać nastepująco:
+### 5. **Eksport do PDF**
+Wygeneruj plik **PDF** z utworzonego raportu.
 
-zestawienia/zestawienia_pdf_znak
+**Wzór raportu:** `zestawienia/zestawienia_pdf_znak/zestawienie_XX.pdf`
 
 
 ## 💯 Kryteria oceny
 
 | Ocena | Opis |
 |:------|:------|
-| **2** | Utworzenie: kwarendy zawierajacej tylko uczniow i klasy |
-| **3** | Utworzenie: kwarendy (p3) |
-| **4** | Utworzenie: kwarendy (p3), raporu (p4) |
-| **5** | Utworzenie: kwarendy (p3), raporu (p4) i pdf-a (p5) |
-| **6** | Zaproponuj sposób dodania przedmiotów do istniejącej bazy danych. Określ, w jakich tabelach powinny się znaleźć i jakie relacje między nimi należy utworzyć. Uzupełnij ręcznie przykładowe dane, modyfikując istniejącą strukturę. Następnie wyświetl wszystkich studentów, którzy mają oceny z danego przedmiotu. Wynik powinien zawierać następujące kolumny: Imię, Nazwisko, Klasa, Oceny oraz Nazwa przedmiotu. Oceny dla każdego studenta powinny być wyświetlone w jednej kolumnie, oddzielone przecinkiem.|
+| **2** | Import danych i utworzenie kwerendy wyświetlającej tylko uczniów i klasy |
+| **3** | Poprawnie utworzona kwerenda z punktu 3 |
+| **4** | Kwerenda (pkt 3) + raport (pkt 4) |
+| **5** | Kwerenda + raport + poprawnie wygenerowany PDF |
+| **6** | Wszystkie powyższe + dodatkowe zadanie rozszerzające|
+
+Zadanie na ocenę celującą (6)
+
+Rozszerz strukturę bazy danych o przedmioty szkolne:
+
+    Zaproponuj zmiany w strukturze bazy:
+
+        W jakich tabelach powinny znaleźć się dane o przedmiotach?
+
+        Jakie nowe relacje należy utworzyć?
+
+    Wprowadź zmiany ręcznie w swojej bazie:
+
+        Dodaj tabelę subjects (przedmioty)
+
+        Zmodyfikuj istniejące tabele/relacje
+
+        Uzupełnij przykładowymi danymi
+
+    Utwórz kwerendę, która wyświetli wszystkie oceny wraz z przedmiotem dla danego ucznia
+
+        Zastawienie ma zawierać następujące kolumny: Nazwa przedmiotu, ocena
 
 
 
