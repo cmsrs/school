@@ -10,7 +10,6 @@ Praktyczne wykorzystanie MS Access do importu danych, tworzenia relacji, kwerend
 
 ## 📋 Zadanie do wykonania
 
-1. zaimportuj nastepujace pliki - import csv
 ### 1. **Import danych CSV**
 Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w dzienniku Librus).
 
@@ -62,23 +61,23 @@ Zadanie na ocenę celującą (6)
 
 Rozszerz strukturę bazy danych o przedmioty szkolne:
 
-    Zaproponuj zmiany w strukturze bazy:
+- Zaproponuj zmiany w strukturze bazy:
 
-        W jakich tabelach powinny znaleźć się dane o przedmiotach?
+    - W jakich tabelach powinny znaleźć się dane o przedmiotach?
 
-        Jakie nowe relacje należy utworzyć?
+    - Jakie nowe relacje należy utworzyć?
 
-    Wprowadź zmiany ręcznie w swojej bazie:
+- Wprowadź zmiany ręcznie w swojej bazie:
 
-        Dodaj tabelę subjects (przedmioty)
+    - Dodaj tabelę subjects (przedmioty)
 
-        Zmodyfikuj istniejące tabele/relacje
+    - Zmodyfikuj istniejące tabele/relacje
 
-        Uzupełnij przykładowymi danymi
+    - Uzupełnij przykładowymi danymi
 
-    Utwórz kwerendę, która wyświetli wszystkie oceny wraz z przedmiotem dla danego ucznia
+- Utwórz kwerendę, która wyświetli wszystkie oceny wraz z przedmiotem dla danego ucznia
 
-        Zastawienie ma zawierać następujące kolumny: Nazwa przedmiotu, ocena
+    - Zastawienie ma zawierać następujące kolumny: Nazwa przedmiotu, ocena
 
 
 
