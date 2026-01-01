@@ -6,7 +6,7 @@ path_in_repo = "sql/access/zestawienia/zipy"
 
 print("### 📥 Pobierz swój zestaw danych\n")
 
-for i in range(0, 36):  # od 00 do 35
+for i in range(1, 36):  # od 01 do 35
     num = f"{i:02}"  # dwucyfrowy numer: 00, 01, 02 ...
     zip_name = f"zestaw_{num}.zip"
     url = f"https://raw.githubusercontent.com/{user}/{repo}/{branch}/{path_in_repo}/{zip_name}"

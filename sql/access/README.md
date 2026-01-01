@@ -15,7 +15,6 @@ Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w d
 
 ### 📥 Pobierz swój zestaw danych
 
-- Zestaw 00 → [Pobierz zestaw_00.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_00.zip)
 - Zestaw 01 → [Pobierz zestaw_01.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_01.zip)
 - Zestaw 02 → [Pobierz zestaw_02.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_02.zip)
 - Zestaw 03 → [Pobierz zestaw_03.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_03.zip)
