@@ -15,11 +15,11 @@ Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w d
 
 ### 📥 Pobierz swój zestaw danych
 
-- Zestaw 01 → [Pobierz zestaw_01.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_01.zip)
+- Zestaw 01 → [Pobierz zestaw_01.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_01.zip)
 
-- Zestaw 02 → [Pobierz zestaw_02.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_02.zip)
+- Zestaw 02 → [Pobierz zestaw_02.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_02.zip)
 
-- Zestaw 03 → [Pobierz zestaw_03.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_03.zip)
+- Zestaw 03 → [Pobierz zestaw_03.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_03.zip)
 
 
 
