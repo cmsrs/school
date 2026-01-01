@@ -3,7 +3,7 @@ import zipfile
 import re  # do sprawdzania wzorca katalogu
 
 # bieżący katalog, w którym są foldery z zestawami
-source_folder = "."
+source_folder = "./zestawy_danych_access/"
 # folder docelowy na ZIP-y
 output_folder = "./zipy"
 

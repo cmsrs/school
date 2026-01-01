@@ -15,12 +15,42 @@ Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w d
 
 ### 📥 Pobierz swój zestaw danych
 
-- Zestaw 01 → [Pobierz zestaw_01.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_01.zip)
-
-- Zestaw 02 → [Pobierz zestaw_02.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_02.zip)
-
-- Zestaw 03 → [Pobierz zestaw_03.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_03.zip)
-
+- Zestaw 00 → [Pobierz zestaw_00.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_00.zip)
+- Zestaw 01 → [Pobierz zestaw_01.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_01.zip)
+- Zestaw 02 → [Pobierz zestaw_02.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_02.zip)
+- Zestaw 03 → [Pobierz zestaw_03.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_03.zip)
+- Zestaw 04 → [Pobierz zestaw_04.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_04.zip)
+- Zestaw 05 → [Pobierz zestaw_05.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_05.zip)
+- Zestaw 06 → [Pobierz zestaw_06.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_06.zip)
+- Zestaw 07 → [Pobierz zestaw_07.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_07.zip)
+- Zestaw 08 → [Pobierz zestaw_08.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_08.zip)
+- Zestaw 09 → [Pobierz zestaw_09.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_09.zip)
+- Zestaw 10 → [Pobierz zestaw_10.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_10.zip)
+- Zestaw 11 → [Pobierz zestaw_11.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_11.zip)
+- Zestaw 12 → [Pobierz zestaw_12.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_12.zip)
+- Zestaw 13 → [Pobierz zestaw_13.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_13.zip)
+- Zestaw 14 → [Pobierz zestaw_14.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_14.zip)
+- Zestaw 15 → [Pobierz zestaw_15.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_15.zip)
+- Zestaw 16 → [Pobierz zestaw_16.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_16.zip)
+- Zestaw 17 → [Pobierz zestaw_17.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_17.zip)
+- Zestaw 18 → [Pobierz zestaw_18.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_18.zip)
+- Zestaw 19 → [Pobierz zestaw_19.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_19.zip)
+- Zestaw 20 → [Pobierz zestaw_20.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_20.zip)
+- Zestaw 21 → [Pobierz zestaw_21.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_21.zip)
+- Zestaw 22 → [Pobierz zestaw_22.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_22.zip)
+- Zestaw 23 → [Pobierz zestaw_23.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_23.zip)
+- Zestaw 24 → [Pobierz zestaw_24.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_24.zip)
+- Zestaw 25 → [Pobierz zestaw_25.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_25.zip)
+- Zestaw 26 → [Pobierz zestaw_26.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_26.zip)
+- Zestaw 27 → [Pobierz zestaw_27.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_27.zip)
+- Zestaw 28 → [Pobierz zestaw_28.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_28.zip)
+- Zestaw 29 → [Pobierz zestaw_29.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_29.zip)
+- Zestaw 30 → [Pobierz zestaw_30.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_30.zip)
+- Zestaw 31 → [Pobierz zestaw_31.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_31.zip)
+- Zestaw 32 → [Pobierz zestaw_32.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_32.zip)
+- Zestaw 33 → [Pobierz zestaw_33.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_33.zip)
+- Zestaw 34 → [Pobierz zestaw_34.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_34.zip)
+- Zestaw 35 → [Pobierz zestaw_35.zip](https://raw.githubusercontent.com/cmsrs/school/main/sql/access/zestawienia/zipy/zestaw_35.zip)
 
 
 **Pliki do zaimportowania** (znajdziesz w folderze po rozpakowaniu swojego zestawu):
