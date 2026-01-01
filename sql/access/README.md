@@ -13,7 +13,17 @@ Praktyczne wykorzystanie MS Access do importu danych, tworzenia relacji, kwerend
 ### 1. **Import danych CSV**
 Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w dzienniku Librus).
 
-**Pliki do zaimportowania** (znajdziesz w folderze [zestawienia/zestawy_danych_access](zestawienia/zestawy_danych_access)):
+### 📥 Pobierz swój zestaw danych
+
+- Zestaw 01 → [Pobierz zestaw_01.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_01.zip)
+
+- Zestaw 02 → [Pobierz zestaw_02.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_02.zip)
+
+- Zestaw 03 → [Pobierz zestaw_03.zip](https://github.com/cmsrs/school/blob/main/sql/access/zestawienia/zestawy_danych_access/zipy/zestaw_03.zip)
+
+
+
+**Pliki do zaimportowania** (znajdziesz w folderze po rozpakowaniu swojego zestawu):
 - `classes.csv` - dane o klasach
 - `students.csv` - dane o uczniach  
 - `grades_dictionary.csv` - słownik ocen
