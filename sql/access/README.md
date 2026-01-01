@@ -13,7 +13,7 @@ Praktyczne wykorzystanie MS Access do importu danych, tworzenia relacji, kwerend
 ### 1. **Import danych CSV**
 Każdy uczeń otrzymuje **unikalny zestaw danych** (numer odpowiada numerowi w dzienniku Librus).
 
-**Pliki do zaimportowania** (znajdziesz w folderze `zestawienia/zestawy_danych_access`):
+**Pliki do zaimportowania** (znajdziesz w folderze [zestawienia/zestawy_danych_access](zestawienia/zestawy_danych_access)):
 - `classes.csv` - dane o klasach
 - `students.csv` - dane o uczniach  
 - `grades_dictionary.csv` - słownik ocen
@@ -44,7 +44,9 @@ Na podstawie utworzonej kwerendy stwórz **raport** w MS Access, który:
 ### 5. **Eksport do PDF**
 Wygeneruj plik **PDF** z utworzonego raportu.
 
-**Wzór raportu:** `zestawienia/zestawienia_pdf_znak/zestawienie_XX.pdf`
+Raporty wynikowe dla każdego zestawienia znajdują się w katalogu
+[zestawienia/zestawienia_pdf_znak](zestawienia/zestawienia_pdf_znak).
+Twoim zadaniem jest wygenerowanie analogicznych raportów — taka postać stanowi oczekiwany wynik pracy.
 
 
 ## 💯 Kryteria oceny
