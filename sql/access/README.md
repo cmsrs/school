@@ -131,9 +131,11 @@ Rozszerz strukturę bazy danych o przedmioty szkolne:
 
     - Uzupełnij przykładowymi danymi
 
-- Utwórz kwerendę, która wyświetli wszystkie oceny wraz z przedmiotem dla danego ucznia
-
-    - Zastawienie ma zawierać następujące kolumny: Nazwa przedmiotu, ocena
+- Utwórz kwerendę SQL, która wyświetli następujące informacje:
+    - **Klasa** ucznia
+    - **Imię** i **nazwisko**
+    - **Przedmiot**
+    - **Ocena**
 
 
 
