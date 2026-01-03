@@ -137,6 +137,7 @@ Rozszerz strukturę bazy danych o przedmioty szkolne:
     - **Przedmiot**
     - **Ocena**
 
+    Pokaż ucznów tylko z danej klasy.
 
 
 
