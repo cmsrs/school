@@ -24,3 +24,13 @@
 - [Zmiana istniejącej strony, aby była w dwóch językach (polskim i angielskim)](https://youtu.be/imJpjfu5IkU)
 
 - [Archiwizacja strony WWW za pomocą konta Gmail i Dysku Google](https://youtu.be/6QzwsTgA240)
+
+# MS-ACCESS
+
+- [Relacyjne bazy danych - wprowadzenie. Import tabel z plików CSV](https://youtu.be/pGisC-yelTk)
+
+- [Relacje w MS-ACCESS](https://youtu.be/05UajSDaj_I)
+
+- [Kwerenda w MS-ACCESS](https://youtu.be/ZXcOS2kjfag)
+
+- [Raport oraz Eksport do PDF](https://youtu.be/YgXzp9-iRa8)
