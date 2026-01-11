@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="189.65909mm"
+   height="163.00412mm"
+   viewBox="0 0 189.65909 163.00412"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="nwd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72248176"
+     inkscape:cx="476.82865"
+     inkscape:cy="1679.6272"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker8380"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8378" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8322"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8159"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8097"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8039"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker7719"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7717" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7673"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7553"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker7295"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7293" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7261"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7165"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker6809"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6807" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6787"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker6695"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6693" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6615"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5622"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker5574"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path5572" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5564"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5339"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1651"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1510"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1510-4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1651-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1510-6"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1510-4-8"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1651-8"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1651-7-4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-8"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-8-6"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-8-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-2-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3271-8-6-2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5622-7"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker6695-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6693-5" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6615-6"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7165-9"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker7295-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7293-1" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7261-2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7553-3"
+       is_visible="true"
+       lpeversion="1" />
+    <marker
+       style="overflow:visible"
+       id="marker7719-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path7717-8" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7673-8"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.1935579,-337.44417)">
+    <g
+       id="g9472"
+       transform="matrix(0.62434662,0,0,0.62434662,31.660018,322.56708)">
+      <rect
+         style="font-variation-settings:'wght' 700;opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9076"
+         width="303.77213"
+         height="261.0795"
+         x="-37.585629"
+         y="23.828264" />
+      <g
+         id="g9008"
+         transform="translate(-10.741477,12.670165)">
+        <ellipse
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:#ffffff;stroke:#000000;stroke-width:0.569749;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           id="path234"
+           cx="95.969315"
+           cy="27.82984"
+           rx="28.472046"
+           ry="9.5012236" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           x="86.343559"
+           y="29.612667"
+           id="text1001"><tspan
+             sodipodi:role="line"
+             id="tspan999"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+             x="86.343559"
+             y="29.612667">START</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           x="159.61931"
+           y="111.50536"
+           id="text1001-4"><tspan
+             sodipodi:role="line"
+             id="tspan999-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+             x="159.61931"
+             y="111.50536">NIE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           x="217.43411"
+           y="163.76532"
+           id="text1001-4-6"><tspan
+             sodipodi:role="line"
+             id="tspan999-9-3"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+             x="217.43411"
+             y="163.76532">NIE</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           x="23.421663"
+           y="110.93447"
+           id="text1001-4-0"><tspan
+             sodipodi:role="line"
+             id="tspan999-9-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+             x="23.421663"
+             y="110.93447">TAK</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           x="112.8664"
+           y="163.63872"
+           id="text1001-4-0-0"><tspan
+             sodipodi:role="line"
+             id="tspan999-9-9-9"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+             x="112.8664"
+             y="163.63872">TAK</tspan></text>
+        <g
+           id="g1452"
+           transform="translate(-101.08162,134.79529)">
+          <ellipse
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#ffffff;stroke:#000000;stroke-width:0.569749;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             id="path234-3"
+             cx="121.44886"
+             cy="62.407623"
+             rx="28.472046"
+             ry="9.5012236" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="111.8231"
+             y="64.190453"
+             id="text1001-7"><tspan
+               sodipodi:role="line"
+               id="tspan999-4"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="111.8231"
+               y="64.190453">KONIEC</tspan></text>
+        </g>
+        <g
+           id="g1691"
+           transform="translate(-6.0353874,-4.1213442)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="79.4319"
+             y="67.021416"
+             id="text1001-5"><tspan
+               sodipodi:role="line"
+               id="tspan999-47"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="79.4319"
+               y="67.021416">Wprowadź(a,b)</tspan></text>
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.782271;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 72.851713,56.355612 H 138.49422"
+             id="path1508"
+             inkscape:path-effect="#path-effect1510"
+             inkscape:original-d="m 72.851713,56.355612 c 21.814214,2.64e-4 43.762007,2.64e-4 65.642507,0" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.782271;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 63.984606,74.600658 H 129.62711"
+             id="path1508-4"
+             inkscape:path-effect="#path-effect1510-4"
+             inkscape:original-d="m 63.984606,74.600658 c 21.814214,2.64e-4 43.762004,2.64e-4 65.642504,0" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 73.174602,56.519709 64.301766,74.490685"
+             id="path1649"
+             inkscape:path-effect="#path-effect1651"
+             inkscape:original-d="m 73.174602,56.519709 c -2.957348,5.99059 -5.914958,11.980915 -8.872836,17.970976" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="m 138.35328,56.372007 -8.87283,17.970976"
+             id="path1649-8"
+             inkscape:path-effect="#path-effect1651-7"
+             inkscape:original-d="m 138.35328,56.372007 c -2.95734,5.99059 -5.91495,11.980915 -8.87283,17.970976" />
+        </g>
+        <g
+           id="g3655"
+           transform="translate(-44.138867,48.542024)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="43.823246"
+             y="103.36642"
+             id="text1001-5-3"><tspan
+               sodipodi:role="line"
+               id="tspan999-47-0"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="43.823246"
+               y="103.36642">Wyprowadź(a)</tspan></text>
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.782271;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 35.469632,92.61145 H 101.11214"
+             id="path1508-9"
+             inkscape:path-effect="#path-effect1510-6"
+             inkscape:original-d="m 35.469632,92.61145 c 21.814214,2.64e-4 43.762007,2.64e-4 65.642508,0" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.782271;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 26.602525,110.8565 H 92.245029"
+             id="path1508-4-2"
+             inkscape:path-effect="#path-effect1510-4-8"
+             inkscape:original-d="m 26.602525,110.8565 c 21.814214,2.6e-4 43.762004,2.6e-4 65.642504,0" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 35.792521,92.775547 26.919685,110.74652"
+             id="path1649-0"
+             inkscape:path-effect="#path-effect1651-8"
+             inkscape:original-d="m 35.792521,92.775547 c -2.957348,5.99059 -5.914958,11.980913 -8.872836,17.970973" />
+          <path
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             d="M 100.9712,92.627845 92.098369,110.59882"
+             id="path1649-8-6"
+             inkscape:path-effect="#path-effect1651-7-4"
+             inkscape:original-d="m 100.9712,92.627845 c -2.957341,5.99059 -5.914951,11.980915 -8.872831,17.970975" />
+        </g>
+        <g
+           id="g4609"
+           transform="translate(-57.414255,-14.548968)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="145.59534"
+             y="125.63477"
+             id="text1001-50"><tspan
+               sodipodi:role="line"
+               id="tspan999-48"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="145.59534"
+               y="125.63477">Czy</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="145.59534"
+               y="133.57227"
+               id="tspan3391">a = b ?</tspan></text>
+          <g
+             id="g3399"
+             transform="matrix(0.80985296,0,0,0.80985296,24.106473,19.579087)"
+             style="stroke-width:1.00018;stroke-dasharray:none">
+            <g
+               id="g3307"
+               style="stroke-width:1.00018;stroke-dasharray:none">
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 127.42135,135.92645 32.55519,-32.55519"
+                 id="path3269"
+                 inkscape:path-effect="#path-effect3271"
+                 inkscape:original-d="m 127.42135,135.92645 c 10.67366,-10.67313 21.70372,-21.7032 32.55519,-32.55519" />
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 192.23511,135.77082 159.67992,103.21563"
+                 id="path3269-9"
+                 inkscape:path-effect="#path-effect3271-8"
+                 inkscape:original-d="m 192.23511,135.77082 c -10.67366,-10.67313 -21.70372,-21.7032 -32.55519,-32.55519" />
+            </g>
+            <g
+               id="g3307-6"
+               transform="matrix(1,0,0,-1,-0.39579737,271.52878)"
+               style="stroke-width:1.00018;stroke-dasharray:none">
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 127.42135,135.92645 32.55519,-32.55519"
+                 id="path3269-4"
+                 inkscape:path-effect="#path-effect3271-2"
+                 inkscape:original-d="m 127.42135,135.92645 c 10.67366,-10.67313 21.70372,-21.7032 32.55519,-32.55519" />
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 192.23511,135.77082 159.67992,103.21563"
+                 id="path3269-9-9"
+                 inkscape:path-effect="#path-effect3271-8-6"
+                 inkscape:original-d="m 192.23511,135.77082 c -10.67366,-10.67313 -21.70372,-21.7032 -32.55519,-32.55519" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g7057"
+           transform="translate(-28.667509,-11.453943)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="191.34647"
+             y="175.30182"
+             id="text1001-50-7"><tspan
+               sodipodi:role="line"
+               id="tspan999-48-2"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="191.34647"
+               y="175.30182">Czy</tspan><tspan
+               sodipodi:role="line"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="191.34647"
+               y="183.23932"
+               id="tspan3391-2">a &gt; b ?</tspan></text>
+          <g
+             id="g3399-6"
+             transform="matrix(0.80985296,0,0,0.80985296,69.8576,69.246139)"
+             style="stroke-width:1.00018;stroke-dasharray:none">
+            <g
+               id="g3307-1"
+               style="stroke-width:1.00018;stroke-dasharray:none">
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 127.42135,135.92645 32.55519,-32.55519"
+                 id="path3269-0"
+                 inkscape:path-effect="#path-effect3271-7"
+                 inkscape:original-d="m 127.42135,135.92645 c 10.67366,-10.67313 21.70372,-21.7032 32.55519,-32.55519" />
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 192.23511,135.77082 159.67992,103.21563"
+                 id="path3269-9-6"
+                 inkscape:path-effect="#path-effect3271-8-1"
+                 inkscape:original-d="m 192.23511,135.77082 c -10.67366,-10.67313 -21.70372,-21.7032 -32.55519,-32.55519" />
+            </g>
+            <g
+               id="g3307-6-1"
+               transform="matrix(1,0,0,-1,-0.39579737,271.52878)"
+               style="stroke-width:1.00018;stroke-dasharray:none">
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 127.42135,135.92645 32.55519,-32.55519"
+                 id="path3269-4-5"
+                 inkscape:path-effect="#path-effect3271-2-7"
+                 inkscape:original-d="m 127.42135,135.92645 c 10.67366,-10.67313 21.70372,-21.7032 32.55519,-32.55519" />
+              <path
+                 style="font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.00018;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 192.23511,135.77082 159.67992,103.21563"
+                 id="path3269-9-9-9"
+                 inkscape:path-effect="#path-effect3271-8-6-2"
+                 inkscape:original-d="m 192.23511,135.77082 c -10.67366,-10.67313 -21.70372,-21.7032 -32.55519,-32.55519" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g4592"
+           transform="translate(-78.089581,157.45265)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="182.25462"
+             y="64.024025"
+             id="text1001-77"><tspan
+               sodipodi:role="line"
+               id="tspan999-1"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="182.25462"
+               y="64.024025">a = a -b</tspan></text>
+          <rect
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.605577;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3715"
+             width="40.572998"
+             height="17.495584"
+             x="169.38693"
+             y="52.488361" />
+        </g>
+        <g
+           id="g4597"
+           transform="translate(38.617509,127.71793)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;opacity:0.99;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             x="182.25462"
+             y="93.66272"
+             id="text1001-77-1"><tspan
+               sodipodi:role="line"
+               id="tspan999-1-5"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.3;stroke-dasharray:none"
+               x="182.25462"
+               y="93.66272">b = b - a</tspan></text>
+          <rect
+             style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.605577;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3715-9"
+             width="40.572998"
+             height="17.495584"
+             x="169.38693"
+             y="82.12706" />
+        </g>
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.660944;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+           d="M 95.969314,37.331062 V 50.20383"
+           id="path5337"
+           inkscape:path-effect="#path-effect5339"
+           inkscape:original-d="m 95.969314,37.331062 c 2.64e-4,4.291152 2.64e-4,8.582075 0,12.872768" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.654936;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5574)"
+           d="M 95.942006,70.679399 V 86.313904"
+           id="path5562"
+           inkscape:path-effect="#path-effect5564"
+           inkscape:original-d="m 95.942006,70.679399 c 2.64e-4,5.211726 2.64e-4,10.423229 0,15.634505" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M 69.564236,114.84807 H 20.367244"
+           id="path5620"
+           inkscape:path-effect="#path-effect5622"
+           inkscape:original-d="m 69.564236,114.84807 c -16.398732,2.6e-4 -32.797731,2.6e-4 -49.196992,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M 170.72425,114.97916 H 121.52726"
+           id="path5620-7"
+           inkscape:path-effect="#path-effect5622-7"
+           inkscape:original-d="m 170.72425,114.97916 c -16.39873,2.6e-4 -32.79773,2.6e-4 -49.19699,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.679006;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6695)"
+           d="m 20.367244,114.84807 v 24.05896"
+           id="path6613"
+           inkscape:path-effect="#path-effect6615"
+           inkscape:original-d="m 20.367244,114.84807 c 2.64e-4,8.0199 2.64e-4,16.03955 0,24.05896" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.679006;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6695-6)"
+           d="m 170.72425,114.97916 v 24.05896"
+           id="path6613-3"
+           inkscape:path-effect="#path-effect6615-6"
+           inkscape:original-d="m 170.72425,114.97916 c 2.7e-4,8.0199 2.7e-4,16.03955 0,24.05896" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.686306;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6809)"
+           d="m 20.367244,159.39852 v 26.4457"
+           id="path6785"
+           inkscape:path-effect="#path-effect6787"
+           inkscape:original-d="m 20.367244,159.39852 c 2.64e-4,8.81549 2.64e-4,17.63071 0,26.4457" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M 144.06211,167.61014 H 111.58385"
+           id="path7163"
+           inkscape:path-effect="#path-effect7165"
+           inkscape:original-d="m 144.06211,167.61014 c -10.82582,2.7e-4 -21.6519,2.7e-4 -32.47826,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M 228.29094,167.67797 H 195.81268"
+           id="path7163-4"
+           inkscape:path-effect="#path-effect7165-9"
+           inkscape:original-d="m 228.29094,167.67797 c -10.82582,2.7e-4 -21.6519,2.7e-4 -32.47826,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7295)"
+           d="m 111.58385,167.61014 v 39.71164"
+           id="path7259"
+           inkscape:path-effect="#path-effect7261"
+           inkscape:original-d="m 111.58385,167.61014 c 2.6e-4,13.23748 2.6e-4,26.47469 0,39.71164" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7295-8)"
+           d="m 228.29094,167.61014 v 39.71164"
+           id="path7259-9"
+           inkscape:path-effect="#path-effect7261-2"
+           inkscape:original-d="m 228.29094,167.61014 c 2.6e-4,13.23748 2.6e-4,26.47469 0,39.71164" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 111.58385,227.4366 v 18.22867"
+           id="path7551"
+           inkscape:path-effect="#path-effect7553"
+           inkscape:original-d="m 111.58385,227.4366 c 2.6e-4,6.07648 2.6e-4,12.15271 0,18.22867" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 228.29094,227.34057 v 18.22867"
+           id="path7551-9"
+           inkscape:path-effect="#path-effect7553-3"
+           inkscape:original-d="m 228.29094,227.34057 c 2.6e-4,6.07648 2.6e-4,12.15271 0,18.22867" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.695252;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7719)"
+           d="m 111.58385,245.66527 h 56.38947"
+           id="path7671"
+           inkscape:path-effect="#path-effect7673"
+           inkscape:original-d="m 111.58385,245.66527 c 18.79674,2.6e-4 37.59323,2.6e-4 56.38947,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.695252;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7719-0)"
+           d="M 228.64227,245.64949 H 172.2528"
+           id="path7671-5"
+           inkscape:path-effect="#path-effect7673-8"
+           inkscape:original-d="m 228.64227,245.64949 c -18.79674,2.6e-4 -37.59323,2.6e-4 -56.38947,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 170.13742,245.66526 v 14.56156"
+           id="path8037"
+           inkscape:path-effect="#path-effect8039"
+           inkscape:original-d="m 170.13742,245.66526 c 2.6e-4,4.85412 2.6e-4,9.70797 0,14.56156" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="m 170.13742,260.22682 h 90.84194"
+           id="path8095"
+           inkscape:path-effect="#path-effect8097"
+           inkscape:original-d="m 170.13742,260.22682 c 30.28091,2.6e-4 60.56156,2.6e-4 90.84194,0" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.709999;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+           d="M 260.97936,260.22682 V 77.499709"
+           id="path8157"
+           inkscape:path-effect="#path-effect8159"
+           inkscape:original-d="m 260.97936,260.22682 c 2.6e-4,-60.90877 2.6e-4,-121.81781 0,-182.727111" />
+        <path
+           style="font-variation-settings:'wght' 700;opacity:0.99;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.704563;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8380)"
+           d="M 260.97936,77.499709 H 98.459379"
+           id="path8320"
+           inkscape:path-effect="#path-effect8322"
+           inkscape:original-d="m 260.97936,77.499709 c -54.17307,2.65e-4 -108.34638,2.65e-4 -162.519981,0" />
+      </g>
+    </g>
+  </g>
+</svg>
