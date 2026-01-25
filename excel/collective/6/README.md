@@ -83,8 +83,8 @@ Poniżej znajdź swój numer i pobierz odpowiedni plik:
 
 
 ### Ważne wskazówki:
-1. **Zapisz plik pod swoim nazwiskiem** np. `kowalski_jan_klasa_4b_zestaw_015.xlsx`
-2. **Wypełnij dane ucznia** na początku każdego arkusza
+1. **Zapisz plik pod swoim nazwiskiem i imieniem oraz dodaj swoją klase** np. `kowalski_jan_klasa_4b_zestaw_015.xlsx`
+2. **Wypełnij dane ucznia** na początku pierwszego arkusza
 3. **Używaj formuł** zamiast wpisywać wyniki ręcznie
 4. **Zapisuj często** swoją pracę (`Ctrl + S`)
 
@@ -109,7 +109,9 @@ Poniżej znajdź swój numer i pobierz odpowiedni plik:
 1. **Instrukcja w każdym arkuszu** - przeczytaj ją dokładnie
 2. **Pomoc w programie** (`F1` lub menu Pomoc)
 3. **Kolega/koleżanka** - możecie rozmawiać o metodzie, ale nie o wynikach
-4. **Nauczyciel** - w razie poważniejszych problemów
+4. **Wideotutoriale nauczyciela (YouTube)**:  
+👉 [Kliknij tutaj, aby zobaczyć listę filmów](https://github.com/cmsrs/school/blob/main/tutorials/README.md)
+5. **Nauczyciel** - w razie poważniejszych problemów
 
 ---
 
