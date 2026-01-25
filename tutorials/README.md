@@ -28,21 +28,22 @@
 
 # MS Excel / LibreOffice Calc
 
-## Warunek i suma warunkowa
-- **MS Excel:** [YouTube](https://youtu.be/FB6E0xeBvYE)  
-- **LibreOffice Calc:** [YouTube](https://youtu.be/H7SQwBMr1BE)
-
-## Adresowanie mieszane i względne + warunek
-- **MS Excel:** [YouTube](https://youtu.be/EuljAxJUJhI)  
-- **LibreOffice Calc:** [YouTube](https://youtu.be/UxTDZvJTO5s)
+## Adresowanie względne, średnie, wykresy słupkowe
+- **MS Excel:** [YouTube](https://youtu.be/Wcvu6pGGTlg)  
+- **LibreOffice Calc:** [YouTube](https://youtu.be/odcEe_zNxLg)
 
 ## Adresowanie względne, średnie, sumy, wykres kołowy
 - **MS Excel:** [YouTube](https://youtu.be/JQpZciyhNfI)  
 - **LibreOffice Calc:** [YouTube](https://youtu.be/qTfRzvPwrYQ)
 
-## Adresowanie względne, średnie, wykresy słupkowe
-- **MS Excel:** [YouTube](https://youtu.be/Wcvu6pGGTlg)  
-- **LibreOffice Calc:** [YouTube](https://youtu.be/odcEe_zNxLg)
+## Adresowanie mieszane i względne + warunek
+- **MS Excel:** [YouTube](https://youtu.be/EuljAxJUJhI)  
+- **LibreOffice Calc:** [YouTube](https://youtu.be/UxTDZvJTO5s)
+
+
+## Warunek i suma warunkowa
+- **MS Excel:** [YouTube](https://youtu.be/FB6E0xeBvYE)  
+- **LibreOffice Calc:** [YouTube](https://youtu.be/H7SQwBMr1BE)
 
 
 # MS-ACCESS
