@@ -2,7 +2,7 @@
 user = "cmsrs"
 repo = "school"
 branch = "main"
-path_in_repo = "excel/collective/zestawy_dla_uczniow"
+path_in_repo = "excel/collective/6/zestawy_dla_uczniow"
 
 print("### 📥 Pobierz swój zestaw danych\n")
 
