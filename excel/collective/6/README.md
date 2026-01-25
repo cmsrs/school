@@ -8,7 +8,9 @@ Ten projekt zawiera **50 unikalnych zestawów zadań** w formacie Excel, przygot
 
 ## 📥 Jak pobrać swój zestaw?
 
-Twój **numer zestawu** jest taki sam, jak **twój numer w dzienniku elektronicznym Librus Synergia**.
+Twój **numer zestawu** to ten sam numer, który masz w **dzienniku elektronicznym Librus Synergia jako numer w całej klasie**.
+Nie chodzi o numer w grupie - **liczy się wyłącznie numer z listy całej klasy.**
+
 
 ### Krok 1: Sprawdź swój numer
 Zaloguj się do swojego konta w **e-dzienniku Librus** i znajdź swój numer na liście uczniów w klasie. Jest to ten sam numer, pod którym jesteś wpisany w dzienniku.
@@ -69,66 +71,22 @@ Poniżej znajdź swój numer i pobierz odpowiedni plik:
 - Zestaw 049 → [Pobierz zestaw_049.xlsx](https://raw.githubusercontent.com/cmsrs/school/main/excel/collective/zestawy_dla_uczniow/zestaw_049.xlsx)
 - Zestaw 050 → [Pobierz zestaw_050.xlsx](https://raw.githubusercontent.com/cmsrs/school/main/excel/collective/zestawy_dla_uczniow/zestaw_050.xlsx)
 
-> ⚠️ **WAŻNE:** Każdy uczeń ma **inny, unikalny zestaw** zadań. Pobranie pliku przypisanego do numeru kolegi lub koleżanki sprawi, że Twoje odpowiedzi będą nieprawidłowe.
-
----
-
-## 📊 Co zawiera Twój zestaw?
-
-Każdy plik Excel ma **6 arkuszy** z różnymi zadaniami:
-
-### 📝 **Zadanie 1 - Średnie ocen**
-- **Cel:** Oblicz średnie ocen uczniów
-- **Umiejętności:** Funkcja `ŚREDNIA()`, zamiana kropek na przecinki
-- **Gdzie:** Arkusz `Zadanie 1 - Średnie`
-
-### 🛒 **Zadanie 2 - Zakupy szkolne**  
-- **Cel:** Oblicz wartości zakupów
-- **Umiejętności:** Mnożenie, sumowanie, formatowanie kwot
-- **Gdzie:** Arkusz `Zadanie 2 - Zakupy`
-
-### 📈 **Zadanie 3 - Sprzedaż miesięczna**
-- **Cel:** Analizuj sprzedaż w 3 miesiącach
-- **Umiejętności:** Obliczenia wieloetapowe, sumy częściowe
-- **Gdzie:** Arkusz `Zadanie 3 - Sprzedaż`
-
-### 🏫 **Zadanie 4 - Średnie klasy**
-- **Cel:** Oblicz średnie i sprawdź kto ma pasek
-- **Umiejętności:** `ŚREDNIA()`, warunki (`JEŻELI()`)
-- **Gdzie:** Arkusz `Zadanie 4 - Średnie klasy`
-
-### 💼 **Zadanie 5 - Dane osobowe**
-- **Cel:** Analizuj dane pracowników
-- **Umiejętności:** `LICZ.JEŻELI()`, `MAKS()`, `MIN()`, rozdzielanie tekstu
-- **Gdzie:** Arkusz `Zadanie 5 - Dane osobowe`
-
-### 📊 **Zadanie 6 - Analiza sprzedaży**
-- **Cel:** Zrób pełną analizę finansową
-- **Umiejętności:** `SUMA.JEŻELI()`, `JEŻELI()`, obliczenia procentowe
-- **Gdzie:** Arkusz `Zadanie 6 - Analiza`
+> ⚠️ **WAŻNE:** Każdy uczeń ma **inny, unikalny zestaw** zadań. Pobranie pliku przypisanego do numeru kolegi lub koleżanki sprawi, że Twoje odpowiedzi **będą nieprawidłowe**.
 
 ---
 
 ## 💻 Jak pracować z plikiem?
 
 ### Programy do otwarcia:
-- **LibreOffice Calc** (darmowy, zalecany)
 - **Microsoft Excel** (jeśli masz)
-- **Google Sheets** (może mieć ograniczenia formuł)
+- **LibreOffice Calc** (darmowy)
+
 
 ### Ważne wskazówki:
-1. **Zapisz plik pod swoim nazwiskiem** np. `kowalski_jan_zestaw_015.xlsx`
+1. **Zapisz plik pod swoim nazwiskiem** np. `kowalski_jan_klasa_4b_zestaw_015.xlsx`
 2. **Wypełnij dane ucznia** na początku każdego arkusza
 3. **Używaj formuł** zamiast wpisywać wyniki ręcznie
 4. **Zapisuj często** swoją pracę (`Ctrl + S`)
-
-### 🔧 Rozwiązywanie problemów:
-| Problem | Rozwiązanie |
-| :--- | :--- |
-| Formuły pokazują `#NAME?` | Upewnij się, że używasz **polskich** nazw funkcji |
-| Kropki zamiast przecinków | Użyj funkcji `ZASTĄP.TEKST()` lub zmień ustawienia regionalne |
-| Plik się nie otwiera | Upewnij się, że masz zainstalowany program do obsługi Excela |
-| Nie widzę wszystkich arkuszy | Sprawdź zakładki na dole okna programu |
 
 ---
 
@@ -137,8 +95,8 @@ Każdy plik Excel ma **6 arkuszy** z różnymi zadaniami:
 - [ ] Sprawdziłem/am swój **numer w dzienniku Librus**
 - [ ] Pobrałem/am **właściwy plik** (zestaw_XXX.xlsx)
 - [ ] Zapisałem/am plik pod swoim nazwiskiem
-- [ ] Otworzyłem/am **wszystkie 6 arkuszy**
-- [ ] Wypełniłem/am swoje dane (imię, nazwisko, klasa) w każdym arkuszu
+- [ ] Otworzyłem/am **wszystkie arkusze**
+- [ ] Wypełniłem/am swoje dane (imię, nazwisko, klasa) w pierwszym arkuszu
 
 ### Podczas pracy:
 - [ ] Używam **formuł** do wszystkich obliczeń
@@ -146,34 +104,6 @@ Każdy plik Excel ma **6 arkuszy** z różnymi zadaniami:
 - [ ] Zapisuję pracę przynajmniej **co 10 minut**
 
 ---
-
-## 📤 Jak oddać pracę?
-
-### Sposób oddania:
-1. **Zapisz plik** jako: `Nazwisko_Imie_zestaw_XX.xlsx` (np. `Kowalski_Jan_zestaw_015.xlsx`)
-2. **Wyślij mailem** na adres: `[TU_WPISZ_ADRES_EMAIL_NAUCZYCIELA]`
-3. **Temat wiadomości:** `Excel - Nazwisko Imie - zestaw XX`
-
-### Termin oddania: 
-`[DATA]` do godziny `[GODZINA]`
-
----
-
-## 🆘 Potrzebujesz pomocy?
-
-### Zasady:
-- **Pytaj** jeśli czegoś nie rozumiesz - to normalne!
-- **Pracuj samodzielnie** - to ćwiczenie ma pomóc **Tobie**
-- **Korzystaj z pomocy** w programie Excel (kliknij `F1`)
-
-### Przydatne skróty klawiszowe:
-| Skrót | Działanie |
-| :--- | :--- |
-| `F2` | Edytuj komórkę |
-| `Ctrl + Z` | Cofnij |
-| `Ctrl + S` | Zapisz |
-| `F9` | Przelicz wszystkie formuły |
-| `Ctrl + 1` | Otwórz okno formatowania |
 
 ### Gdzie szukać pomocy?
 1. **Instrukcja w każdym arkuszu** - przeczytaj ją dokładnie
@@ -198,29 +128,8 @@ Każdy plik Excel ma **6 arkuszy** z różnymi zadaniami:
 - ❌ **Nie sprawdzam** czy wyniki mają sens
   ✅ *Rozwiązanie: Zastanów się - czy ta średnia/Suma może być taka?*
 
-### Nagroda za staranność:
-Najlepsze prace zostaną wyróżnione! Liczy się:
-- ✅ **Poprawność** obliczeń
-- ✅ **Użycie formuł** (nie ręczne wpisywanie)
-- ✅ **Czytelność** i estetyka
-- ✅ **Terminowość** oddania
-
----
-
-## 📞 Kontakt
-
-W razie pytań technicznych lub problemów z pobieraniem plików:
-- **Nauczyciel:** `[IMIĘ_I_NAZWISKO_NAUCZYCIELA]`
-- **Email:** `[EMAIL_NAUCZYCIELA]`
-- **Librus:** Wiadomość przez dziennik elektroniczny
-
----
 
 **Powodzenia!** 🚀 
-
-Pamiętaj, że te umiejętności przydadzą Ci się nie tylko w szkole, ale też w przyszłej pracy i życiu codziennym!
-
-> *"Nie boję się komputera. Boję się jego braku."* — Isaac Asimov
 
 ---
 *Pliki wygenerowane automatycznie. Wszystkie zestawy są unikalne i przypisane do numerów w dzienniku Librus.*
