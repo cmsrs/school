@@ -13,17 +13,20 @@
 ---
 
 ## Zadanie
-Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](sales_data.csv) do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1e.pdf](robert_szczepanski_1e.pdf).
+Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](https://raw.githubusercontent.com/cmsrs/school/main/excel/sales/sales_data.csv) do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1b.pdf](robert_szczepanski_1b.pdf).
 
 ---
 
 ## Kroki do wykonania
 
 1. **Import danych**  
-   - Pobierz plik `sales_data.csv` do Excela.
+   - Pobierz plik [sales_data.csv](https://raw.githubusercontent.com/cmsrs/school/main/excel/sales/sales_data.csv) następnie otwórz go w: **MS-Excela** lub **Libreoffice calc**.
 
 2. **Rozdzielenie kolumny sprzedawcy**  
    - Rozdziel kolumnę z nazwiskami i imionami sprzedawców przy użyciu **Text to Columns**.
+
+3. **Formatowanie kolumn cenowych**
+   - Ustaw format walutowy dla kolumn **cena z magazynu** oraz **cena sprzedaży**.
 
 3. **Dodanie kolumny 'Zysk'**  
    - Dodaj pustą kolumnę zatytułowaną **Zysk** po kolumnie `cena_sprzedazy`.  
@@ -46,8 +49,8 @@ Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](sales_data.csv) do E
 5. **Podsumowania**  
    - Oblicz:  
      - Suma ceny sprzedazy  
-     - Suma wartości ceny sprzedazy powyżej 1000  
-     - Suma wartości ceny sprzedazy poniżej 1000  
+     - Suma wartości ceny sprzedazy powyżej 1000 zł
+     - Suma wartości sprzedaży do 1000 zł (włącznie)
    - Wykorzystaj funkcje **SUM** oraz **SUMIF**.
 
 6. **Tabela przestawna (Pivot Table)**  
@@ -56,12 +59,10 @@ Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](sales_data.csv) do E
      - Suma ceny sprzedazy  
      - Liczba produktów sprzedanych przez danego sprzedawcę  
      - Suma prowizji danego sprzedawcy
+   - Wyniki posortuj alfabetycznie według nazwiska sprzedawcy.     
 
 7. **Wykres**  
    - Utwórz wykres taki jak w PDF-ie (Pie Chart).
-
-8. **Dodanie danych z P5**  
-   - Dodaj do skoroszytu dane z pliku `p5`.
 
 9. **Eksport do PDF**  
    - Zamień skoroszyt na PDF:  
