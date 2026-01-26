@@ -13,7 +13,7 @@
 ---
 
 ## Zadanie
-Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](https://raw.githubusercontent.com/cmsrs/school/main/excel/sales/sales_data.csv) do Excela**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1b.pdf](robert_szczepanski_1b.pdf).
+Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](https://raw.githubusercontent.com/cmsrs/school/main/excel/sales/sales_data.csv)** do **MS-Excela** lub **Libreoffice calc**, a następnie przygotowanie zestawienia zgodnie z przykładowym PDF-em: [robert_szczepanski_1b.pdf](robert_szczepanski_1b.pdf).
 
 ---
 
