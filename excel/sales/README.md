@@ -43,8 +43,8 @@ Twoim zadaniem jest **zaimportowanie pliku [sales_data.csv](https://raw.githubus
      IF(cena_sprzedazy > 1000, Zysk * 0.2, Zysk * 0.1)
      ```
    - Zasada:  
-     - 10% dla produktów mniejszych niż 1000 zł  
-     - 20% dla produktów większych niż 1000 zł
+     - 10% dla produktów o cenie ≤ 1000 zł
+     - 20% dla produktów o cenie > 1000 zł
 
 5. **Podsumowania**  
    - Oblicz:  
