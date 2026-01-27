@@ -40,12 +40,9 @@
 - **MS Excel:** [YouTube](https://youtu.be/EuljAxJUJhI)  
 - **LibreOffice Calc:** [YouTube](https://youtu.be/UxTDZvJTO5s)
 
-
 ## Warunek i suma warunkowa
 - **MS Excel:** [YouTube](https://youtu.be/FB6E0xeBvYE)  
 - **LibreOffice Calc:** [YouTube](https://youtu.be/H7SQwBMr1BE)
-
----
 
 ## Analiza sprzedaży
 
