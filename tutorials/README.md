@@ -45,6 +45,10 @@
 - **MS Excel:** [YouTube](https://youtu.be/FB6E0xeBvYE)  
 - **LibreOffice Calc:** [YouTube](https://youtu.be/H7SQwBMr1BE)
 
+---
+
+## Analiza sprzedaży
+
 ### Import danych z pliku CSV
 **Zakres:**
 - pobranie danych z pliku CSV  
