@@ -45,6 +45,15 @@
 - **MS Excel:** [YouTube](https://youtu.be/FB6E0xeBvYE)  
 - **LibreOffice Calc:** [YouTube](https://youtu.be/H7SQwBMr1BE)
 
+## Analiza sprzedaży
+    ### pobranie danych z pliku csv, zasosowanie funkcji: Text to Columns, sum, if, sumif
+        - **MS Excel:** [YouTube](https://youtu.be/45lWLOEPvF8)
+        - **LibreOffice Calc:** [YouTube](https://youtu.be/wMWY6YRJvGs)
+
+    ### tabele przestawne, wykres kołowy i zapis wyniku do pdf
+        - **MS Excel:** [YouTube](https://youtu.be/JUJ_Bk41c6U)
+        - **LibreOffice Calc:** [YouTube](https://youtu.be/i0a3A4Se_90)
+
 
 # MS-ACCESS
 
