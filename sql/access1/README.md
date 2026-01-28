@@ -26,14 +26,18 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
 1. Przejdź do: **Tworzenie** → **Projekt kwerendy**
 2. Przeciągnij tabelę **uczniowie** do obszaru projektowania
 3. Kliknij dwukrotnie na **\*** (wybór wszystkich kolumn)
-4. W dolnej części, w kolumnie **lubi_przedmiot** wpisz:  
+4. Przeciągnij tabelę **klasy** do obszaru projektowania
+5. Kliknij dwukrotnie na **\*** (wybór wszystkich kolumn)
+6. W dolnej części, w kolumnie **lubi_przedmiot** wpisz:  
    `[Twój ulubiony przedmiot]` (używając własnego ulubionego przedmiotu)
-5. Kliknij przycisk **Uruchom** (czerwony wykrzyknik)
+7. Kliknij przycisk **Uruchom** (czerwony wykrzyknik)
+8. zapisz kwerende jako `ulubiony_przedmiot`
 
 ## KROK 5: Utwórz raport PDF
 1. Stwórz raport na podstawie zapytania z **kroku 4**
 2. W nagłówku raportu wpisz swoje **imię i nazwisko**
-3. Zapisz plik jako:  
+3. Przejdź do: **Tworzenie** → **Raport**
+4. Zapisz plik jako (ctrl → p - drukuj do pdf-a):  
    **raport_[nazwisko]_[twoja_klasa].pdf**  
    (np. `raport_kowalski_3a.pdf`)
 
