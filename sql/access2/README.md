@@ -122,6 +122,9 @@ Jak byś to naprawił?
 ---
 
 **Kolejne problemy do rozważenia (tylko sugestia - robota w nieskończoność  😉 ):**
+
+> To **NIE** jest do wykonania. To lista przykładów, jak szybko prosty system robi się skomplikowany w prawdziwym życiu. Wystarczy, że **rozumiesz, że takie problemy istnieją** – nie musisz ich implementować.
+
 - Historia zmian ocen oraz data wprowadzenia danej oceny
 - Nauczyciele przypisani do przedmiotów  
 - Typy ocen (sprawdzian, kartkówka, odpowiedź ustna)
@@ -138,7 +141,6 @@ Jak byś to naprawił?
 - **Konkurencja między uczniami** - tabela liderów miesiąca
 - **System nagród** - wirtualne odznaki za dobre oceny
 
-*"Prawdziwy programista wie, że nigdy nie skończy projektować bazy danych - zawsze znajdzie się coś do dodania!"* 😉
 ---
 
 **Uwaga:** Nazwy plików (bazy i raportu) oraz nagłówek raportu powinny umożliwiać łatwą identyfikację autora i klasy.
