@@ -45,7 +45,7 @@ przykładowy raport pdf:
 **[zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf)**
 
 
-# ZADANIA DODATKOWE (dla chętnych na 6)
+# ZADANIA DODATKOWE (dla chętnych na 5+)
 
 ## Pytanie 1
 
@@ -75,7 +75,7 @@ A co jeśli uczeń lubi **kilka przedmiotów**? Na przykład:
 
 **Jak rozwiązać ten problem w projekcie bazy danych?**
 
-*Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym lub na kartce.*
+> **Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym lub na kartce.**
 
 ---
 
