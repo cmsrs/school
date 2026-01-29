@@ -35,14 +35,16 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
 
 ## KROK 5: Utwórz raport PDF
 1. Stwórz raport na podstawie zapytania z **kroku 4**
-2. W nagłówku raportu wpisz swoje **imię i nazwisko**
-3. Przejdź do: **Tworzenie** → **Raport**
-4. Zapisz plik jako (ctrl → p - drukuj do pdf-a):  
-   **raport_[nazwisko]_[twoja_klasa].pdf**  
-   (np. `raport_kowalski_3a.pdf`)
+2. Przejdź do: **Tworzenie** → **Raport**
+3. W nagłówku raportu wpisz swoje **imię i nazwisko**
+4. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
+
+przykładowy raport
+
+**[zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf)**
 
 
-# ZADANIA DODATKOWE (dla chętnych)
+# ZADANIA DODATKOWE (dla chętnych na 6)
 
 ## Pytanie 1
 
@@ -72,7 +74,7 @@ A co jeśli uczeń lubi **kilka przedmiotów**? Na przykład:
 
 **Jak rozwiązać ten problem w projekcie bazy danych?**
 
-*Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym.*
+*Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym lub na kartce.*
 
 ---
 
