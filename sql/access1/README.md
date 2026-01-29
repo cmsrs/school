@@ -42,22 +42,37 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
    (np. `raport_kowalski_3a.pdf`)
 
 
-## ZADANIE DODATKOWE (dla chętnych):
-Zastanów się, co jest nieoptymalne w strukturze tej bazy danych
-Zaproponuj lepszy projekt w formie schematu
-Jakie problemy mogą wyniknąć z obecnego rozwiązania?
+# ZADANIA DODATKOWE (dla chętnych)
 
-### Podpowiedź:
+## Pytanie 1
 
-Pomyśl o polu ulubiony_przedmiot jako tekście, który każdy może wpisać inaczej:
-- "matematyka" vs "Matematyka" vs "matma" vs "matematyk"
-- "fizyka" vs "Fizyka" vs "fiz"
-- "w-f" vs "WF" vs "wychowanie fizyczne"
+1. **Co jest nieoptymalne** w strukturze tej bazy danych?
+2. **Zaproponuj lepszy projekt** w formie schematu.
+3. **Jakie problemy** mogą wyniknąć z obecnego rozwiązania?
+
+### Podpowiedź
+
+Pomyśl o polu `ulubiony_przedmiot` jako tekście, który każdy może wpisać inaczej:
+- `"matematyka"` vs `"Matematyka"` vs `"matma"` vs `"matematyk"`
+- `"fizyka"` vs `"Fizyka"` vs `"fiz"`
+- `"w-f"` vs `"WF"` vs `"wychowanie fizyczne"`
 
 Co się stanie, gdy będziesz chciał sprawdzić, ilu uczniów lubi matematykę?
-Jeśli zrobisz zadanie dodatkowe, możesz też spróbować ZIMPLEMENTOWAĆ swój lepszy projekt w Accessie. 
-Za w pełni działającą implementację - dodatkowa ocena!
 
+> **Za w pełni działającą implementację w Accessie - dodatkowa ocena!**
+
+---
+
+## Pytanie 2
+
+A co jeśli uczeń lubi **kilka przedmiotów**? Na przykład:
+- Matematykę **i** informatykę
+- WF **i** historię
+- Język polski **i** chemię **i** geografię
+
+**Jak rozwiązać ten problem w projekcie bazy danych?**
+
+*Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym.*
 
 ---
 
