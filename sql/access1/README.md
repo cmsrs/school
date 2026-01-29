@@ -36,9 +36,10 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
 ## KROK 5: Utwórz raport PDF
 1. Stwórz raport na podstawie zapytania z **kroku 4**
 2. Przejdź do: **Tworzenie** → **Raport**
-3. W nagłówku raportu wpisz swoje **imię i nazwisko**
-4. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
-5. Zapisz raport jako `ulubiony_przedmiot`
+3. W nagłówku raportu wpisz swoje **imię i nazwisko klasa nr_dzienika**
+4. Ustaw odpowiednią szerokość kolumn
+5. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
+6. Zapisz raport jako `ulubiony_przedmiot`
 
 przykładowy raport pdf:
 

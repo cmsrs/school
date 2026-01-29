@@ -29,7 +29,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 
 ## KROK 3: Utwórz relację między tabelami
 1. Kliknij: **Narzędzia bazy danych** → **Relacje**
-2. Jeśli tabele nie są widoczne, kliknij: **Pokaż tabelę** → dodaj `uczniowie` i `oceny`
+2. Jeśli tabele nie są widoczne, kliknij: **Pokaż tabelę** → dodaj `uczniowie` i `oceny`, możesz także przeciągnąć tabelę do obszaru roboczego,
 3. Połącz tabele:
    - Przeciągnij pole **`id`** z tabeli `uczniowie`
    - Upuść na pole **`uczen_id`** w tabeli `oceny`
@@ -42,7 +42,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 
 ## KROK 4: Wpisz przykładowe oceny
 1. Otwórz tabelę **oceny** (kliknij 2x w oknie nawigacji)
-2. Wpisz **8-12 ocen** dla różnych uczniów z Twojej klasy:
+2. Wpisz **8-12 ocen** dla różnych uczniów z Twojej klasy np.:
 
 | uczen_id | przedmiot | ocena |
 |----------|-----------|-------|
@@ -69,23 +69,26 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
    - `nazwisko`
 5. Kliknij 2x na pole `ocena` z tabeli `oceny`
 6. Włącz funkcje agregujące:
-   - Kliknij zakładkę **Projekt** na wstążce
+   - Kliknij zakładkę **Projekt kwerendy** na wstążce
    - Kliknij przycisk **Sumy** (ikonka Σ)
 7. W dolnej części projektanta:
-   - Przy `imie` i `nazwisko` zostaw **Grupowanie po**
-   - Przy `ocena` zmień na **Liczba**
+   - Przy `imie` i `nazwisko` zostaw **Grupowanie według**
+   - Przy `ocena` zmień na **Policz**
 8. Kliknij **Uruchom** (czerwony wykrzyknik ✓)
 9. Zapisz zapytanie jako: `liczba_ocen_ucznia`
 
-## KROK 6: Wygeneruj raport PDF
-1. W oknie nawigacji kliknij 2x na zapytanie `liczba_ocen_ucznia`
-2. Naciśnij **Ctrl + P** (tak jak w Wordzie!)
-3. W oknie drukowania:
-   - **Drukarka:** wybierz `Microsoft Print to PDF`
-   - **Zakres stron:** zaznacz `Wszystko`
-4. Kliknij **Drukuj**
-5. Zapisz plik jako: **raport2_[twoje_nazwisko].pdf**
-6. Wyślij plik PDF na Teams/email
+## KROK 6: Utwórz raport PDF
+1. Stwórz raport na podstawie zapytania z **kroku 5**
+2. W oknie nawigacji kliknij 2x na zapytanie `liczba_ocen_ucznia`
+2. Przejdź do: **Tworzenie** → **Raport**
+3. W nagłówku raportu wpisz swoje **imię i nazwisko klasa nr_dzienika**
+4. Ustaw odpowiednią szerokość kolumn
+5. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
+6. Zapisz raport jako `liczba_ocen_ucznia`
+
+przykładowy raport pdf:
+
+**[liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf)**
 
 ---
 
@@ -106,39 +109,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 - **5-6 pkt** = 3
 - **0-4 pkt** = 2
 
----
-
-## 🆘 Rozwiązywanie problemów
-
-### ❌ "Błąd przy wpisywaniu oceny"
-**Powód:** `uczen_id` nie istnieje w tabeli `uczniowie`
-**Rozwiązanie:** Sprawdź jakie ID masz w tabeli `uczniowie` i używaj tylko tych
-
-### ❌ "Przycisk Sumy (Σ) jest wyszarzony"
-**Rozwiązanie:** Najpierw dodaj pola do zapytania, dopiero potem kliknij Sumy
-
-### ❌ "Wszyscy mają LiczbaOcen = 1"
-**Rozwiązanie:** Upewnij się, że przy kolumnie `ocena` masz **Liczba**, a nie **Grupowanie po**
-
-### ❌ "Nie ma Microsoft Print to PDF"
-**Alternatywa:**
-1. Kliknij prawym na zapytanie
-2. Wybierz **Eksportuj** → **PDF lub XPS**
 
 ---
 
-## ⭐ Zadanie dodatkowe (dla chętnych)
-Stwórz zapytanie pokazujące **średnią ocen** każdego ucznia:
-1. W istniejącym zapytaniu zmień **Liczba** na **Średnia**
-2. Zmień nazwę kolumny na `srednia_ocen`
-3. Dodaj zaokrąglenie do 2 miejsc po przecinku
-
----
-
-**Termin wykonania: 3 tygodnie**
-
-**Pracując w domu – zrób zrzut ekranu Accessa jako dowód samodzielnej pracy!**
-
----
-
-*Powodzenia! Pytania zadawaj na lekcji lub przez dziennik elektroniczny.*
+**Uwaga:** Nazwy plików (bazy i raportu) oraz nagłówek raportu powinny umożliwiać łatwą identyfikację autora i klasy.
