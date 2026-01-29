@@ -88,7 +88,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 
 przykładowy raport pdf:
 
-**[liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf)**
+**[liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access2/liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf)**
 
 ---
 
