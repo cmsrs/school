@@ -41,6 +41,24 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
    **raport_[nazwisko]_[twoja_klasa].pdf**  
    (np. `raport_kowalski_3a.pdf`)
 
+
+## ZADANIE DODATKOWE (dla chętnych):
+Zastanów się, co jest nieoptymalne w strukturze tej bazy danych
+Zaproponuj lepszy projekt w formie schematu
+Jakie problemy mogą wyniknąć z obecnego rozwiązania?
+
+### Podpowiedź:
+
+Pomyśl o polu ulubiony_przedmiot jako tekście, który każdy może wpisać inaczej:
+- "matematyka" vs "Matematyka" vs "matma" vs "matematyk"
+- "fizyka" vs "Fizyka" vs "fiz"
+- "w-f" vs "WF" vs "wychowanie fizyczne"
+
+Co się stanie, gdy będziesz chciał sprawdzić, ilu uczniów lubi matematykę?
+Jeśli zrobisz zadanie dodatkowe, możesz też spróbować ZIMPLEMENTOWAĆ swój lepszy projekt w Accessie. 
+Za w pełni działającą implementację - dodatkowa ocena!
+
+
 ---
 
 **Uwaga:** Nazwy plików (bazy i raportu) oraz nagłówek raportu powinny umożliwiać łatwą identyfikację autora i klasy.
