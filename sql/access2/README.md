@@ -112,4 +112,20 @@ przykładowy raport pdf:
 
 ---
 
+## 💡 PYTANIE BONUSOWE (5+)
+
+Jakie problemy mogą powstać, gdy każdy wpisuje nazwy przedmiotów oraz oceny samodzielnie?
+Jak byś to naprawił?
+
+> Możesz narysować schemat relacyjny w Inkscape lub innym programie graficznym lub na kartce - rozwiązujący te problemy.
+
+---
+
+**Kolejne problemy do rozważenia:**
+- Historia zmian ocen oraz data wprowadzenia danej oceny
+- Nauczyciele przypisani do przedmiotów
+- Typy ocen (sprawdzian, kartkówka, odpowiedź ustna)
+
+
+
 **Uwaga:** Nazwy plików (bazy i raportu) oraz nagłówek raportu powinny umożliwiać łatwą identyfikację autora i klasy.
