@@ -38,8 +38,9 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
 2. Przejdź do: **Tworzenie** → **Raport**
 3. W nagłówku raportu wpisz swoje **imię i nazwisko**
 4. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
+5. Zapisz raport jako `ulubiony_przedmiot`
 
-przykładowy raport
+przykładowy raport pdf:
 
 **[zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf)**
 
