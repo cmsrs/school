@@ -121,11 +121,24 @@ Jak byś to naprawił?
 
 ---
 
-**Kolejne problemy do rozważenia:**
+**Kolejne problemy do rozważenia (tylko sugestia - robota w nieskończoność  😉 ):**
 - Historia zmian ocen oraz data wprowadzenia danej oceny
-- Nauczyciele przypisani do przedmiotów
+- Nauczyciele przypisani do przedmiotów  
 - Typy ocen (sprawdzian, kartkówka, odpowiedź ustna)
+- Wagi ocen (różne znaczenie różnych typów)
+- Semestry/okresy oceniania
+- Uwagi do ocen
+- Procentowa skala ocen (np. 87% = 5)
+- Nieobecności i usprawiedliwienia
+- **"Daj +1"** - system punktów bonusowych od nauczycieli
+- **E-dziennik 2.0** - powiadomienia SMS do rodziców przy ocenie < 3
+- **Algorytm przewidywania** - czy uczeń zda do następnej klasy
+- **Ranking klas** - która klasa ma najlepsze średnie
+- **Statystyki nauczycieli** - który wystawia najwięcej szóstek
+- **Konkurencja między uczniami** - tabela liderów miesiąca
+- **System nagród** - wirtualne odznaki za dobre oceny
 
-
+*"Prawdziwy programista wie, że nigdy nie skończy projektować bazy danych - zawsze znajdzie się coś do dodania!"* 😉
+---
 
 **Uwaga:** Nazwy plików (bazy i raportu) oraz nagłówek raportu powinny umożliwiać łatwą identyfikację autora i klasy.
