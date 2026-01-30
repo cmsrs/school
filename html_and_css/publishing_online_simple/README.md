@@ -14,7 +14,7 @@ Przykład dodania linku w menu (w pliku `index.html`):
 ```html
 <nav>
   <ul>
-    <li><a href="index.html">Strona gł��wna</a></li>
+    <li><a href="index.html">Strona główna</a></li>
     <li><a href="regulamin.html">Regulamin</a></li>
     <li><a href="kontakt.html">Kontakt</a></li>
   </ul>
