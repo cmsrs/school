@@ -24,7 +24,8 @@
 
 ----semestr II----
 
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
+- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
+
 
 
 ## lo - klasa 2
@@ -36,7 +37,11 @@
 - [zadanie 3b](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md) - termin oddania: **05.12.2025**
 
 ----semestr II----
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md)
+
+- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
+
+
+
 
 ## lo - klasa 1
 
