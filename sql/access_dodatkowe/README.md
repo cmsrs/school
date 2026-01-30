@@ -102,8 +102,9 @@ Raporty wynikowe dla każdego zestawienia znajdują się w katalogu
 [zestawienia/zestawienia_pdf_znak](zestawienia/zestawienia_pdf_znak).
 Twoim zadaniem jest wygenerowanie analogicznych raportów — taka postać stanowi oczekiwany wynik pracy.
 
+--
 
-**Dodatkowe zadanie na ocenę celującą (6)**
+### Dodatkowe zadanie na ocenę celującą (6)
 
 Rozszerz strukturę bazy danych o przedmioty szkolne:
 
