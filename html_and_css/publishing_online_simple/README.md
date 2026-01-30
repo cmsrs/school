@@ -1,4 +1,4 @@
-# Zadanie 2 — Dodaj podstronę do swojej strony (klasa 8)
+# Zadanie 2 z html-a — Dodaj podstronę do swojej strony
 
 Cel:
 Twoim zadaniem jest rozbudować stronę stworzoną w Zadaniu 1 o dodatkową podstronę. Może to być np.:
