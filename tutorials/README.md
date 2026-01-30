@@ -70,7 +70,7 @@ Materiały:
 
 - [Zadanie 1 - Tworzenie kwerendy i raportu na podstawie istniejącej bazy danych](https://youtu.be/u4Q8v6F0ZeA)
 
-- [Zadanie 2 - Tabele, relacje i funkcje agregujące](https://youtu.be/u4Q8v6F0ZeA)
+- [Zadanie 2 - Tabele, relacje i funkcje agregujące](https://youtu.be/0fpmMklZREM)
 
 ## Zadanie dodatkowe:
 
