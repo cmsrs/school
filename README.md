@@ -64,12 +64,12 @@
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **24.10.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python): **24.11.2025**
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania (Scratch/Python): **05.12.2025**
-- [zadanie 5](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania (html): **05.12.2025**
+- [zadanie 5a](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania (html): **05.12.2025**
 
 ----semestr II----
-- [zadanie 6](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online_simple/README.md) - termin oddania: **20.02.2026**
-- [zadanie 7a](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 1 do 7** - termin oddania: **20.03.2026**
-- [zadanie 7b](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 8 do 9** - termin oddania: **17.04.2026**
+- [zadanie 5b](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online_simple/README.md) - termin oddania: **20.02.2026**
+- [zadanie 6a](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 1 do 7** - termin oddania: **20.03.2026**
+- [zadanie 6b](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 8 do 9** - termin oddania: **17.04.2026**
 
 
 ## sp - klasa 7
