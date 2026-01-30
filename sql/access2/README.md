@@ -90,6 +90,11 @@ przykładowy raport pdf:
 
 **[liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access2/liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf)**
 
+
+### Tutorial wideo (YouTube)
+▶️ **[Tabele, relacje i funkcje agregujące](https://youtu.be/0fpmMklZREM)**
+
+
 ---
 
 ## ✅ Co sprawdzę w Twojej pracy?

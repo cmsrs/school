@@ -46,6 +46,10 @@ przykładowy raport pdf:
 **[zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access1/zestawienie_lubie_robert_szczepanski_4lb_nr30.pdf)**
 
 
+### Tutorial wideo (YouTube)
+▶️ **[Tworzenie kwerendy i raportu na podstawie istniejącej bazy danych](https://youtu.be/u4Q8v6F0ZeA)**
+
+
 # ZADANIA DODATKOWE (dla chętnych na 5+)
 
 ## Pytanie 1
