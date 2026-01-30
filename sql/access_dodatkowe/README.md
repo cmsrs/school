@@ -103,17 +103,7 @@ Raporty wynikowe dla każdego zestawienia znajdują się w katalogu
 Twoim zadaniem jest wygenerowanie analogicznych raportów — taka postać stanowi oczekiwany wynik pracy.
 
 
-## 💯 Kryteria oceny
-
-| Ocena | Opis |
-|:------|:------|
-| **2** | Import danych i utworzenie kwerendy wyświetlającej tylko uczniów i klasy |
-| **3** | Poprawnie utworzona kwerenda z punktu 3 |
-| **4** | Kwerenda (pkt 3) + raport (pkt 4) |
-| **5** | Kwerenda + raport + poprawnie wygenerowany PDF |
-| **6** | Wszystkie powyższe + dodatkowe zadanie rozszerzające|
-
-Zadanie na ocenę celującą (6)
+**Dodatkowe zadanie na ocenę celującą (6)**
 
 Rozszerz strukturę bazy danych o przedmioty szkolne:
 
