@@ -66,18 +66,26 @@ Materiały:
 - **MS Excel:** [YouTube](https://youtu.be/JUJ_Bk41c6U)
 - **LibreOffice Calc:** [YouTube](https://youtu.be/i0a3A4Se_90)
 
-# MS-ACCESS
+# MS Access 📊
 
-- [Zadanie 1 - Tworzenie kwerendy i raportu na podstawie istniejącej bazy danych](https://youtu.be/u4Q8v6F0ZeA)
+Materiały wideo do nauki **MS Access** – kwerendy, raporty oraz relacyjne bazy danych.
 
-- [Zadanie 2 - Tabele, relacje i funkcje agregujące](https://youtu.be/0fpmMklZREM)
+## 📌 Zadania podstawowe
 
-## Zadanie dodatkowe:
+1. **Zadanie 1**  
+   👉 [Tworzenie kwerendy i raportu na podstawie istniejącej bazy danych](https://youtu.be/u4Q8v6F0ZeA)
 
-- [Relacyjne bazy danych - wprowadzenie. Import tabel z plików CSV](https://youtu.be/pGisC-yelTk)
+2. **Zadanie 2**  
+   👉 [Tabele, relacje i funkcje agregujące](https://youtu.be/0fpmMklZREM)
 
-- [Relacje w MS-ACCESS](https://youtu.be/05UajSDaj_I)
+## ⭐ Zadania dodatkowe
 
-- [Kwerenda w MS-ACCESS](https://youtu.be/ZXcOS2kjfag)
+- 🔹 [Relacyjne bazy danych – wprowadzenie](https://youtu.be/pGisC-yelTk)  
+  _Import tabel z plików CSV_
 
-- [Raport oraz Eksport do PDF](https://youtu.be/YgXzp9-iRa8)
+- 🔹 [Relacje w MS Access](https://youtu.be/05UajSDaj_I)
+
+- 🔹 [Kwerendy w MS Access](https://youtu.be/ZXcOS2kjfag)
+
+- 🔹 [Raporty oraz eksport do PDF](https://youtu.be/YgXzp9-iRa8)
+
