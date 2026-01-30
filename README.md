@@ -25,7 +25,10 @@
 ----semestr II----
 
 - [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
-
+- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **20.02.2026**
+- [zadanie 4a](https://github.com/cmsrs/school/blob/main/sql/access1/README.md) - termin oddania: **20.03.2026**
+- [zadanie 4b](https://github.com/cmsrs/school/blob/main/sql/access2/README.md) - termin oddania: **17.04.2026**
+- [zadanie 4c - dodatkowe](https://github.com/cmsrs/school/blob/main/sql/access_dodatkowe/README.md) - termin oddania: **17.04.2026**
 
 
 ## lo - klasa 2
@@ -39,8 +42,10 @@
 ----semestr II----
 
 - [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
-
-
+- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **20.02.2026**
+- [zadanie 4a](https://github.com/cmsrs/school/blob/main/sql/access1/README.md) - termin oddania: **20.03.2026**
+- [zadanie 4b](https://github.com/cmsrs/school/blob/main/sql/access2/README.md) - termin oddania: **17.04.2026**
+- [zadanie 4c - dodatkowe](https://github.com/cmsrs/school/blob/main/sql/access_dodatkowe/README.md) - termin oddania: **17.04.2026**
 
 
 ## lo - klasa 1
@@ -49,6 +54,9 @@
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/gimp/README.md#zadanie-fotomonta%C5%BC-w-gimp)
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/inkscape/README.md#zadanie--tworzenie-logo-na-podstawie-inicja%C5%82%C3%B3w-klasy-i-p%C5%82ci)
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md)
+- [zadanie 5a](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md)
+- [zadanie 5b](https://github.com/cmsrs/school/blob/main/excel/sales/README.md)
+
 
 ## sp - klasa 8
 
@@ -58,12 +66,16 @@
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/python/sort/README.md) - termin oddania (Scratch/Python): **05.12.2025**
 - [zadanie 5](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania (html): **05.12.2025**
 
+----semestr II----
+
 ## sp - klasa 7
 
 - [zadanie 1](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Scratch): **03.10.2025**
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/scratch/7a/funkcja/README.md) - termin oddania (Scratch): **07.11.2025**
 - [zadanie 3](https://github.com/cmsrs/school/blob/main/scratch/7a/README.md#zadanie-h) - **zadanie h** - termin oddania (Python) **07.11.2025**
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/gimp/README.md#zadanie-fotomonta%C5%BC-w-gimp) - termin oddania **05.12.2025**
+
+----semestr II----
 
 
 ## sp - klasa 6
@@ -93,6 +105,7 @@
 - [zadanie 2](https://github.com/cmsrs/school/blob/main/basic/4b/README.md) - termin oddania: **14.11.2025** (2 oceny za rysunek w paint i całe zadanie)
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/4a)
 
+----semestr II----
 
 ## Mój email:
 
