@@ -27,15 +27,7 @@ Zapisz plik jako ```[klasa]_[imię]_[nazwisko].docx``` (np. **5a_jan_kowalski.do
 ### 5. Spakuj plik
 1. Spakuj plik Word (np. ```5a_jan_kowalski.docx```) do formatu **ZIP** (np. ```5a_jan_kowalski.zip```).
 
-### 6. Wyślij dokument
-1. Wyślij spakowany plik e-mailem na adres:  
-   **R.Szczepanski(małpa)eduwarszawa.pl**
-2. W tytule maila napisz:  
-   **Zadanie 2 ([klasa]) - Tytuł prezentacji**
-3. W treści maila napisz:  
-   **W załączeniu przesyłam zadanie nr 2.**  
-   **Pozdrawiam, [Imię i nazwisko]**
 
 ## Uwagi
-- Zadbaj o poprawne zapisanie pliku w formacie **.docx**.
-- Pamiętaj, żeby spakować plik w formacie ZIP przed wysłaniem.
+- Zadbaj o poprawne zapisanie pliku w formacie **.docx** i o poprawnym nazewnictwie pliku.
+- Pamiętaj, żeby spakować plik w formacie ZIP
