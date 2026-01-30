@@ -67,6 +67,9 @@
 - [zadanie 5](https://github.com/cmsrs/school/blob/main/html_and_css/README.md) - termin oddania (html): **05.12.2025**
 
 ----semestr II----
+- [zadanie 6a](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 1 do 7** - termin oddania: **20.02.2026**
+- [zadanie 6b](https://github.com/cmsrs/school/blob/main/excel/collective/8/README.md) - arkusze **od 8 do 9** - termin oddania: **20.03.2026**
+
 
 ## sp - klasa 7
 
@@ -76,6 +79,8 @@
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/gimp/README.md#zadanie-fotomonta%C5%BC-w-gimp) - termin oddania **05.12.2025**
 
 ----semestr II----
+- [zadanie 5a](https://github.com/cmsrs/school/blob/main/excel/collective/7/README.md) - arkusze **od 1 do 5** - termin oddania: **20.02.2026**
+- [zadanie 5b](https://github.com/cmsrs/school/blob/main/excel/collective/7/README.md) - arkusze **od 6 do 7** - termin oddania: **20.03.2026**
 
 
 ## sp - klasa 6
@@ -87,7 +92,9 @@
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/6b/README.md) - termin oddania **05.12.2025**
 
 ----semestr II----
-- [zadanie 1](https://github.com/cmsrs/school/blob/main/basic/6a/README.md)
+- [zadanie 5a](https://github.com/cmsrs/school/blob/main/excel/collective/6/README.md) - arkusz **1** - termin oddania: **20.02.2026**
+- [zadanie 5b](https://github.com/cmsrs/school/blob/main/excel/collective/6/README.md) - arkusze **od 2 do 5** - termin oddania: **20.03.2026**
+- [zadanie 6](https://github.com/cmsrs/school/blob/main/basic/6a/README.md) - termin oddania: **17.04.2026**
 
 ## sp - klasa 5
 
