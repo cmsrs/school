@@ -68,6 +68,12 @@ Materiały:
 
 # MS-ACCESS
 
+- [Zadanie 1 - Tworzenie kwerendy i raportu na podstawie istniejącej bazy danych](https://youtu.be/u4Q8v6F0ZeA)
+
+- [Zadanie 2 - Tabele, relacje i funkcje agregujące](https://youtu.be/u4Q8v6F0ZeA)
+
+## Zadanie dodatkowe:
+
 - [Relacyjne bazy danych - wprowadzenie. Import tabel z plików CSV](https://youtu.be/pGisC-yelTk)
 
 - [Relacje w MS-ACCESS](https://youtu.be/05UajSDaj_I)
