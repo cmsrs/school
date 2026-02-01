@@ -1,10 +1,28 @@
- # Zadanie 4
+# Zadanie 4
 
 ## Opis
-Stwórz w scratch-u dwa kostiumy, pokazane na poniższym rysunku:
-<img src="zad1_sem2_kostium1.png" >
-<img src="zad1_sem2_kostium2.png" >
-nastepnie utwórz następujący skrypt:
-<img src="script_part.png" >
-nastepnie dodaj do tego skryptu poruszanie sie "robota - duszka" w prawo i w lewo, gdy duszke porusza sie w prawo ustaw kosjum 1 a w lewo kostium 2.
+Stwórz w Scratchu dwa kostiumy, takie jak na rysunkach poniżej:
 
+![Kostium 1](zad1_sem2_kostium1.png)
+![Kostium 2](zad1_sem2_kostium2.png)
+
+Następnie utwórz skrypt pokazany na obrazku:
+
+![Skrypt](script_part.png)
+
+Kolejnym krokiem jest dodanie ruchu duszka (robota) w prawo i w lewo. Gdy duszek porusza się w prawo — ustaw Kostium 1, a gdy w lewo — ustaw Kostium 2.
+
+Przykładowy pseudokod (blokowy) do użycia w Scratchu:
+
+```text
+kiedy kliknięto zieloną flagę
+  zawsze
+    jeśli klawisz [strzałka w prawo] jest wciśnięty wtedy
+      zmień x o 10
+      przełącz kostium na "Kostium 1"
+    jeśli klawisz [strzałka w lewo] jest wciśnięty wtedy
+      zmień x o -10
+      przełącz kostium na "Kostium 2"
+```
+
+Możesz dostosować wartość przesunięcia (np. 5 zamiast 10) albo dodać warunek, żeby duszek nie wychodził poza scenę.
