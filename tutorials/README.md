@@ -1,3 +1,7 @@
+# Scratch
+
+-  [Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/RhZQUqATRW0)
+
 # Programowanie
 
 - [kwadraty scratch - użycie zmiennych]( https://youtu.be/8596jXeZp38)
