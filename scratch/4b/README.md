@@ -32,5 +32,5 @@ Możesz dostosować wartość przesunięcia (np. 5 zamiast 10).
 Jeśli potrzebujesz pomocy, obejrzyj tutorial wideo — pokazuje krok po kroku tworzenie kostiumów i skryptu.
 
 
-▶️ **[Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/u4Q8v6F0Ze_to_jszczs_bede_dodawal)**
+▶️ **[Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/RhZQUqATRW0)**
 
