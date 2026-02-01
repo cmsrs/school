@@ -106,7 +106,7 @@
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/5b#zadanie) - termin oddania (Scratch): **06.11.2025**
 
 ----semestr II----
-- [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/5a/README.md)
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/5a/README.md) - termin oddania: **20.02.2026**
 
 ## sp - klasa 4
 
@@ -116,6 +116,7 @@
 - [zadanie 3](https://github.com/cmsrs/school/tree/main/scratch/4a)
 
 ----semestr II----
+- [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/4b/README.md) - termin oddania: **20.02.2026**
 
 ## Mój email:
 
