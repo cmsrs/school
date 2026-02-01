@@ -14,11 +14,21 @@ Kolejnym krokiem jest dodanie ruchu duszka (robota) w prawo i w lewo. Gdy duszek
 
 Przykładowy pseudokod (blokowy) do użycia w Scratchu:
 
+```text
+kiedy kliknięto zieloną flagę
+  zawsze
+    jeśli klawisz [strzałka w prawo] jest wciśnięty wtedy
+      zmień x o 10
+      przełącz kostium na "Kostium 1"
+    jeśli klawisz [strzałka w lewo] jest wciśnięty wtedy
+      zmień x o -10
+      przełącz kostium na "Kostium 2"
+```
+
 Możesz dostosować wartość przesunięcia (np. 5 zamiast 10).
 
 
-Jeśli potrzebujesz pomocy, obejrzyj tutorial wideo — pokazuje krok po kroku tworzenie kostiumów i skryptu.
-
 ## Tutorial wideo (YouTube)
+Jeśli potrzebujesz pomocy, obejrzyj tutorial wideo — pokazuje krok po kroku tworzenie kostiumów i skryptu.
 ▶️ **[Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/u4Q8v6F0Ze_to_jszczs_bede_dodawal)**
 
