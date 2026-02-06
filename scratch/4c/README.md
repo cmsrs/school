@@ -10,6 +10,6 @@ kod który odpowida za dotkniecie zielonej sciany oraz zakonczenie gry pokazałe
 ![labirynt_kod](labirynt_kod.png)
 
 
-Pamiętej o poprawnym ustwieniu koloru tła (zielonego) oraz koloru żółtego.
+Pamiętej o poprawnym ustwieniu koloru tła (zielonego) oraz koloru żółtego, na poniżeszym rysunku zaznaczyłem narzędzie, które pozwala pobrać kolor tła..
 
 ![pipetka](pipetka.png)
