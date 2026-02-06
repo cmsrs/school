@@ -2,7 +2,7 @@
 
 ## Opis zadania
 
-Twoim zadaniem jest stworzenie gry, w której duszek (np. czerwony kwadrat) porusza się po labiryncie. Celem gracza jest dotknięcie żółtego przedmiotu, co spowoduje wypisanie komunikatu "Brawo!" przez 2 sekundy.
+Twoim zadaniem jest stworzenie gry, w której duszek (np. czerwony kwadrat) porusza się po labiryncie. Celem gracza jest dotknięcie żółtego przedmiotu, co spowoduje wypisanie komunikatu "Brawo!" przez 2 sekundy. Twoim celem jest stworzenie labiryntu w kształcie pokazanym na rysunku poniżej, gdzie kształt labiryntu to jest tło.
 
 W przypadku dotknięcia zielonej ściany gra resetuje się - duszek wraca do środkowej części labiryntu.
 
