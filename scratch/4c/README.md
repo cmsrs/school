@@ -33,3 +33,10 @@ Poniżej wskazane jest narzędzie (pipetka), które pozwala pobrać dokładny ko
 - Ustaw duszka w środkowej części labiryntu na początek
 - Wykryj kolizję z zieloną ścianą i zresetuj pozycję duszka
 - Dodaj timer do wyświetlania komunikatu "Brawo!" przez 2 sekundy
+- **Grę możesz ulepszyć, regulując wielkość duszka (kwadratu) oraz zwiększając lub zmniejszając liczbę kroków.**
+
+## Tutorial wideo (YouTube)
+Jeśli potrzebujesz pomocy, obejrzyj tutorial wideo — pokazuje krok po kroku tworzenie gry.
+
+
+▶️ **[Gra w labirynt w Scratch krok po kroku - kolizje, reset, wygrana](https://youtu.be/2SUKjwrRiIc)**
