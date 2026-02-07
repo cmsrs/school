@@ -1,6 +1,9 @@
 # Scratch
 
--  [Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/RhZQUqATRW0)
+- [Poruszanie duszkiem po scenie — zmiana kostiumów](https://youtu.be/RhZQUqATRW0)
+
+- [Gra w labirynt w Scratch krok po kroku - kolizje, reset, wygrana](https://youtu.be/2SUKjwrRiIc)
+
 
 # Programowanie
 
