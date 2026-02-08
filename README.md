@@ -107,6 +107,7 @@
 
 ----semestr II----
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/5a/README.md) - termin oddania: **20.02.2026**
+- [zadanie 5](https://github.com/cmsrs/school/blob/main/basic/5b/README.md) - termin oddania: **20.03.2026**
 
 ## sp - klasa 4
 
