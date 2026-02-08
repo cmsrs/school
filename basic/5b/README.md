@@ -1,13 +1,31 @@
-Zadanie5
+# Zadanie 5
 
-Instukacja:
+## Instrukcja
 
-1. stworz natepujacy katalog w 'Dokumentach' w katalogu "C:\Users\Uczeń\Documents" (nazwy moga być rożne w zalerżnopsci od ustawień systemu)
-[klasa]_[imie]_[nazwisko] - wwzystko napisane malymi lite4rami
+### 1️⃣ Utworzenie katalogu
 
-2. natepnie pobierz swoj zestaw obrazazkow na podtawie swoje numeru w dzienniku librus 
+W folderze Dokumenty utwórz katalog w lokalizacji:
 
-### 📥 Pobierz swój zestaw danych
+```
+C:\Users\Uczeń\Documents
+```
+
+**Nazwa katalogu:**
+
+```
+[klasa]_[imie]_[nazwisko]
+```
+
+👉 **wszystko zapisane małymi literami.**
+
+---
+
+### 2️⃣ Pobranie zestawu obrazów
+
+Pobierz zestaw plików zgodny z Twoim numerem w dzienniku Librus.
+
+📥 **Pobierz swój zestaw danych**
+
 
 - Zestaw 01 → [Pobierz zestaw01.zip](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy/zestaw01.zip)
 - Zestaw 02 → [Pobierz zestaw02.zip](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy/zestaw02.zip)
@@ -62,40 +80,68 @@ Instukacja:
 
 
 
+### 3️⃣ Przygotowanie folderu na obrazki
 
-3. utworz katalog:
-'obrazki' w katalogu: [klasa]_[imie]_[nazwisko]
-natepnie przegraj tam obrazki ktróre pobrales w p.2 - nie przegrywaj 'zip-a' tylko same pliki png (rozpakuj zawartoc pliku zip)
+W katalogu utworzonym w punkcie 1 stwórz folder:
 
-4.
-dodaj do tego  katalogu 'obrazki' takze obrazek, który bobierzez ze strony:
+```
+obrazki
+```
 
-- Nwd → [nwd](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/nwd.png)
+Następnie:
 
+- rozpakuj pobrany plik ZIP,
+- skopiuj do folderu `obrazki` tylko pliki PNG,
+- nie kopiuj pliku `.zip`.
 
+---
 
-3. w katalogu otworzony w podpunkcie 1 utworz dokument word lub libreofffice i nazwij go:
+### 4️⃣ Dodatkowy obraz
+
+Do folderu `obrazki` dodaj również plik pobrany ze strony:
+
+```
+NWD → nwd.png
+```
+
+---
+
+### 5️⃣ Utworzenie dokumentu
+
+W katalogu z punktu 1 utwórz dokument Word lub LibreOffice o nazwie:
+
+```
 [klasa]_[imie]_[nazwisko].docx
- utworz dokument w ms-word lub libreofffice 
-i stworz dokument  podobny do pokazanego ponizej
+```
 
-https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf
+Stwórz dokument podobny do przykładu:
+👉 [https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf)
 
+Do wykonania dokumentu użyj obrazków znajdujących się w folderze `obrazki`.
 
-w cel;u stworzenia dokumentu wykorzystaj obrazki ktróre znajduja sie w katalogu 'obrazki'
+---
 
-6. spakuj caly katalog utworzony w punkie 1.
-nazwij go: [klasa]_[imie]_[nazwisko].zip
+### 6️⃣ Spakowanie katalogu
 
+Spakuj cały katalog utworzony w punkcie 1 do pliku:
 
-Uwaga:
+```
+[klasa]_[imie]_[nazwisko].zip
+```
 
-- wszystkie nazwy katalogow i plikow nazywam malymi literami
-- kastalog [klasa]_[imie]_[nazwisko] powinnien zawierac tylko nastepujace pliki i foldery:
- | orabaki
-   naglowek.png
-   kwadrat.png
-   nwd.png
+---
+
+## ⚠️ Uwaga
+
+- wszystkie nazwy plików i folderów zapisujemy **małymi literami**,
+- katalog `[klasa]_[imie]_[nazwisko]` powinien zawierać tylko:
+
+```
+obrazki/
+  naglowek.png
+  kwadrat.png
+  nwd.png
 [klasa]_[imie]_[nazwisko].docx
+```
 
-- cala zawartosć pliku powinna zmieścić się na jednej stronie
+- zawartość dokumentu powinna zmieścić się na jednej stronie.
