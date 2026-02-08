@@ -1,4 +1,4 @@
-# Zadanie 5
+# Zadanie 6
 
 ## Instrukcja
 

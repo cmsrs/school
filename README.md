@@ -40,8 +40,8 @@
 - [zadanie 3b](https://github.com/cmsrs/school/blob/main/inkscape/infographic/README.md) - termin oddania: **05.12.2025**
 
 ----semestr II----
-- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
-- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **20.02.2026**
+- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **13.02.2026**
+- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **13.02.2026**
 - [zadanie 4a](https://github.com/cmsrs/school/blob/main/sql/access1/README.md) - termin oddania: **20.03.2026**
 - [zadanie 4b](https://github.com/cmsrs/school/blob/main/sql/access2/README.md) - termin oddania: **17.04.2026**
 - [zadanie 4c - dodatkowe](https://github.com/cmsrs/school/blob/main/sql/access_dodatkowe/README.md) - termin oddania: **17.04.2026**
@@ -83,6 +83,7 @@
 ----semestr II----
 - [zadanie 5a](https://github.com/cmsrs/school/blob/main/excel/collective/7/README.md) - arkusze **od 1 do 5** - termin oddania: **20.02.2026**
 - [zadanie 5b](https://github.com/cmsrs/school/blob/main/excel/collective/7/README.md) - arkusze **od 6 do 7** - termin oddania: **20.03.2026**
+- [zadanie 6](https://github.com/cmsrs/school/blob/main/basic/7a/README.md) - termin oddania: **17.04.2026**
 
 
 ## sp - klasa 6
