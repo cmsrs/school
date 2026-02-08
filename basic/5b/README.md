@@ -1,33 +1,40 @@
-# Zadanie – Prezentacja w Wordzie
+Zadanie5
 
-## Instrukcja wykonania zadania
+Instukacja:
 
-### 1. Wybierz temat
-Wybierz jeden z poniższych tematów:
-- Moja klasa
-- Moje hobby
-- Moje ulubione zwierzę
-- Wiosna
-- Moje miasto
+1. stworz natepujacy katalog w 'Dokumentach' w katalogu "C:\Users\Uczeń\Documents" (nazwy moga być rożne w zalerżnopsci od ustawień systemu)
+[klasa]_[imie]_[nazwisko] - wwzystko napisane malymi lite4rami
 
-### 2. Przygotuj dokument w Wordzie
-1. Otwórz Microsoft Word.
-2. Napisz **2 krótkie zdania** na wybrany temat.  
-   **Przykład:**  
-   *Mój kot to najlepszy przyjaciel. Lubi biegać i bawić się piłeczką.*
-3. Wstaw **1 obrazk** pasujący do tematu.
-
-### 3. Dodaj podpisy do obrazków
-Pod każdym obrazkiem napisz:
-- **Źródło: [adres strony]** lub **Obrazek własny**
-
-### 4. Zapisz dokument
-Zapisz plik jako ```[klasa]_[imię]_[nazwisko].docx``` (np. **5a_jan_kowalski.docx**).
-
-### 5. Spakuj plik
-1. Spakuj plik Word (np. ```5a_jan_kowalski.docx```) do formatu **ZIP** (np. ```5a_jan_kowalski.zip```).
+2. natepnie pobierz swoj zestaw obrazazkow na podtawie swoje numeru w dzienniku librus i rozpakuj zawartoc pliku zip
 
 
-## Uwagi
-- Zadbaj o poprawne zapisanie pliku w formacie **.docx** i o poprawnym nazewnictwie pliku.
-- Pamiętaj, żeby spakować plik w formacie ZIP
+3. utworz katalog:
+'obrazki' w katalogu: [klasa]_[imie]_[nazwisko]
+natepnie przegraj tam obrazki ktróre pobrales w p.2 - nie przegrywaj 'zip-a' tylko same pliki png
+
+4.
+dodaj do tego  katalogu 'obrazki' takze obrazek, który bobierzez ze strony:
+
+
+3. w katalogu otworzony w podpunkcie 1 utworz dokument word i nazwij go:
+[klasa]_[imie]_[nazwisko].docx
+
+
+5. utworz dokument w ms-word lub libreofffice 
+- podobny do pokazanego ponizej
+wykorzystaj obrazki ktróre znajduja sie w katalogu 'obrazki'
+
+6. spakuj caly katalog utworzony w punkie 1.
+nazwij go: [klasa]_[imie]_[nazwisko].zip
+
+
+Uwaga:
+
+- wszystkie nazwy katalogow i plikow nazywam malymi literami
+- kastalog [klasa]_[imie]_[nazwisko] powinnien zawierac:
+ | orabaki
+   naglowek.png
+   kwadrat.png
+   nwd.png
+[klasa]_[imie]_[nazwisko].docx
+
