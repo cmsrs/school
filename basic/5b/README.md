@@ -101,7 +101,8 @@ Następnie:
 Do folderu `obrazki` dodaj również plik pobrany ze strony:
 
 ```
-NWD → nwd.png
+👉 [https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/nwd.png)
+
 ```
 
 ---
@@ -115,7 +116,9 @@ W katalogu z punktu 1 utwórz dokument Word lub LibreOffice o nazwie:
 ```
 
 Stwórz dokument podobny do przykładu:
+
 👉 [https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/5h_robert_szczepanski.pdf)
+
 
 Do wykonania dokumentu użyj obrazków znajdujących się w folderze `obrazki`.
 
