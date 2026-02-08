@@ -24,8 +24,8 @@
 
 ----semestr II----
 
-- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **20.02.2026**
-- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **20.02.2026**
+- [zadanie 3c](https://github.com/cmsrs/school/blob/main/html_and_css/publishing_online/README.md) - termin oddania: **13.02.2026**
+- [zadanie 3d - dodatkowe](https://github.com/cmsrs/school/blob/main/html_and_css/game/README.md) - termin oddania: **13.02.2026**
 - [zadanie 4a](https://github.com/cmsrs/school/blob/main/sql/access1/README.md) - termin oddania: **20.03.2026**
 - [zadanie 4b](https://github.com/cmsrs/school/blob/main/sql/access2/README.md) - termin oddania: **17.04.2026**
 - [zadanie 4c - dodatkowe](https://github.com/cmsrs/school/blob/main/sql/access_dodatkowe/README.md) - termin oddania: **17.04.2026**
