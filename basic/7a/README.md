@@ -119,6 +119,8 @@ Stwórz dokument podobny do przykładu:
 
 
 Do wykonania dokumentu użyj obrazków znajdujących się w folderze `obrazki`.
+
+
 Do napisana równia:
 
 $$\frac{42}{112} = \frac{\frac{42}{14}}{\frac{112}{14}} = \frac{3}{8}$$
