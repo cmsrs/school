@@ -67,6 +67,64 @@ Na obu stronach dodajemy następujace style:
 
 - Stwórz krótki film związany z Twoją działalnością lub pasją i opublikuj go w internecie, np. na YouTube. Opcjonalnie możesz umieścić link do filmu na swojej stronie. Pamiętaj, że publikowanie treści w sieci to nie tylko forma promocji, ale także sztuka przyciągania uwagi. Aby Twój film był bardziej angażujący: zadbaj o jakość nagrania, stwórz atrakcyjną miniaturę, dodaj ciekawy opis i tytuł.
 
+
+### 📥 Pobierz swój naglówek
+
+- Zestaw 1 → [Pobierz naglowek1.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek1.png)
+- Zestaw 2 → [Pobierz naglowek2.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek2.png)
+- Zestaw 3 → [Pobierz naglowek3.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek3.png)
+- Zestaw 4 → [Pobierz naglowek4.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek4.png)
+- Zestaw 5 → [Pobierz naglowek5.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek5.png)
+- Zestaw 6 → [Pobierz naglowek6.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek6.png)
+- Zestaw 7 → [Pobierz naglowek7.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek7.png)
+- Zestaw 8 → [Pobierz naglowek8.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek8.png)
+- Zestaw 9 → [Pobierz naglowek9.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek9.png)
+- Zestaw 10 → [Pobierz naglowek10.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek10.png)
+- Zestaw 11 → [Pobierz naglowek11.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek11.png)
+- Zestaw 12 → [Pobierz naglowek12.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek12.png)
+- Zestaw 13 → [Pobierz naglowek13.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek13.png)
+- Zestaw 14 → [Pobierz naglowek14.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek14.png)
+- Zestaw 15 → [Pobierz naglowek15.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek15.png)
+- Zestaw 16 → [Pobierz naglowek16.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek16.png)
+- Zestaw 17 → [Pobierz naglowek17.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek17.png)
+- Zestaw 18 → [Pobierz naglowek18.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek18.png)
+- Zestaw 19 → [Pobierz naglowek19.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek19.png)
+- Zestaw 20 → [Pobierz naglowek20.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek20.png)
+- Zestaw 21 → [Pobierz naglowek21.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek21.png)
+- Zestaw 22 → [Pobierz naglowek22.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek22.png)
+- Zestaw 23 → [Pobierz naglowek23.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek23.png)
+- Zestaw 24 → [Pobierz naglowek24.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek24.png)
+- Zestaw 25 → [Pobierz naglowek25.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek25.png)
+- Zestaw 26 → [Pobierz naglowek26.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek26.png)
+- Zestaw 27 → [Pobierz naglowek27.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek27.png)
+- Zestaw 28 → [Pobierz naglowek28.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek28.png)
+- Zestaw 29 → [Pobierz naglowek29.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek29.png)
+- Zestaw 30 → [Pobierz naglowek30.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek30.png)
+- Zestaw 31 → [Pobierz naglowek31.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek31.png)
+- Zestaw 32 → [Pobierz naglowek32.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek32.png)
+- Zestaw 33 → [Pobierz naglowek33.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek33.png)
+- Zestaw 34 → [Pobierz naglowek34.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek34.png)
+- Zestaw 35 → [Pobierz naglowek35.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek35.png)
+- Zestaw 36 → [Pobierz naglowek36.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek36.png)
+- Zestaw 37 → [Pobierz naglowek37.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek37.png)
+- Zestaw 38 → [Pobierz naglowek38.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek38.png)
+- Zestaw 39 → [Pobierz naglowek39.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek39.png)
+- Zestaw 40 → [Pobierz naglowek40.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek40.png)
+- Zestaw 41 → [Pobierz naglowek41.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek41.png)
+- Zestaw 42 → [Pobierz naglowek42.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek42.png)
+- Zestaw 43 → [Pobierz naglowek43.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek43.png)
+- Zestaw 44 → [Pobierz naglowek44.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek44.png)
+- Zestaw 45 → [Pobierz naglowek45.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek45.png)
+- Zestaw 46 → [Pobierz naglowek46.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek46.png)
+- Zestaw 47 → [Pobierz naglowek47.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek47.png)
+- Zestaw 48 → [Pobierz naglowek48.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek48.png)
+- Zestaw 49 → [Pobierz naglowek49.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek49.png)
+- Zestaw 50 → [Pobierz naglowek50.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek50.png)
+
+
+
+
+
 ### dodatkowe zadania
 
 - Zabezpiecz adres e-mail przed spamem za pomocą JavaScript. Dzięki temu boty skanujące stronę nie odczytają bezpośrednio adresu e-mail z kodu HTML. Możesz zastosować prostą technikę ukrycia adresu e-mail w kodzie, np.:
