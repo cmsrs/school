@@ -71,7 +71,7 @@ Na obu stronach dodajemy następujace style:
 
 Dodaj w stopce (footer) strony swoje imię i nazwisko jako autora pracy.
 
-Wybierz jeden z dostępnych nagłówków oraz zintegruj go ze swoją stroną. Numer nagłówka przydzielony zostanie na podstawie Twojego numeru w dzienniku Librus. Pamiętaj, że nagłówek powinien harmonijnie łączyć się z całą koncepcją wizualną i treścią Twojej strony – nie wystarczy go tylko wkleić, ale trzeba go właściwie dostosować do potrzeb projektu.
+Następnie wybierz jeden z dostępnych nagłówków oraz zintegruj go ze swoją stroną. Numer nagłówka przydzielony zostanie na podstawie Twojego numeru w dzienniku Librus. Pamiętaj, że nagłówek powinien harmonijnie łączyć się z całą koncepcją wizualną i treścią Twojej strony – nie wystarczy go tylko wkleić, ale trzeba go właściwie dostosować do potrzeb projektu.
 
 ### 📥 Pobierz swój nagłówek
 
