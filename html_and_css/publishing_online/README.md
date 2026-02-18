@@ -67,8 +67,13 @@ Na obu stronach dodajemy następujace style:
 
 - Stwórz krótki film związany z Twoją działalnością lub pasją i opublikuj go w internecie, np. na YouTube. Opcjonalnie możesz umieścić link do filmu na swojej stronie. Pamiętaj, że publikowanie treści w sieci to nie tylko forma promocji, ale także sztuka przyciągania uwagi. Aby Twój film był bardziej angażujący: zadbaj o jakość nagrania, stwórz atrakcyjną miniaturę, dodaj ciekawy opis i tytuł.
 
+## Zadanie do wykonania
 
-### 📥 Pobierz swój naglówek
+Dodaj w stopce (footer) strony swoje imię i nazwisko jako autora pracy.
+
+Wybierz jeden z dostępnych nagłówków oraz zintegruj go ze swoją stroną. Numer nagłówka przydzielony zostanie na podstawie Twojego numeru w dzienniku Librus. Pamiętaj, że nagłówek powinien harmonijnie łączyć się z całą koncepcją wizualną i treścią Twojej strony – nie wystarczy go tylko wkleić, ale trzeba go właściwie dostosować do potrzeb projektu.
+
+### 📥 Pobierz swój nagłówek
 
 - Zestaw 1 → [Pobierz naglowek1.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek1.png)
 - Zestaw 2 → [Pobierz naglowek2.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek2.png)
