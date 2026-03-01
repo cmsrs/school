@@ -115,7 +115,7 @@ W katalogu z punktu 1 utwórz dokument Word lub LibreOffice o nazwie:
 
 Stwórz dokument podobny do przykładu:
 
-👉 [5h_robert_szczepanski.pdf](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/7h_robert_szczepanski.pdf)
+👉 [7h_robert_szczepanski.pdf](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/7h_robert_szczepanski.pdf)
 
 
 Do wykonania dokumentu użyj obrazków znajdujących się w folderze `obrazki`.
