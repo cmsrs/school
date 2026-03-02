@@ -8,9 +8,10 @@ Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawneg
 1. Pobierz plik graficzny (zestaw) przypisany do Twojego **numeru z dziennika Librus**.
 2. Otwórz program MS Word i stwórz nowy dokument.
 3. Wklej pobrany obraz do dokumentu.
-4. Zapisz plik jako: `[klasa]_[imie]_[nazwisko].docx`  
-   *(Przykład: 2LO_Jan_Kowalski.docx)*
-
+4. **Zapisz plik**, stosując wyłącznie **małe litery**, bez polskich znaków i bez spacji.
+   * Zamiast spacji użyj tzw. **podłogi** (podkreślnika) `_`.
+   * Schemat nazwy: `klasa_imie_nazwisko.docx`
+   * Przykład: `2lo_jan_kowalski.docx`
 ---
 
 ### Krok 2: Obliczenia systemów liczbowych
@@ -64,12 +65,14 @@ except ValueError:
 ### Krok 4: Pakowanie i wysyłka (Deployment)
 Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjonalnie:
 
-1. **Stwórz folder** o nazwie: `[klasa]_[imie]_[nazwisko]`
+1. **Stwórz folder** (również używając tylko małych liter i "podłogi"): `klasa_imie_nazwisko`
+   * Przykład: `2lo_jan_kowalski`
 2. **Do środka włóż:**
    * Gotowy plik Word (`.docx`)
    * Pobraną grafikę z Twojego zestawu
 3. **Zarchiwizuj dane:** Kliknij Prawym Przyciskiem Myszy na folder -> **Wyślij do** -> **Folder skompresowany (zip)**.
-4. **Finalizacja:** Gotowy plik `.zip` pokaż/prześlij do oceny.
+4. **Finalizacja i Oddanie:** Gotowy plik `.zip` pokaż do oceny.
+
 
 > ### ⚠️ WAŻNA ZASADA (PRO TIP):
 > Jeśli po spakowaniu folderu do ZIP przypomnisz sobie, że musisz coś poprawić w Wordzie:
