@@ -102,6 +102,6 @@ print("-" * 40)
 for nr in range(1, 41):
     liczba = nr + 100
     print(f"{nr:<3} | {liczba:<6} | {bin(liczba)[2:]:<10} | {hex(liczba)[2:].upper():<5} | {oct(liczba)[2:]:<5}")
-
+```
 
 > **Uwaga:** Jeśli struktura plików lub nazewnictwo będą błędne, punkty zostaną odjęte – w IT "deployment" musi być precyzyjny!
