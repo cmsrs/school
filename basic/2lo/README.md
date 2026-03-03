@@ -59,7 +59,6 @@ Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawneg
 - Zestaw 48 → [Pobierz naglowek48.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek48.png)
 - Zestaw 49 → [Pobierz naglowek49.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek49.png)
 - Zestaw 50 → [Pobierz naglowek50.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek50.png)
-rob@laptoprob:~/school$ 
 
 
 2. Otwórz program MS Word i stwórz nowy dokument.
