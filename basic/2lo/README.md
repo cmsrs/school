@@ -5,9 +5,9 @@ Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawneg
 ---
 
 ### Krok 1: Przygotowanie dokumentacji (MS Word)
-1. Pobierz plik graficzny (zestaw) przypisany do Twojego **numeru z dziennika Librus**.
+1. Pobierz plik graficzny przypisany do Twojego numeru z dziennika Librus.
 
-### 📥 Pobierz zestaw plików zgodny z Twoim numerem w dzienniku Librus - dla czałej klasy a nie grupy.
+### 📥 Wybierz plik zgodny z Twoim numerem w dzienniku – obowiązuje numeracja dla całej klasy, nie dla grup.
 
 - Zestaw 1 → [Pobierz naglowek1.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek1.png)
 - Zestaw 2 → [Pobierz naglowek2.png](https://raw.githubusercontent.com/cmsrs/school/main/basic/data/obrazy_rozpakowane/naglowek2.png)
