@@ -39,8 +39,6 @@ Jeśli masz już wynik binarny, możesz zamienić go na Hex i Oct w kilka sekund
 * **System Szesnastkowy (Hex):** Podziel ciąg na grupy po **4 cyfry** (licząc od prawej!). Każdej grupie przypisz wartość (8, 4, 2, 1).
     * Przykład: `1000 0100` -> `8 4` -> **84₁₆**
 
-> **Zadanie dla ambitnych:** Spróbuj użyć tej metody w swoim pliku Word i sprawdź skryptem w Pythonie, czy wynik jest taki sam!
-
 *Wskazówka: Aby w Wordzie napisać potęgę (indeks górny), użyj skrótu `Ctrl` + `Shift` + `+`.*
 
 ---
@@ -104,4 +102,4 @@ for nr in range(1, 41):
     print(f"{nr:<3} | {liczba:<6} | {bin(liczba)[2:]:<10} | {hex(liczba)[2:].upper():<5} | {oct(liczba)[2:]:<5}")
 ```
 
-> **Uwaga:** Jeśli struktura plików lub nazewnictwo będą błędne, punkty zostaną odjęte – w IT "deployment" musi być precyzyjny!
+> **Uwaga:** Jeśli struktura plików lub nazewnictwo będą błędne, punkty zostaną odjęte.
