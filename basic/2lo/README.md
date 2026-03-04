@@ -111,7 +111,7 @@ Twój dokument powinien zawierać:
     * Powtarzaj proces z wynikiem dzielenia, aż dojdziesz do 0
     * Czytaj reszty **od dołu do góry** – to Twój wynik binarny
 
-**Twój dokument powinien przypominać poniższy przykład dla Twojej liczby:**
+**Twój dokument powinien ściśle odpowiadać poniższemu szablonom dla Twojej liczby:**
 
 [Pobierz szablon](https://raw.githubusercontent.com/cmsrs/school/main/basic/2lo/2lo_robert_szczepanski.pdf)
 
@@ -176,4 +176,5 @@ for nr in range(1, 41):
     print(f"{nr:<3} | {liczba:<6} | {bin(liczba)[2:]:<10} | {hex(liczba)[2:].upper():<5} | {oct(liczba)[2:]:<5}")
 ```
 
-> **Uwaga:** Jeśli struktura plików lub nazewnictwo będą błędne, punkty zostaną odjęte.
+> **Uwaga:** Struktura plików oraz nazewnictwo są kluczowe dla oceny. Dokument musi ściśle odpowiadać plikowi przykładowemu. Błędy w organizacji folderu lub nazewnictwie plików będą skutkować stratą punktów.
+
