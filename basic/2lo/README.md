@@ -96,6 +96,25 @@ Jeśli masz już wynik binarny, możesz zamienić go na Hex i Oct w kilka sekund
 
 *Wskazówka: Aby w Wordzie napisać potęgę (indeks górny), użyj skrótu `Ctrl` + `Shift` + `+`.*
 
+### Krok 2 (cd.): Szablon dokumentu Word
+Twój dokument powinien zawierać:
+
+1. **Nagłówek** – pobrany obraz z Twojego zestawu
+2. **Sekcja obliczeń:**
+    - Liczba bazowa: `Twój numer + 100`
+    - Rozkład binarny (potęgi liczby 2)
+    - Wynik w systemie binarnym
+    - Wynik w systemie ósemkowym (Oct)
+    - Wynik w systemie szesnastkowym (Hex)
+3. **Tabela zamiany liczby dziesiętnej na system binarny za pomocą dzielenia przez 2**
+    * Podziel swoją liczbę przez 2 i zapisz resztę (0 lub 1)
+    * Powtarzaj proces z wynikiem dzielenia, aż dojdziesz do 0
+    * Czytaj reszty **od dołu do góry** – to Twój wynik binarny
+
+**Twój dokument powinien przypominać poniższy przykład dla Twojej liczby:**
+
+[Pobierz szablon](https://raw.githubusercontent.com/cmsrs/school/main/basic/2lo/2lo_robert_szczepanski.pdf)
+
 ---
 
 ### Krok 3: Automatyczna weryfikacja (Python)
