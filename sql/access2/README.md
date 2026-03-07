@@ -56,7 +56,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 | 1 | chemia | 4 |
 | 5 | matematyka | 2 |
 
-** WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowe`!
+** WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowie`!
 
 **❗ WAŻNE **: Znajdź swoje id w tabeli uczniów i sobie przypisz największą liczbę ocen (np. 4-5 różnych ocen).
 
@@ -84,7 +84,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 1. Stwórz raport na podstawie zapytania z **kroku 5**
 2. W oknie nawigacji kliknij 2x na zapytanie `liczba_ocen_ucznia`
 2. Przejdź do: **Tworzenie** → **Raport**
-3. W nagłówku raportu wpisz swoje **imię i nazwisko klasa nr_dzienika**
+3. W nagłówku raportu wpisz swoje **imię i nazwisko klasa nr_dziennika**
 4. Ustaw odpowiednią szerokość kolumn
 5. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
 6. Zapisz raport jako `liczba_ocen_ucznia`
