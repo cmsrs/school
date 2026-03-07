@@ -56,9 +56,9 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 | 1 | chemia | 4 |
 | 5 | matematyka | 2 |
 
-** WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowie`!
+**WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowie`!
 
-**❗ WAŻNE **: Znajdź swoje id w tabeli uczniów i sobie przypisz największą liczbę ocen (np. 4-5 różnych ocen).
+**❗ WAŻNE:** Znajdź swoje id w tabeli uczniów i sobie przypisz największą liczbę ocen (np. 4-5 różnych ocen).
 
 ## KROK 5: Stwórz zapytanie zliczające oceny
 1. Kliknij: **Tworzenie** → **Projekt kwerendy**
@@ -89,7 +89,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 5. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
 6. Zapisz raport jako `liczba_ocen_ucznia`
 
-**❗ WAŻNE **: Sprawdź wynik: W kolumnie PoliczOfocena powinieneś zobaczyć przy swoim nazwisku najwyższą wartość (tę, którą wpisałeś w kroku 4). Jeśli widzisz tam "4" lub "5", a u innych "1" lub "2" – gratulacje, Twoja relacja i funkcja agregująca działają perfekcyjnie!
+**❗ WAŻNE:** Sprawdź wynik: W kolumnie PoliczOfocena powinieneś zobaczyć przy swoim nazwisku najwyższą wartość (tę, którą wpisałeś w kroku 4). Jeśli widzisz tam "4" lub "5", a u innych "1" lub "2" – gratulacje, Twoja relacja i funkcja agregująca działają perfekcyjnie!
 
 przykładowy raport pdf:
 
