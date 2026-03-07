@@ -9,9 +9,10 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 1. Znajdź na dysku plik: **moja_klasa_[nazwisko].accdb**
 2. Otwórz go w MS Access
 3. Upewnij się, że masz:
-   - Tabelę **klasy** z wpisanymi klasami
+   - Tabelę **klasy** z wpisanymi klasami (upewnij się, że Twoja klasa jest na liście).
    - Tabelę **uczniowie** z 7 osobami
-   - Zapytanie **ulubiony_przedmiot**
+   - **❗ WAŻNE:** Sprawdź, czy Ty również jesteś wpisany/a jako uczeń i przypisany/a do właściwej klasy.
+   - Zapytanie **ulubiony_przedmiot** (z poprzedniego zadania)
 
 ## KROK 2: Dodaj nową tabelę "oceny"
 1. Kliknij: **Tworzenie** → **Tabela**
@@ -55,7 +56,9 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 | 1 | chemia | 4 |
 | 5 | matematyka | 2 |
 
-**❗ WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowe`!
+** WAŻNE:** Używaj tylko `uczen_id`, które istnieją w tabeli `uczniowe`!
+
+**❗ WAŻNE **: Znajdź swoje id w tabeli uczniów i sobie przypisz największą liczbę ocen (np. 4-5 różnych ocen).
 
 ## KROK 5: Stwórz zapytanie zliczające oceny
 1. Kliknij: **Tworzenie** → **Projekt kwerendy**
@@ -86,6 +89,8 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
 5. Zapisz jako plik pdf: W podgląd wydruku → PDF lub XPS
 6. Zapisz raport jako `liczba_ocen_ucznia`
 
+**❗ WAŻNE **: Sprawdź wynik: W kolumnie PoliczOfocena powinieneś zobaczyć przy swoim nazwisku najwyższą wartość (tę, którą wpisałeś w kroku 4). Jeśli widzisz tam "4" lub "5", a u innych "1" lub "2" – gratulacje, Twoja relacja i funkcja agregująca działają perfekcyjnie!
+
 przykładowy raport pdf:
 
 **[liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf](https://raw.githubusercontent.com/cmsrs/school/main/sql/access2/liczba_ocen_ucznia_robert_szczepanski_4lb_nr30.pdf)**
@@ -99,21 +104,16 @@ przykładowy raport pdf:
 
 ## ✅ Co sprawdzę w Twojej pracy?
 
-| Element | Punkty | 
-|---------|--------|
-| **Tabela `oceny`** z 4 kolumnami | 2 pkt |
-| **Relacja** z integralnością danych | 2 pkt |
-| **8-12 ocen** w tabeli `oceny` | 2 pkt |
-| **Zapytanie** poprawnie zliczające oceny | 3 pkt |
-| **Raport PDF** z wynikami | 1 pkt |
-| **RAZEM** | **10 pkt** |
+| Element | Punkty | Uwagi |
+|:---|:---:|:---|
+| **Tabela `oceny`** | 2 pkt | Poprawne pola i typy danych. |
+| **Relacja** | 2 pkt | Poprawne połączenie z wymuszoną integralnością. |
+| **Dane unikalne (#)** | 2 pkt | **Największa liczba ocen przypisana do Autora raportu.** |
+| **Zapytanie Σ** | 2 pkt | Poprawne użycie funkcji `Policz`. |
+| **Raport PDF** | 2 pkt | Poprawne dane w nagłówku i nazwa pliku. |
+| **RAZEM** | **10 pkt** | |
 
-**Skala ocen:**
-- **9-10 pkt** = 5
-- **7-8 pkt** = 4  
-- **5-6 pkt** = 3
-- **0-4 pkt** = 2
-
+**Skala ocen:** 10-9 (5), 8-7 (4), 6-5 (3), 0-4 (2).
 
 ---
 
