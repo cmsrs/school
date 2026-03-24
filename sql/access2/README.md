@@ -68,6 +68,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
    - Kliknij **Zamknij**
 3. Access automatycznie połączy tabele (zobaczysz linię łączącą)
 4. Kliknij 2x na pola z tabeli `uczniowie`:
+   - `id`
    - `imie`
    - `nazwisko`
 5. Kliknij 2x na pole `ocena` z tabeli `oceny`
@@ -75,7 +76,7 @@ Rozszerzenie bazy danych z Zadania 1 o system oceniania. Nauczysz się tworzyć 
    - Kliknij zakładkę **Projekt kwerendy** na wstążce
    - Kliknij przycisk **Sumy** (ikonka Σ)
 7. W dolnej części projektanta:
-   - Przy `imie` i `nazwisko` zostaw **Grupowanie według**
+   - Przy `id`, `imie` i `nazwisko` zostaw **Grupowanie według**
    - Przy `ocena` zmień na **Policz**
 8. Kliknij **Uruchom** (czerwony wykrzyknik ✓)
 9. Zapisz zapytanie jako: `liczba_ocen_ucznia`
