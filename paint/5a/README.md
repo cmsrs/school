@@ -1,4 +1,11 @@
 
+
+
+
+
+
+
+
 ms-paint krzesło:
 https://www.youtube.com/shorts/jjOrM_NQU9s
 
