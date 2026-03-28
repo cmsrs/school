@@ -1,51 +1,59 @@
+# Zadanie z Painta
 
-Zadanie z painta
+Twoim zadaniem będzie stworzenie obrazków w programie MS Paint, których szczegóły znajdziesz w pliku `5h_robert_szczepanski.pdf`.
 
-Twoim zdaniem bedzie stworzenie obrazkow w programie ms-painr ktore znajdziesz w pliku 5h_robert_szczepanski.pdf
+## Szczegóły dotyczące obrazków
 
-Szczegóły dotyczace obazkow znajdziesz ponizej:
+### Zadanie 1 — Liczby z transformacjami
 
-1. 
-uzywajac ms-paita napisz swoja liczbe jaka masz w dzienniku librus (dla calej klasy - bez podzialu na grupy)
-nastepnie obroc ja o 180 stopni. nastepnie calosc tj te 2 liczby skopjuj o 90 w prawo i umiesc obok. w ostatnim kroku zalosc czyli 4 liczby skopjuj i tez umiesc obok.
+Używając MS Paint:
+1. Napisz swoją liczbę z dziennika Librus (dla całej klasy — bez podziału na grupy)
+2. Obróć ją o 180 stopni
+3. Skopiuj obie liczby razem i umieść kopię obok
+4. Skopiuj otrzymane 4 liczby i umieść jeszcze obok (ostateczny rezultat: 8 liczb)
 
+### Zadanie 2 — Chmurka z tekstem
 
-2.
-Narysuj chmurke uzywajac 4 razy narzedzia: krzywa, srodek chmurki wypełnij kolorem czarnym w środku chmurki napisz swoje imie i nazwisko i klase
+1. Narysuj chmurkę, używając 4 razy narzędzia **Krzywa**
+2. Wypełnij środek chmurki kolorem czarnym
+3. W środku chmurki napisz swoje imię, nazwisko i klasę
 
-3
-Stworz kompozycje z wybranego przez ciebie zdjecia, wykorzystujac metody przeksztalcania obrazu
-w moim przykladzie skopjowałem wiele razy mniszek pospolity w niektorych miejsach zastosowalem odpicie lustrzane i powstala kompozycja
+### Zadanie 3 — Kompozycja z przekształceń
 
+1. Wybierz dowolne zdjęcie
+2. Stwórz kompozycję, wykorzystując metody przekształcania obrazu
+3. Przykład: skopiuj wielokrotnie wybrany element (np. mniszek pospolity), a w wybranych miejscach zastosuj odbicie lustrzane
 
-4.
-Strzorz 3 kwadraty wypelnione roznymi kolorami, jeden kwadrat umiesc pod drugim 
+### Zadanie 4 — Trzy kwadraty
 
+1. Stwórz 3 kwadraty wypełnione różnymi kolorami
+2. Umieść je jeden pod drugim przylegajace do siebie
 
-5. 
-Strzorz swoje incjaly  wykorzystaj kompozycje z zadania 4
+### Zadanie 5 — Inicjały
 
-6.
-Stworz krzeslo w 3d
-wzroruj sie na nastepujacym filnie dostepnym na youtube:
-https://www.youtube.com/shorts/jjOrM_NQU9s
+1. Stwórz swoje inicjały (pierwsze litery imienia i nazwiska)
+2. Wykorzystaj do tego celu kompozycję z Zadania 4 (kolory i kwadraty)
 
+### Zadanie 6 — Krzesło 3D
 
-7.
-Stworz rower
-wzroruj sie na nastepujacym filnie dostepnym na youtube:
-https://www.youtube.com/shorts/Z5fBdJ7KYGI
+1. Narysuj krzesło w 3D
+2. Wzoruj się na poniższym filmie dostępnym na YouTube:
+   https://www.youtube.com/shorts/jjOrM_NQU9s
 
+### Zadanie 7 — Rower
 
-nastepnie utworz katalog w dumentach w natepujacej konwencji:
-[klasa]_paint_[imie]_[nazwisko]
+1. Narysuj rower
+2. Wzoruj się na poniższym filmie dostępnym na YouTube:
+   https://www.youtube.com/shorts/Z5fBdJ7KYGI
 
-w katalogu strzow:
-katalog obrazki i zapisz tam wszystkie obrazki z kazdego zadania
+## Zapisanie plików
 
-Dodatkowo stworz dokument w ms-word i skopjuj wszystkie obrazki do tego dokumentu
-dokument zapisz w katalogu [klasa]_paint_[imie]_[nazwisko] i nazwj go w konwencji:
-[klasa]_paint_[imie]_[nazwisko].docx
+1. Utwórz katalog w dokumentach o nazwie: `[klasa]_paint_[imie]_[nazwisko]`
+   - Przykład: `5a_paint_Jan_Kowalski`
 
+2. W tym katalogu stwórz podfolder: `obrazki`
+   - Zapisz tam wszystkie obrazki z każdego zadania
 
-
+3. W głównym katalogu `[klasa]_paint_[imie]_[nazwisko]` utwórz dokument MS Word o nazwie: `[klasa]_paint_[imie]_[nazwisko].docx`
+   - Przykład: `5a_paint_Jan_Kowalski.docx`
+   - Wklej do niego wszystkie obrazki (po jednym dla każdego zadania)
