@@ -1,6 +1,6 @@
 # Zadanie z Painta
 
-Twoim zadaniem będzie stworzenie obrazków w programie MS Paint, których szczegóły znajdziesz w pliku `5h_robert_szczepanski.pdf`.
+Twoim zadaniem będzie stworzenie obrazków w programie MS Paint, których szczegóły znajdziesz w [pliku](5h_robert_szczepanski.pdf).
 
 ## Szczegóły dotyczące obrazków
 
