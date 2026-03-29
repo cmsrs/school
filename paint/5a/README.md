@@ -49,11 +49,11 @@ Używając MS Paint:
 ## Zapisanie plików
 
 1. Utwórz katalog w dokumentach o nazwie: `[klasa]_paint_[imie]_[nazwisko]`
-   - Przykład: `5a_paint_Jan_Kowalski`
+   - Przykład: `5a_paint_jan_kowalski`
 
 2. W tym katalogu stwórz podfolder: `obrazki`
    - Zapisz tam wszystkie obrazki z każdego zadania
 
 3. W głównym katalogu `[klasa]_paint_[imie]_[nazwisko]` utwórz dokument MS Word o nazwie: `[klasa]_paint_[imie]_[nazwisko].docx`
-   - Przykład: `5a_paint_Jan_Kowalski.docx`
+   - Przykład: `5a_paint_jan_kowalski.docx`
    - Wklej do niego wszystkie obrazki (po jednym dla każdego zadania)
