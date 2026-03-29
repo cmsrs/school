@@ -122,6 +122,7 @@
 ----semestr II----
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/scratch/4b/README.md) - termin oddania: **20.02.2026**
 - [zadanie 5](https://github.com/cmsrs/school/blob/main/scratch/4c/README.md) - termin oddania: **20.03.2026**
+- [zadanie 6](https://github.com/cmsrs/school/blob/main/paint/4a/README.md) - termin oddania: **17.04.2026**
 
 ## Mój email:
 
