@@ -18,5 +18,5 @@ Twoim zadaniem będzie stworzenie obrazków w programie MS Paint. Szczegóły zn
 
 Zapisz obraz pod nazwą `[klasa]_paint_[imie]_[nazwisko].png` w katalogu `Docukenty`.
 
-**Przykład:** `4hpaintJan_Kowalski.png`
+**Przykład:** `4h_paint_jan_kowalski.png`
 Zajdziesz w [pliku](4h_robert_szczepanski.pdf).
