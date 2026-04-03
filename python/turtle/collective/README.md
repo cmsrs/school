@@ -62,24 +62,36 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
 
 ---
 
-mozesz skorzystac z nastepujacych stron:
-https://www.pythonsandbox.com/turtle
-https://trinket.io/turtle
+## 🌐 Możesz skorzystać z:
 
-## system oceniania:
+- https://www.pythonsandbox.com/turtle  
+- https://trinket.io/turtle  
 
-- narysowane ksztaly niezgodnie z rysunkiem i z bledami 2
-- poprawienie narysowane 6 wierszy 3+
-- poprawe uzycie funckcji, pętl, zmiennych 4 lub 5 w zaleznosci od poprawniosci
-- mozliwosc sparemetryzowania ilosci wierszy ortaz kolumn i dlugosci jednego kwadratu pozyzej 5+
+---
 
+## 📝 System oceniania
 
+- ❌ Błędne kształty / rysunek niezgodny z przykładem → **2**
+- ⚠️ Poprawne narysowanie części wzoru (np. 6 wierszy) → **3+**
+- ✅ Poprawne użycie:
+  - funkcji  
+  - pętli  
+  - zmiennych  
+  → **4 lub 5** (w zależności od jakości rozwiązania)
+- ⭐ Dodatkowo:
+  - możliwość zmiany liczby wierszy i kolumn  
+  - możliwość zmiany rozmiaru (np. długości boku)  
+  → **5+**
+
+---
 
 ## 💡 Wskazówki
 
 Zwróć uwagę na:
 - kształty (trójkąty / kwadraty / romby)
 - kolory
-- powtarzające się elementy (pętle!)
-- wykorzystaj modulo - reszte z dzielenia
-- wykorzystaj funkcje
+- powtarzające się elementy (**pętle!**)
+
+Spróbuj wykorzystać:
+- operator **modulo (%)** – reszta z dzielenia  
+- **funkcje** (żeby nie powtarzać kodu)
