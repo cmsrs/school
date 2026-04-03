@@ -72,7 +72,7 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
 ## 📝 System oceniania
 
 - ❌ Błędne kształty / rysunek niezgodny z przykładem → **2**
-- ⚠️ Poprawne narysowanie części wzoru (np. 6 wierszy) → **3+**
+- ⚠️ Poprawne narysowanie **co najmniej 6 wierszy wzoru** → **3+**
 - ✅ Poprawne użycie:
   - funkcji  
   - pętli  
