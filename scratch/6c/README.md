@@ -1,4 +1,4 @@
-# 🐍 Kompozycja w Sratch-u – ćwiczenie
+# 🐍 Kompozycja w Scratch-u – ćwiczenie
 
 ## 📥 Jak pobrać swój zestaw?
 
@@ -67,8 +67,8 @@ Stwórz program w Scratch-u, który
 - ❌ Błędne kształty / rysunek niezgodny z przykładem → **2**
 - ⚠️ Poprawne narysowanie **co najmniej 6 wierszy wzoru** → **3+**
 - ✅ Poprawne użycie:
-  - funkcji - (bloku instrukcji)
-  - pętli - (potórz ileś razy)
+  - funkcji (bloku instrukcji)
+  - pętli (powtórz ileś razy)
   - zmiennych  
   → **4 lub 5** (w zależności od jakości rozwiązania)
 - ⭐ Dodatkowo:
@@ -87,4 +87,4 @@ Zwróć uwagę na:
 
 Spróbuj wykorzystać:
 - operator **modulo (%)** – reszta z dzielenia  
-- **funkcje - bloki instrukcji** (żeby nie powtarzać kodu)
+- **funkcje / bloki instrukcji** (żeby nie powtarzać kodu)

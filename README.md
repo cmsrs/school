@@ -101,6 +101,8 @@
 - [zadanie 5a](https://github.com/cmsrs/school/blob/main/excel/collective/6/README.md) - arkusz **1** - termin oddania: **20.02.2026**
 - [zadanie 5b](https://github.com/cmsrs/school/blob/main/excel/collective/6/README.md) - arkusze **od 2 do 5** - termin oddania: **20.03.2026**
 - [zadanie 6](https://github.com/cmsrs/school/blob/main/basic/6a/README.md) - termin oddania: **17.04.2026**
+- [zadanie 7](https://github.com/cmsrs/school/blob/main/scratch/6c/README.md) - termin oddania: **15.05.2026**
+
 
 ## sp - klasa 5
 
