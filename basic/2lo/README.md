@@ -147,7 +147,7 @@ Twój dokument powinien zawierać:
 
 
 
-**Twój dokument powinien ściśle odpowiadać poniższemu szablonom dla Twojej liczby:**
+**Twój dokument powinien ściśle odpowiadać poniższemu szablonowi dla Twojej liczby:**
 
 [Pobierz szablon](https://raw.githubusercontent.com/cmsrs/school/main/basic/2lo/2lo_robert_szczepanski.pdf)
 
@@ -180,7 +180,7 @@ Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjona
 
 2. **W folderze utwórz katalog `obrazki`** i przenieś do niego swój plik z rozkładem na czynniki pierwsze:
    - plik w formacie **SVG lub PNG**
-   - nazwij go.: `rozklad.svg` lub `rozklad.png`
+   - nazwij go: `rozklad.svg` lub `rozklad.png`
 
 3. **Do folderu głównego włóż:**
    - gotowy plik Word (`.docx`)
@@ -210,7 +210,7 @@ Ocena końcowa zależy od poprawności wykonania zadania, estetyki oraz organiza
 | 5 | Wszystkie elementy wykonane poprawnie, brak błędów, estetyczny dokument, poprawna struktura folderów i nazewnictwo |
 | 4 | Obliczenia poprawne, drobne braki w estetyce lub nazewnictwie |
 | 3 | Występują błędy w obliczeniach lub nie wszystkie elementy zostały wykonane |
-| 2 | Zadanie  zostało wykonane bardzo niestarannie i zawiera poważne błędy |
+| 2 | Zadanie zostało wykonane bardzo niestarannie i zawiera poważne błędy |
 
 ### ⭐ Ocena celująca (6)
 
