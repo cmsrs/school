@@ -171,15 +171,26 @@ except ValueError:
 ```    
 
 ### Krok 4: Pakowanie i wysyłka (Deployment)
+
 Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjonalnie:
 
-1. **Stwórz folder** (również używając tylko małych liter i "podłogi"): `klasa_imie_nazwisko`
-   * Przykład: `2lo_jan_kowalski`
-2. **Do środka włóż:**
-   * Gotowy plik Word (`.docx`)
-   * Pobraną grafikę z Twojego zestawu
-3. **Zarchiwizuj dane:** Kliknij Prawym Przyciskiem Myszy na folder -> **Wyślij do** -> **Folder skompresowany (zip)**.
-4. **Finalizacja i Oddanie:** Gotowy plik `.zip` pokaż do oceny.
+1. **Stwórz folder** (używając tylko małych liter i "podłogi"):  
+   `klasa_imie_nazwisko`  
+   *Przykład:* `2lo_jan_kowalski`
+
+2. **W folderze utwórz katalog `obrazki`** i przenieś do niego swój plik z rozkładem na czynniki pierwsze:
+   - plik w formacie **SVG lub PNG**
+   - nazwij go.: `rozklad.svg` lub `rozklad.png`
+
+3. **Do folderu głównego włóż:**
+   - gotowy plik Word (`.docx`)
+   - pobraną grafikę z Twojego zestawu
+
+4. **Zarchiwizuj dane:**  
+   Kliknij prawym przyciskiem myszy na folder → **Wyślij do → Folder skompresowany (zip)**
+
+5. **Finalizacja i oddanie:**  
+   Gotowy plik `.zip` pokaż do oceny.
 
 
 > ### ⚠️ WAŻNA ZASADA (PRO TIP):
