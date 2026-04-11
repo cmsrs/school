@@ -69,7 +69,7 @@ Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawneg
    * Przykład: `2lo_jan_kowalski.docx`
 ---
 
-### Krok 2: Obliczenia systemów liczbowych
+### Krok 2a: Obliczenia systemów liczbowych
 Musisz wyznaczyć swoją **liczbę bazową** i pokazać proces jej zamiany.
 
 1. **Twoja liczba:** Do swojego numeru z dziennika dodaj **100**.  
@@ -96,7 +96,7 @@ Jeśli masz już wynik binarny, możesz zamienić go na Hex i Oct w kilka sekund
 
 *Wskazówka: Aby w Wordzie napisać potęgę (indeks górny), użyj skrótu `Ctrl` + `Shift` + `+`.*
 
-### Krok 2 (cd.): Szablon dokumentu Word
+### Krok 2a (cd.): Szablon dokumentu Word (pierwsza strona)
 Twój dokument powinien zawierać:
 
 1. **Nagłówek** – pobrany obraz z Twojego zestawu
@@ -111,6 +111,41 @@ Twój dokument powinien zawierać:
     * Podziel swoją liczbę przez 2 i zapisz resztę (0 lub 1)
     * Powtarzaj proces z wynikiem dzielenia, aż dojdziesz do 0
     * Czytaj reszty **od dołu do góry** – to Twój wynik binarny
+
+
+### Krok 2b: Rozkład na czynniki pierwsze (druga strona)
+
+1. **Weź swoją liczbę bazową** (numer z dziennika + 100).
+2. **Rozłóż ją na czynniki pierwsze metodą „pod kreską” (dzielenie):**
+   Przykład dla liczby 112:
+
+![Rozkład](rozklad112.svg)
+
+3. **Wykonaj rysunek przedstawiający rozkład „pod kreską”:**
+    - liczby po lewej stronie
+    - dzielniki po prawej stronie
+    - pionowa kreska między nimi
+    - zachowaj czytelne wyrównanie (estetyka ma znaczenie)
+4. **Zaznacz liczby pierwsze:**
+    - wszystkie dzielniki (po prawej stronie) zaznacz **czerwonym kolorem**
+    - zaznaczenie wykonaj poprzez **kółko**
+5. **Wklej gotowy rysunek do dokumentu Word**
+
+
+### 💡 Wskazówki
+
+- Zawsze zaczynaj dzielenie od liczby 2  
+- Jeśli nie da się podzielić – spróbuj 3, potem 5, 7 itd.  
+- Kończysz, gdy otrzymasz 1  
+- Wszystkie liczby po prawej stronie to **liczby pierwsze**
+
+### 🧩 Wymagania techniczne
+
+- Rysunek powinien być wykonany w programie **Inkscape (format SVG)** – jest to **preferowana opcja**
+- Możesz również wykonać rysunek w **MS Paint** (alternatywa)
+- Rysunek musi być czytelny i estetyczny (wyrównanie, odstępy)
+
+
 
 **Twój dokument powinien ściśle odpowiadać poniższemu szablonom dla Twojej liczby:**
 
@@ -155,13 +190,20 @@ Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjona
 > 4. Spakuj folder jeszcze raz.
 ---
 
-### Kryteria oceny (Checklista)
-| Zadanie | Punkty |
-| :--- | :---: |
-| [ ] Plik Word i folder nazwane zgodnie ze schematem | 1 pkt |
-| [ ] Poprawny zapis sumy potęg binarnej w Wordzie | 2 pkt |
-| [ ] Prawidłowe wyniki dla systemów HEX i OCT | 1 pkt |
-| [ ] Poprawnie utworzone archiwum ZIP | 1 pkt |
+### Kryteria oceny
+
+Ocena końcowa zależy od poprawności wykonania zadania, estetyki oraz organizacji plików.
+
+| Ocena | Kryteria |
+| :---: | --- |
+| 5 | Wszystkie elementy wykonane poprawnie, brak błędów, estetyczny dokument, poprawna struktura folderów i nazewnictwo |
+| 4 | Obliczenia poprawne, drobne braki w estetyce lub nazewnictwie |
+| 3 | Występują błędy w obliczeniach lub nie wszystkie elementy zostały wykonane |
+| 2 | Zadanie  zostało wykonane bardzo niestarannie i zawiera poważne błędy |
+
+### ⭐ Ocena celująca (6)
+
+Uczeń może otrzymać ocenę 6 za wykonanie zadania w systemie składu tekstu **LaTeX**.
 
 
 ### 🐍 Kod źródłowy: Jak działa ten system?
