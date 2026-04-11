@@ -1,4 +1,4 @@
-# Zadanie: Architektura informacji i systemy liczbowe
+# Zadanie: Systemy liczbowe i rozkład na czynniki pierwsze
 
 Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawnego nazewnictwa zasobów oraz konwersji liczb między systemami, które stanowią fundament informatyki.
 
