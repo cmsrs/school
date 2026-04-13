@@ -190,8 +190,9 @@ Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjona
    Kliknij prawym przyciskiem myszy na folder → **Wyślij do → Folder skompresowany (zip)**
 
 5. **Finalizacja i oddanie:**  
-   Gotowy plik `.zip` pokaż do oceny.
-
+    Gotowy plik `.zip` zapisz w folderze `Dokumenty` lub na pendrive (jeśli go używasz).
+    Plik wynikowy musi mieć nazwę w formacie:
+    `klasa_imie_nazwisko.zip`, np. `2lo_jan_kowalski.zip`
 
 > ### ⚠️ WAŻNA ZASADA (PRO TIP):
 > Jeśli po spakowaniu folderu do ZIP przypomnisz sobie, że musisz coś poprawić w Wordzie:
@@ -231,4 +232,6 @@ for nr in range(1, 41):
 ```
 
 > **Uwaga:** Struktura plików oraz nazewnictwo są kluczowe dla oceny. Dokument musi ściśle odpowiadać plikowi przykładowemu. Błędy w organizacji folderu lub nazewnictwie plików będą skutkować stratą punktów.
+
+> W zadaniu można korzystać z AI oraz wyszukiwarek internetowych, jednak ich rolą jest wsparcie, a nie zastąpienie pracy własnej. Najwyżej oceniane będą rozwiązania, które pokazują zrozumienie i samodzielne myślenie.
 
