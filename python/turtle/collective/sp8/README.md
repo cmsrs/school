@@ -72,11 +72,13 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
 ## 📝 System oceniania
 
 - ❌ Błędne kształty / rysunek niezgodny z przykładem → **2**
-- ⚠️ Poprawne narysowanie **co najmniej 6 wierszy wzoru** → **3+**
+- ⚠️ Poprawne narysowanie **co najmniej 6 wierszy wzoru** → **3**
 - ✅ Poprawne użycie:
   - funkcji  
   - pętli  
   - zmiennych  
+  - list 
+  - warunków
   → **4 lub 5** (w zależności od jakości rozwiązania)
 - ⭐ Dodatkowo:
   - możliwość zmiany liczby wierszy i kolumn  
@@ -84,6 +86,11 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
   → **5+**
 
 ---
+
+## 📌 Dodatkowe wytyczne
+
+**W ostatnich 4 wierszach** wzoru (dolna część rysunku) użyj **listy**, która określi, w których kolumnach należy narysować kwadraty.
+
 
 ## 💡 Wskazówki
 
