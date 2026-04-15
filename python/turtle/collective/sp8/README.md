@@ -89,7 +89,7 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
 
 ## 📌 Dodatkowe wytyczne
 
-**W ostatnich 4 wierszach** wzoru (dolna część rysunku) użyj **listy**, która określi, w których kolumnach należy narysować kwadraty.
+**W ostatnich 4 wierszach wzoru (dolna część rysunku)** użyj **listy**, która określi, w których kolumnach należy narysować kwadraty.
 
 
 ## 💡 Wskazówki
