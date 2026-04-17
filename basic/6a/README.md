@@ -17,12 +17,12 @@ Nazwę folderu zapisz małymi literami, bez polskich znaków i spacji.
 ### 2. Dodaj folder na obrazki
 W utworzonym folderze stwórz podfolder o nazwie:
 ```
-imgs
+obrazki
 ```
-W tym folderze umieść **jeden obrazk**, który później wstawisz do swojej prezentacji w Wordzie.
+W tym folderze umieść **obrazk/i**, który później wstawisz do swojej prezentacji w PowerPoint.
 
-### 3. Przygotuj prezentację w Wordzie lub PowerPoint
-Wybierz jeden z poniższych tematów i opracuj prezentację w programie Microsoft Word lub PowerPoint:
+### 3. Przygotuj prezentację w PowerPoint
+Wybierz jeden z poniższych tematów i opracuj prezentację w programie PowerPoint:
 - Moja klasa
 - Zdrowe odżywianie
 - Starożytny Egipt
@@ -48,7 +48,7 @@ Poza walorami przyrodniczymi Kampinos kryje również bogatą historię. W czasi
 Dzięki bliskości Warszawy Kampinoski Park Narodowy jest idealnym miejscem na weekendowe wypady dla mieszkańców stolicy. Jego unikalna przyroda i spokój sprawiają, że każdy znajdzie tu coś dla siebie – od wyciszających spacerów, przez rowerowe eskapady, aż po fotograficzne plenery w otoczeniu dzikiej przyrody.
 ```
 
-### 4. Dodaj obrazki do prezentacji
+### 4. Dodaj obrazk/i do prezentacji
 Wstaw obraz z folderu imgs do dokumentu. Pod każdym z nich zamieść informację o źródle, na przykład adres strony internetowej, z której obrazek pochodzi, lub oznaczenie, że jest to obrazek własny.
 
 Pod każdym obrazkiem dodaj następującą notatkę:
