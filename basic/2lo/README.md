@@ -126,9 +126,11 @@ Twój dokument powinien zawierać:
     - dzielniki po prawej stronie
     - pionowa kreska między nimi
     - zachowaj czytelne wyrównanie (estetyka ma znaczenie)
-4. **Zaznacz liczby pierwsze:**
-    - wszystkie dzielniki (po prawej stronie) zaznacz **czerwonym kolorem**
-    - zaznaczenie wykonaj poprzez **kółko**
+4. **Zaznacz wszystkie liczby pierwsze:**
+    - wszystkie liczby po prawej stronie (dzielniki) będące liczbami pierwszymi
+    - oraz przedostatnią liczbę po lewej stronie
+    - zaznaczenie wykonaj poprzez otoczenie liczby czerwonym kółkiem
+
 5. **Wklej gotowy rysunek do dokumentu Word**
 
 
