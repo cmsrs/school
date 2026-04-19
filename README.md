@@ -29,7 +29,7 @@
 - [zadanie 4a](https://github.com/cmsrs/school/blob/main/sql/access1/README.md) - termin oddania: **20.03.2026**
 - [zadanie 4b](https://github.com/cmsrs/school/blob/main/sql/access2/README.md) - termin oddania: **17.04.2026**
 - [zadanie 4c - dodatkowe](https://github.com/cmsrs/school/blob/main/sql/access_dodatkowe/README.md) - termin oddania: **17.04.2026**
-
+- [zadanie 5](https://github.com/cmsrs/school/blob/main/basic/3lo/README.md) - termin oddania: **15.05.2026**
 
 ## lo - klasa 2
 
