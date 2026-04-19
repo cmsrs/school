@@ -1,4 +1,4 @@
-# Zadanie: Systemy liczbowe i rozkład na czynniki pierwsze
+# Zadanie: Szyfr Cezara, NWD, NWW i Działania Matematyczne
 
 Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawnego nazewnictwa zasobów oraz zastosowanie Szyfru Cezara, NWD i działań matematyczn opartych o NWD i NWW
 
@@ -120,7 +120,7 @@ Wykonaj poniższe działania dla obliczonych wartości `a` i `b`, oraz dla `m = 
 1. **Dzielenie:** `a / b`
 2. **Wyrażenie ułamkowe:** `m/a + n/b`
 
-Wynik podaj w postaci ułamka nieskracalnego, przyjmij: m=2 i n=3
+Wynik podaj w postaci ułamka nieskracalnego
 
 ---
 
@@ -142,13 +142,18 @@ Wynik podaj w postaci ułamka nieskracalnego, przyjmij: m=2 i n=3
 - Pamiętaj o kolejności działań przy obliczaniu wyrażeń ułamkowych
 - W katalogu ['./helpers'](./helpers) znajdują się pomocne skrypty
 
+## Dodatkowe pliki do pobrania i wklejenia do dokumentu MS Word
+
+Poniższe pliki należy pobrać i wstawić do dokumentu MS Word:
+
+- [Diagram NWD – wersja z dzieleniem](./obrazki/diagram_nwd_dzielenie.svg)  
+- [Diagram NWD – wersja z odejmowaniem](./obrazki/diagram_nwd_odejmowanie.svg)
 
 ### 🧩 Wymagania techniczne
 
 - Rysunek powinien być wykonany w programie **Inkscape (format SVG)** – jest to **preferowana opcja**
 - Możesz również wykonać rysunek w **MS Paint** (alternatywa)
 - Rysunek musi być czytelny i estetyczny (wyrównanie, odstępy)
-
 
 
 **Twój dokument powinien ściśle odpowiadać poniższemu szablonowi dla Twojej liczby:**
@@ -164,9 +169,14 @@ Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjona
    `klasa_imie_nazwisko`  
    *Przykład:* `3lo_jan_kowalski`
 
-2. **W folderze utwórz katalog `obrazki`** i przenieś do niego swój plik z rozkładem na czynniki pierwsze:
-   - plik w formacie **SVG lub PNG**
-   - nazwij go: `rozklad.svg` lub `rozklad.png`
+2. **Organizacja plików**
+    W folderze głównym utwórz katalog o nazwie `obrazki`, a następnie przenieś do niego plik przedstawiający rozkład na czynniki pierwsze Twoich liczb bazowych.
+
+    W każdym rozkładzie zaznacz liczby pierwsze, które powtarzają się w obu rozkładach, poprzez ich oznaczenie czerwonymi kółkami.
+
+    **Wymagania dotyczące pliku:**
+    - format: **SVG lub PNG**
+    - nazwa pliku: `rozklad.svg` lub `rozklad.png`
 
 3. **Do folderu głównego włóż:**
    - gotowy plik Word (`.docx`)
