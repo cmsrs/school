@@ -1,6 +1,6 @@
 # Zadanie: Systemy liczbowe i rozkład na czynniki pierwsze
 
-Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawnego nazewnictwa zasobów oraz konwersji liczb między systemami, które stanowią fundament informatyki.
+Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawnego nazewnictwa zasobów oraz zastosowanie Szyfru Cezara, NWD i działań matematyczn opartych o NWD i NWW
 
 ---
 
@@ -66,80 +66,82 @@ Celem zadania jest przećwiczenie precyzyjnego wykonywania instrukcji, poprawneg
 4. **Zapisz plik**, stosując wyłącznie **małe litery**, bez polskich znaków i bez spacji.
    * Zamiast spacji użyj tzw. **podłogi** (podkreślnika) `_`.
    * Schemat nazwy: `klasa_imie_nazwisko.docx`
-   * Przykład: `2lo_jan_kowalski.docx`
+   * Przykład: `3lo_jan_kowalski.docx`
 ---
 
-### Krok 2a: Obliczenia systemów liczbowych
-Musisz wyznaczyć swoją **liczbę bazową** i pokazać proces jej zamiany.
+### Krok 2: Przygotowanie dokumentacji (MS Word)
 
-1. **Twoja liczba:** Do swojego numeru z dziennika dodaj **100**.  
-   *(Przykład: Numer 12 + 100 = Twoja liczba to 112)*
-2. **System Binarny (Dwójkowy):** W dokumencie Word rozpisz swoją liczbę jako sumę potęg liczby 2.
-   * Skorzystaj z tabeli pomocniczej poniżej.
-   * Przykład zapisu dla liczby 13:  
-     $13 = 8 + 4 + 1 = 1 \cdot 2^3 + 1 \cdot 2^2 + 0 \cdot 2^1 + 1 \cdot 2^0 \rightarrow \mathbf{1101_2}$
-3. **Systemy Hex i Oct:** Podaj wynik zamiany swojej liczby na system szesnastkowy (Hex) oraz ósemkowy (Oct).
+#### Część 1: Szyfr Cezara
+Zaszyfruj swoje imię szyfrem Cezara **z kluczem 2**. 
 
-**Tabela pomocnicza (Wagi bitów):**
-| $2^7$ | $2^6$ | $2^5$ | $2^4$ | $2^3$ | $2^2$ | $2^1$ | $2^0$ |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+**Dozwolone znaki:**
+```
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+```
 
+**Przykład:** 
+- Imię: `ANNA`
+- Zaszyfrowane: `CPPC` (każda litera przesunięta o 2 pozycje)
 
-### 💡 Pro Tip: Szybka zamiana (bez dzielenia!)
-Jeśli masz już wynik binarny, możesz zamienić go na Hex i Oct w kilka sekund:
+---
 
-* **System Ósemkowy (Oct):** Podziel swój ciąg binarny na grupy po **3 cyfry** (licząc od prawej!). Każdej grupie przypisz wartość (4, 2, 1).
-    * Przykład: `100 001 000` -> `4 1 0` -> **410₈**
-* **System Szesnastkowy (Hex):** Podziel ciąg na grupy po **4 cyfry** (licząc od prawej!). Każdej grupie przypisz wartość (8, 4, 2, 1).
-    * Przykład: `1000 0100` -> `8 4` -> **84₁₆**
+#### Część 2: Obliczenie NWD
+Oblicz **Największy Wspólny Dzielnik (NWD)** na **3 sposoby** dla liczb:
 
-*Wskazówka: Aby w Wordzie napisać potęgę (indeks górny), użyj skrótu `Ctrl` + `Shift` + `+`.*
+- `a = 200 + nr_z_librusa`
+- `b = 300 + nr_z_librusa`
 
-### Krok 2a (cd.): Szablon dokumentu Word (pierwsza strona)
-Twój dokument powinien zawierać:
+**Sposoby:**
 
-1. **Nagłówek** – pobrany obraz z Twojego zestawu
-2. Pod nagłówkiem wpisz swoje imię i nazwisko, klasę oraz numer w dzienniku Librus.
-3. **Sekcja obliczeń:**
-    - Liczba bazowa: `Twój numer + 100`
-    - Rozkład binarny (potęgi liczby 2)
-    - Wynik w systemie binarnym
-    - Wynik w systemie ósemkowym (Oct)
-    - Wynik w systemie szesnastkowym (Hex)
-4. **Tabela zamiany liczby dziesiętnej na system binarny za pomocą dzielenia przez 2**
-    * Podziel swoją liczbę przez 2 i zapisz resztę (0 lub 1)
-    * Powtarzaj proces z wynikiem dzielenia, aż dojdziesz do 0
-    * Czytaj reszty **od dołu do góry** – to Twój wynik binarny
+##### Metoda 1: Szkolna (rozkład na czynniki pierwsze)
+Rozłóż obie liczby na czynniki pierwsze i znajdź wspólne.
 
+##### Metoda 2: Algorytm Euklidesa (odejmowanie)
+Odejmuj mniejszą liczbę od większej, dopóki nie otrzymasz dwie identyczne liczby.
 
-### Krok 2b: Rozkład na czynniki pierwsze (druga strona)
+##### Metoda 3: Algorytm Euklidesa (dzielenie)
+Używaj reszty z dzielenia, aż do otrzymania reszty 0.
 
-1. **Weź swoją liczbę bazową** (numer z dziennika + 100).
-2. **Rozłóż ją na czynniki pierwsze metodą „pod kreską” (dzielenie):**
-   Przykład dla liczby 112:
+---
 
-![Rozkład](rozklad112.svg)
+#### Część 3: Obliczenie NWW
+Oblicz **Najmniejszą Wspólną Wielokrotność (NWW)** dla tych samych liczb `a` i `b`.
 
-3. **Wykonaj rysunek przedstawiający rozkład „pod kreską”:**
-    - liczby po lewej stronie
-    - dzielniki po prawej stronie
-    - pionowa kreska między nimi
-    - zachowaj czytelne wyrównanie (estetyka ma znaczenie)
-4. **Zaznacz wszystkie liczby pierwsze:**
-    - wszystkie liczby po prawej stronie (dzielniki) będące liczbami pierwszymi
-    - oraz przedostatnią liczbę po lewej stronie
-    - zaznaczenie wykonaj poprzez otoczenie liczby czerwonym kółkiem
+**Wzór:**
+```
+NWW(a, b) = (a × b) / NWD(a, b)
+```
 
-5. **Wklej gotowy rysunek do dokumentu Word**
+---
+
+#### Część 4: Działania Matematyczne
+Wykonaj poniższe działania dla obliczonych wartości `a` i `b`, oraz dla `m = 2` i `n = 3`:
+
+1. **Dzielenie:** `a / b`
+2. **Wyrażenie ułamkowe:** `m/a + n/b`
+
+Wynik podaj w postaci ułamka nieskracalnego, przyjmij: m=2 i n=3
+
+---
 
 
-### 💡 Wskazówki
+## 📌 Kryteria Oceny
 
-- Zawsze zaczynaj dzielenie od liczby 2  
-- Jeśli nie da się podzielić – spróbuj 3, potem 5, 7 itd.  
-- Kończysz, gdy otrzymasz 1  
-- Wszystkie liczby po prawej stronie to **liczby pierwsze**
+- ✅ Prawidłowe zaszyfrowanie imienia
+- ✅ Prawidłowe obliczenie NWD na wszystkie 3 sposoby
+- ✅ Prawidłowe obliczenie NWW
+- ✅ Prawidłowe wykonanie działań matematycznych
+- ✅ Jasne i czytelne przedstawienie obliczeń
+
+---
+
+## 💡 Wskazówki
+
+- Zapisz wszystkie kroki obliczeń - sam wynik to za mało!
+- Sprawdź, czy wszystkie trzy metody obliczenia NWD dają ten sam wynik
+- Pamiętaj o kolejności działań przy obliczaniu wyrażeń ułamkowych
+- W katalogu ['./helpers'](./helpers) znajdują się pomocne skrypty
+
 
 ### 🧩 Wymagania techniczne
 
@@ -153,32 +155,14 @@ Twój dokument powinien zawierać:
 
 [Pobierz szablon](https://raw.githubusercontent.com/cmsrs/school/main/basic/3lo/3lo_robert_szczepanski.pdf)
 
----
 
-### Krok 3: Automatyczna weryfikacja (Python)
-Programiści nie liczą wszystkiego ręcznie – tworzą narzędzia. Użyj poniższego kodu, aby sprawdzić, czy Twoje obliczenia w Wordzie są poprawne.
-
-1. Skopiuj kod:
-```python
-# Tester systemów liczbowych
-try:
-    liczba = int(input("Wpisz swoją liczbę bazową (numer + 100): "))
-    print(f"\n--- WYNIKI DLA LICZBY {liczba} ---")
-    print(f"BIN (Dwójkowy): {bin(liczba)[2:]}")
-    print(f"OCT (Ósemkowy): {oct(liczba)[2:]}")
-    print(f"HEX (Szesnastkowy): {hex(liczba)[2:].upper()}")
-    print("-" * 25)
-except ValueError:
-    print("Błąd: Wpisz poprawną liczbę całkowitą!")
-```    
-
-### Krok 4: Pakowanie i wysyłka (Deployment)
+### Krok 3: Pakowanie i wysyłka (Deployment)
 
 Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjonalnie:
 
 1. **Stwórz folder** (używając tylko małych liter i "podłogi"):  
    `klasa_imie_nazwisko`  
-   *Przykład:* `2lo_jan_kowalski`
+   *Przykład:* `3lo_jan_kowalski`
 
 2. **W folderze utwórz katalog `obrazki`** i przenieś do niego swój plik z rozkładem na czynniki pierwsze:
    - plik w formacie **SVG lub PNG**
@@ -194,7 +178,7 @@ Informatyka to porządek w plikach. Twoje zadanie musi być spakowane profesjona
 5. **Finalizacja i oddanie:**  
     Gotowy plik `.zip` zapisz w folderze `Dokumenty` lub na pendrive (jeśli go używasz).
     Plik wynikowy musi mieć nazwę w formacie:
-    `klasa_imie_nazwisko.zip`, np. `2lo_jan_kowalski.zip`
+    `klasa_imie_nazwisko.zip`, np. `3lo_jan_kowalski.zip`
 
 > ### ⚠️ WAŻNA ZASADA (PRO TIP):
 > Jeśli po spakowaniu folderu do ZIP przypomnisz sobie, że musisz coś poprawić w Wordzie:
@@ -219,19 +203,6 @@ Ocena końcowa zależy od poprawności wykonania zadania, estetyki oraz organiza
 
 Uczeń może otrzymać ocenę 6 za wykonanie zadania w systemie składu tekstu **LaTeX**.
 
-
-### 🐍 Kod źródłowy: Jak działa ten system?
-Dla zainteresowanych – oto jak wygląda kod, który generuje poprawne wyniki dla całej klasy w mniej niż 0.1 sekundy. Możecie go uruchomić, aby zobaczyć magię automatyzacji.
-
-```python
-# Generator arkusza ocen (Teacher's Tool)
-print(f"{'Nr':<3} | {'Liczba':<6} | {'BIN':<10} | {'HEX':<5} | {'OCT':<5}")
-print("-" * 40)
-
-for nr in range(1, 41):
-    liczba = nr + 100
-    print(f"{nr:<3} | {liczba:<6} | {bin(liczba)[2:]:<10} | {hex(liczba)[2:].upper():<5} | {oct(liczba)[2:]:<5}")
-```
 
 > **Uwaga:** Struktura plików oraz nazewnictwo są kluczowe dla oceny. Dokument musi ściśle odpowiadać plikowi przykładowemu. Błędy w organizacji folderu lub nazewnictwie plików będą skutkować stratą punktów.
 
