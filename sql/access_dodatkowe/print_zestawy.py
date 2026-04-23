@@ -2,7 +2,7 @@
 user = "cmsrs"
 repo = "school"
 branch = "main"
-path_in_repo = "sql/access/zestawienia/zipy"
+path_in_repo = "sql/access_dodatkowe/zestawienia/zipy"
 
 print("### 📥 Pobierz swój zestaw danych\n")
 
