@@ -1,7 +1,7 @@
 # 📊 Zadanie 2 uproszczone (zadanie na ocene 4): System ocen w klasie
 
 ## KROK 1: Pobierz i otwórz szablon
-1. Pobierz plik: **[szablon_klasa.accdb](https://raw.githubusercontent.com/cmsrs/school/main/sql/access2_proste/szablon_klasa_uczniowie_oceny.accdb)**
+1. Pobierz plik: **[szablon_klasa_uczniowie_oceny.accdb](https://raw.githubusercontent.com/cmsrs/school/main/sql/access2_proste/szablon_klasa_uczniowie_oceny.accdb)**
 2. Zapisz jako: **moja_klasa_oceny_[nazwisko].accdb** (w miejsce `[nazwisko]` wpisz swoje nazwisko)
 
 ## KROK 2: Wpisz dane uczniów
