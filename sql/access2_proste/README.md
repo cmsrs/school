@@ -51,8 +51,21 @@ Otwórz tabelę **uczniowie** i wpisz 7 osób:
 8. Kliknij **Uruchom** (czerwony wykrzyknik ✓)
 9. Zapisz zapytanie jako: `liczba_ocen_ucznia`
 
-## Zadanie na ocene 5
+## Zadanie na ocenę 5
 
-Strzórz tabele `przemioty` o kolumnach id (autonumerowanie) oraz 'nazwa_przedmiotu'
-Następnie w tabeli `uczniowie` strzórz kolumne `przedmiot_id` i połącz ja relecją z tabelą `przedmioty` z kolumną `id`.
+1. Stwórz tabelę `przedmioty` o kolumnach:
+   - id (autonumerowanie, klucz główny)
+   - nazwa_przedmiotu (krótki tekst)
 
+2. Dodaj kilka przedmiotów (np. matematyka, polski, WF)
+
+3. W tabeli `oceny` dodaj kolumnę `przedmiot_id`
+
+4. Połącz relacją:
+   oceny.przedmiot_id → przedmioty.id
+
+5. (dla chętnych)
+   Zmodyfikuj zapytanie tak, aby zamiast nazwy przedmiotu z tekstu korzystało z tabeli `przedmioty`
+
+   > Opcjonalnie usuń kolumnę przedmiot z tekstu lub przestań jej używać
+   > Dlaczego lepiej mieć tabelę przedmiotów niż wpisywać nazwę ręcznie?
