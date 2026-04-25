@@ -2,7 +2,7 @@
 
 Stworz obezek podobny do tego:
 
-![Akwarium](akwarium4.jpg)  
+![Akwarium](akwarium4.png)  
 
 Możesz wzrorować się na filmie:
 
