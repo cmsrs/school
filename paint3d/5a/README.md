@@ -4,9 +4,9 @@ Twoim zadaniem jest stworzenie pracy graficznej w programie **Paint 3D**.
 
 ---
 
-## 🐠 Cel zadania
+## 🍇 Cel zadania
 
-Stwórz obraz przedstawiający akwarium **jak najbardziej podobny do przykładu poniżej**.
+Stwórz obraz przedstawiający **owoce** jak najbardziej podobny do przykładu poniżej.
 
 Zwróć uwagę na:
 - rozmieszczenie elementów
@@ -25,10 +25,9 @@ Zwróć uwagę na:
 
 Twoja praca powinna zawierać:
 
-- na górze napisz czerwoną czcionką swoje imie i nazwisko oraz klasę
-- model 3D strąka zielonego grochu
-- model kiści winogron
-
+- na górze napisz **czerwoną czcionką** swoje imię, nazwisko oraz klasę
+- model 3D **strąka zielonego grochu**
+- model 3D **kiści winogron**
 
 📢 **Ważne:** Postaraj się, aby praca była **jak najbardziej podobna do wzoru**.
 
@@ -36,8 +35,8 @@ Twoja praca powinna zawierać:
 
 ## ⭐ Dla chętnych
 
-- dodaj dodatkowe elementy np. więcej rybek, dekoracje
-- popraw szczegóły np. cienie, kolory
+- dodaj dodatkowe elementy (np. inne owoce, dekoracje)
+- popraw szczegóły (np. cienie, kolory)
 
 ---
 
@@ -45,6 +44,8 @@ Twoja praca powinna zawierać:
 
 - zapisz plik jako **PNG lub JPG**
 - nazwij plik: `owoce_imie_nazwisko.png`
+
+---
 
 ## ℹ️ Informacja
 
