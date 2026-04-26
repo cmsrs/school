@@ -1,9 +1,53 @@
-# Paint 3d:
+# 🎨 Paint 3D – zadanie: Akwarium
 
-Stworz obezek podobny do tego:
+Twoim zadaniem jest stworzenie pracy graficznej w programie **Paint 3D**.
 
-![Akwarium](akwarium4.png)  
+---
 
-Możesz wzrorować się na filmie:
+## 🐠 Cel zadania
+
+Stwórz obraz przedstawiający akwarium **jak najbardziej podobny do przykładu poniżej**.
+
+Zwróć uwagę na:
+- rozmieszczenie elementów
+- kolory
+- szczegóły
+
+---
+
+## 🖼️ Wzór pracy
+
+![Akwarium](akwarium4.png)
+
+---
+
+## 🎬 Film pomocniczy
 
 https://www.youtube.com/watch?v=ir7681vtmFY
+
+---
+
+## 📌 Wymagania
+
+Twoja praca powinna zawierać:
+
+- co najmniej **4 rybki**
+- tło (woda)
+- rośliny wodne
+- dno akwarium np. piasek
+
+📢 **Ważne:** Postaraj się, aby praca była **jak najbardziej podobna do wzoru**.
+
+---
+
+## ⭐ Dla chętnych
+
+- dodaj dodatkowe elementy np. więcej rybek, dekoracje
+- popraw szczegóły np. cienie, kolory
+
+---
+
+## 💾 Oddanie pracy
+
+- zapisz plik jako **PNG lub JPG**
+- nazwij plik: `akwarium_imie_nazwisko.png`
