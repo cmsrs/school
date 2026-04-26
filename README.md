@@ -117,6 +117,7 @@
 - [zadanie 4](https://github.com/cmsrs/school/blob/main/basic/5a/README.md) - termin oddania: **20.02.2026**
 - [zadanie 5](https://github.com/cmsrs/school/blob/main/basic/5b/README.md) - termin oddania: **20.03.2026**
 - [zadanie 6](https://github.com/cmsrs/school/blob/main/paint/5a/README.md) - termin oddania: **17.04.2026**
+- [zadanie 7](https://github.com/cmsrs/school/blob/main/paint3d/5a/README.md) - termin oddania: **15.05.2026**
 
 ## sp - klasa 4
 
