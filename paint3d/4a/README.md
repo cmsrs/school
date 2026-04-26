@@ -51,3 +51,7 @@ Twoja praca powinna zawierać:
 
 - zapisz plik jako **PNG lub JPG**
 - nazwij plik: `akwarium_imie_nazwisko.png`
+
+## ℹ️ Informacja
+
+Zadanie zostało opracowane na podstawie materiałów dla klasy 4 z podręcznika wydawnictwa **Migra**.
