@@ -140,7 +140,6 @@ Wynik podaj w postaci ułamka nieskracalnego
 - Zapisz wszystkie kroki obliczeń - sam wynik to za mało!
 - Sprawdź, czy wszystkie trzy metody obliczenia NWD dają ten sam wynik
 - Pamiętaj o kolejności działań przy obliczaniu wyrażeń ułamkowych
-- W katalogu ['./helpers'](./helpers) znajdują się pomocne skrypty
 
 ## Dodatkowe pliki do pobrania i wklejenia do dokumentu MS Word
 
@@ -209,6 +208,81 @@ Ocena końcowa zależy od poprawności wykonania zadania, estetyki oraz organiza
 | 3 | Występują błędy w obliczeniach lub nie wszystkie elementy zostały wykonane |
 | 2 | Zadanie zostało wykonane bardzo niestarannie i zawiera poważne błędy |
 
+
+### Pomocne skrypty:
+
+## Szyfr Cezara
+
+```python
+key = 2
+plaintext = "FILIP"
+
+#print( ord("A") ) # 65
+#print( chr(65) ) # A
+#print( ord("B") ) # 66
+#print( ord("Z") ) # 90
+
+
+# Encrypt
+def encrypt_caesar_cipher(plaintext, key):
+    ciphertext = ""
+    for i in range(len(plaintext)):
+        code = ord(plaintext[i]) + key
+        print( code  )
+        if code > 90: #ord("Z") = 90
+            code -= 26
+
+        ciphertext =ciphertext +   chr(code)
+    return ciphertext
+
+
+cipherText = encrypt_caesar_cipher(plaintext, key)
+print( cipherText   )
+```  
+## NWD odejmowanie
+
+```python
+def nwd_odejmowanie(a, b):
+    while a != b:
+        print(f"a={a}, b={b}")
+        if a > b:
+            a -= b
+        else:
+            b -= a
+    print(f"a={a}, b={b}")
+    return a
+
+number_librus = 40
+a = number_librus + 200
+b = number_librus + 300
+
+nwd_odejmowanie(a, b)
+```  
+
+## NWD dzielenie
+
+```python
+def nwd(a, b):    
+    while b:
+        print(f"a={a}, b={b}")
+        #a, b = b, a % b
+        r = a % b
+        a = b
+        b = r
+    print(f"a={a}, b={b}")        
+    return a
+
+
+
+number_librus = 40
+a = number_librus + 200
+b = number_librus + 300
+
+
+nwd(a, b)
+```  
+> Uwaga: W katalogu ['./helpers'](./helpers) znajdują się pomocne skrypty
+
 ### ⭐ Ocena celująca (6)
 
 Uczeń może otrzymać ocenę 6 za wykonanie zadania w systemie składu tekstu **LaTeX**.
@@ -217,4 +291,8 @@ Uczeń może otrzymać ocenę 6 za wykonanie zadania w systemie składu tekstu *
 > **Uwaga:** Struktura plików oraz nazewnictwo są kluczowe dla oceny. Dokument musi ściśle odpowiadać plikowi przykładowemu. Błędy w organizacji folderu lub nazewnictwie plików będą skutkować stratą punktów.
 
 > W zadaniu można korzystać z AI oraz wyszukiwarek internetowych, jednak ich rolą jest wsparcie, a nie zastąpienie pracy własnej. Najwyżej oceniane będą rozwiązania, które pokazują zrozumienie i samodzielne myślenie.
+
+
+
+
 
