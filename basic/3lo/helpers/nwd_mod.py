@@ -1,7 +1,10 @@
 def nwd(a, b):    
     while b:
         print(f"a={a}, b={b}")
-        a, b = b, a % b
+        #a, b = b, a % b
+        r = a % b
+        a = b
+        b = r
     print(f"a={a}, b={b}")        
     return a
 
