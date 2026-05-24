@@ -64,7 +64,7 @@ Napisz program w Pythonie (używając biblioteki **turtle** 🐢), który:
 
 ## 🌐 Możesz skorzystać z:
 
-- https://www.pythonsandbox.com/turtle  
+- https://pythonsandbox.com/turtle
 - https://trinket.io/turtle  
 
 ---
